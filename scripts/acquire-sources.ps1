@@ -4,7 +4,7 @@ $utf8=New-Object System.Text.UTF8Encoding($false)
 $projectRoot=Split-Path $PSScriptRoot -Parent
 $manifest=Get-Content -LiteralPath (Join-Path $projectRoot 'data/source-manifest.json') -Raw | ConvertFrom-Json
 $groups=$manifest.pages | Group-Object file
-$ua='OpenZohar/0.1 (https://github.com/William-Carey-Missions/open-zohar; corpus research)'
+$ua='OpenZohar/0.1 (https://github.com/kleine-ark/open-zohar; corpus research)'
 foreach($group in $groups){
   $ids=($group.Group | ForEach-Object {$_.revision}) -join '|'
   $url='https://he.wikisource.org/w/api.php?action=query&format=json&formatversion=2&maxlag=5&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids='+[uri]::EscapeDataString($ids)
