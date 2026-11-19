@@ -3,10 +3,10 @@
   "title": "Open Zohar",
   "status": "Deeluitgave — conceptvertaling, corpus niet volledig",
   "progress": {
-    "translatedPassages": 981,
-    "completeDraftFolios": 164,
+    "translatedPassages": 989,
+    "completeDraftFolios": 165,
     "mainFolioRegister": 1632,
-    "mainDraftPercent": 10.05,
+    "mainDraftPercent": 10.11,
     "targetCompleteFolios": 164,
     "next": "Zohar I 80b"
   },
@@ -22243,6 +22243,189 @@
                 "occurrence": 1,
                 "paragraph": 5,
                 "sha256": "47ad9a960121486ace1041b67e2119fe257f58282e7adb132b0efcb678316c27",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "84a",
+          "title": "I 84a",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "En tot Betel, om zijn plaats te herstellen en hen in volkomen eenheid te verbinden, want van het zuiden tot Betel wordt het geheim van de wijsheid op de juiste wijze gevonden.",
+              "notes": [
+                "Voortzetting van de zin op I 83b."
+              ],
+              "uncertainties": [],
+              "original": "ועד בית אל לאתקנא אתריה, ולחברא לון ביחודא שלים דהא מנגב ועד בית אל אשתכח רזא דחכמתא כדקא יאות.",
+              "lang": "arc",
+              "reference": "Zohar I 84a:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "e8149b2fd2cf9622fdd6755486152854e4d6515db9fd1c654ccc89661cf0c29e",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "“Tot de plaats waar zijn tent in het begin had gestaan.” Het woord voor zijn tent is geschreven met een he. Wat is zijn tent? Dat is Betel, de volmaakte steen, zoals wij hebben gezegd. Verder wijst hij erop en zegt: “Tot de plaats van het altaar dat hij daar eerder had gemaakt”, waarover geschreven staat: “Voor JHWH, die hem verschenen was.” Toen “riep Abram daar de naam van JHWH aan”. Toen verbond hij zich met het volkomen geloof.",
+              "notes": [
+                "De uitleg verbindt de spelling אהלה met Betel en de symboliek van de volmaakte steen."
+              ],
+              "uncertainties": [],
+              "original": "אל המקום אשר היה שם אהלה בתחלה -- אהלה בה\"א מאן אהלה דא בית אל, אבן שלמה כדאמרן, תו רשים ואמר אל מקום המזבח אשר עשה שם בראשונה, דכתיב ליהו\"ה הנראה אליו, וכדין ויקרא שם אברם בשם יהו\"ה, כדין אתדבק במהימנותא שלימתא.",
+              "lang": "arc",
+              "reference": "Zohar I 84a:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "f3813184921ec9fe348cfb8ab1295cf00a323022b186735bc2303b7157356a50",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "Kom en zie: eerst steeg hij van beneden naar boven, zoals geschreven staat: “JHWH verscheen aan Abram”, en: “Voor JHWH, die hem verschenen was.” Dat is de eerste graad, zoals wij hebben gezegd: de volmaakte steen (bij het optrekken gebouwd, en er staat: naar zijn tochten). Daarna: “Steeds verder trekkend naar het zuiden”, graad na graad, totdat hij gekroond werd in het zuiden, zijn deel en zijn lot. Vervolgens hield de tekst de zaak verborgen toen hij opsteeg, en zei eenvoudig: “Voor JHWH.” Dat is de hogere wereld. Vandaar trok hij langs de graden en daalde van boven naar beneden, en alles verbond zich op de juiste wijze op zijn plaats.",
+              "notes": [],
+              "uncertainties": [
+                "De compacte tekst tussen haakjes over de steen, bouwen en tochten is onzeker; de overgeleverde formulering is behouden en vraagt filologische controle."
+              ],
+              "original": "תא חזי בקדמיתא סליק מתתא לעילא דכתיב וירא יהו\"ה אל אברם, וכתיב ליהו\"ה הנראה אליו, ודא הוא דרגא קדמאה כדאמרן, אבן שלמה (מסע נבנה וכתיב למסעו), ולבתר הלוך ונסוע הנגבה, דרגא בתר דרגא, עד דאתעטר בדרום חולקיה ועדביה, לבתר סתים מלה כד סליק, ואמר ליהו\"ה סתם, דא עלמא עלאה ומתמן נטיל בדרגין, ונחית מעילא לתתא, ואתדבק כלא באתריה כדקא יאות.",
+              "lang": "arc",
+              "reference": "Zohar I 84a:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד א",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "05db29ad46da21c59e54ba897f7da71ea6d756dd385e8d8b24c0e24a9b5ce596",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "Wanneer je hier de graden beschouwt, vind je het geheim van de hogere wijsheid. Wat staat er geschreven? “Hij ging volgens zijn tochten vanuit het zuiden”: vanuit de rechterzijde, het begin van de hogere wereld, verborgen, diep, omhoog tot Ein Sof. Hij daalde graad na graad, (tot) vanuit het zuiden tot Betel, van boven naar beneden. Er staat: “Abram riep daar de naam van JHWH aan.” Hij bevestigde de eenheid op haar plaats zoals het behoort, want er staat: “Tot de plaats van het altaar dat hij daar eerder had gemaakt.” Wat betekent “dat hij daar had gemaakt”? Hij had haar van beneden naar boven doen opstijgen; nu daalde hij langs de graden van boven naar beneden, opdat zij niet van die hogere graden zou wijken en zij niet van haar zouden wijken, en alles op de juiste wijze één eenheid zou vormen. Toen werd Abraham gekroond en was hij werkelijk het toebedeelde deel van de Heilige, gezegend zij Hij.",
+              "notes": [
+                "Ein Sof: het oneindige. De vrouwelijke verwijzing wordt behouden; zij behoort tot de symbolische uitleg van de graden."
+              ],
+              "uncertainties": [],
+              "original": "והכא כד תסתכל בדרגין, תשכח רזא דחכמתא עלאה, מה כתיב וילך למסעיו מנגב, מסטרא דימינא, שירותא דעלמא עלאה סתימא עמיקא לעילא עד אין סוף, ונחית דרגא בתר דרגא, (עד) מנגב ועד בית אל, מעילא לתתא, וכתיב ויקרא שם אברם בשם יהו\"ה, אדבק יחודא באתריה כדקא יאות, דכתיב אל מקום המזבח אשר עשה שם בראשונה, מאי אשר עשה שם, דסליק לה מתתא לעילא, והשתא נחית בדרגין מעילא לתתא, בגין דהיא לא תעדי מאינון דרגין עלאין, ואינון לא יעדון מנה, ויתיחד כלא ביחודא חדא כדקא יאות, כדין אתעטר אברהם והוה חולק עדביה דקב\"ה ודאי.",
+              "lang": "arc",
+              "reference": "Zohar I 84a:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד א",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "8914361d3defe5ca3a1dd326965cd6e53886bd942d1f1c3e0ad96c2aa81106f0",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "Gelukkig zijn de rechtvaardigen die zich kronen met de Heilige, gezegend zij Hij, terwijl Hij zich met hen kroont. Gelukkig zijn zij in deze wereld en gelukkig in de komende wereld. Over hen staat geschreven: “Uw volk, zij allen zijn rechtvaardigen; voor eeuwig zullen zij het land beërven” (Jesaja 60:21). En er staat: “Het pad van de rechtvaardigen is als stralend licht, dat steeds helderder schijnt totdat de dag vaststaat” (Spreuken 4:18). Zij gingen verder. Toen zij bij een veld kwamen, gingen zij zitten.",
+              "notes": [],
+              "uncertainties": [],
+              "original": "זכאין אינון צדיקייא דמתעטרי ביה בקב\"ה, והוא מתעטר בהון, זכאין אינון בעלמא דין וזכאין אינון בעלמא דאתי, עלייהו כתיב (ישעיה ס כא) ועמך כלם צדיקים לעולם יירשו ארץ, וכתיב (משלי ד יח) ואורח צדיקים כאור נוגה הולך ואור עד נכון היום, אזלו כד מטו בחד בי חקל יתבו.",
+              "lang": "arc",
+              "reference": "Zohar I 84a:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד א",
+                "occurrence": 1,
+                "paragraph": 5,
+                "sha256": "ca6b85268f1cacba264adf64baecfebaecb989083c13901b59225bb8113f823e",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "Rabbi Sjimon opende en zei: “Wend U tot mij en wees mij genadig”, enzovoort (Psalm 86:16). Dit vers moet onderzocht worden. Wij hebben het al op verschillende plaatsen uitgelegd, maar in dit vers liggen verborgen zaken. “Wend U tot mij”: zou David zomaar zeggen: “Wend U tot mij en wees mij genadig”? Hij sprak dit vanwege zijn graad, waarmee hij gekroond was. “Geef uw kracht aan uw dienaar.” “Geef uw kracht”: dat is de hogere kracht, zoals geschreven staat: “Hij zal kracht geven aan zijn koning” (1 Samuël 2:10). Wie is zijn koning? Dat is de koning zonder nadere bepaling, de koning Messias. Ook hier betekent “aan uw dienaar” de koning Messias, zoals wij hebben gezegd: de koning zonder nadere bepaling. “En red de zoon van uw dienares.” Was hij dan niet de zoon van Isaï? Waarom noemde hij zich naar zijn moeder en niet naar zijn vader? Wij hebben al uitgelegd dat iemand die voor een hogere zaak wil verschijnen en genoemd wil worden, zich moet richten naar wat zeker is. Daarom noemde hij zijn moeder en niet zijn vader. Verder hebben wij geleerd dat dit de koning is, zoals wij hebben gezegd.",
+              "notes": [
+                "De bron bevat bij de laatste zin een korte variante lezing en een aanwijzing om een woord weg te laten. De doorlopende hoofdlezing is vertaald."
+              ],
+              "uncertainties": [],
+              "original": "פתח רבי שמעון ואמר, (תהלים פו טז) פנה אלי וחנני וגו', האי קרא אית לאסתכלא ביה, והא אוקימנא ליה בכמה אתר, אבל בהאי קרא מלין סתימין אית ביה, פנה אלי, וכי דוד אמר פנה אלי וחנני, אלא בגין דרגא דיליה דאיהו אתעטר ביה קאמר, תנה עזך לעבדך, תנה עזך דא עז עלאה, כדכתיב (ש\"א ב י) ויתן עז למלכו, מאן מלכו דא מלך סתם, מלכא משיחא, אוף הכא לעבדך דא מלכא משיחא, כדאמרן מלך סתם, והושיעה לבן אמתך, וכי לא הוה בריה דישי איהו, עד דאיהו אמר בשמא דאמיה ולא בשמא דאבוי, אלא הא אוקימנא דכד ייתי בר נש לקבל מלה עלאה לאדכרא, בעי למהך במלה דאיהו ודאי, ועל דא אדכר לאמיה ולא לאבוי, ותו הא תנינן (ד\"א, ל\"ג דהא) דדא מלך כדקאמרן:",
+              "lang": "arc",
+              "reference": "Zohar I 84a:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד א",
+                "occurrence": 1,
+                "paragraph": 6,
+                "sha256": "6273658a3ff1002a495a1430333f74730c1abc9e803625e0ee218a3241e09b70",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "7",
+              "nl": "Rabbi Sjimon zei: kom en zie wat geschreven staat: “Er ontstond twist tussen de herders van Abrams vee.” Het woord voor twist staat geschreven zonder jod, want Lot wilde terugkeren naar de vreemde eredienst die de bewoners van het land beoefenden. Het slot van het vers bewijst dat, want er staat: “De Kanaäniet en de Perizziet woonden toen in het land.” Waaruit weten wij dat Lot terugkeerde naar zijn verkeerde weg, naar vreemde eredienst? Er staat: “Lot trok weg van het oosten.” Wat betekent “van het oosten”? Van Hem die aan de wereld voorafgaat. Hier staat: “Lot trok weg van het oosten”, en elders: “Toen zij wegtrokken van het oosten.” Zoals zij daar wegtrokken van Hem die aan de wereld voorafgaat, zo ook hier.",
+              "notes": [
+                "De uitleg speelt met kedem: oosten, voortijd, en degene die aan de wereld voorafgaat."
+              ],
+              "uncertainties": [],
+              "original": "אמר רבי שמעון, תא חזי מה כתיב ויהי ריב בין רעי מקנה אברם, רב כתיב חסר יו\"ד, דבעא לוט למהדר לפולחנא נוכראה דפלחי יתבי ארעא, וסופיה דקרא אוכח דכתיב והכנעני והפריזי אז יושב בארץ, ומנלן דלוט אהדר לסרחניה לפולחנא נוכראה, דכתיב ויסע לוט מקדם, מאי מקדם, מקדמונו של עולם, כתיב הכא ויסע לוט מקדם, וכתיב ויהי בנסעם מקדם, מה להלן נטילו מקדמונו של עולם, אוף הכא כן.",
+              "lang": "arc",
+              "reference": "Zohar I 84a:7",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד א",
+                "occurrence": 1,
+                "paragraph": 7,
+                "sha256": "5cc8d1b78b9037f902feedb72ac0bffe936a648e55bfb59f308ba968750bb58b",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "8",
+              "nl": "Toen Abraham wist dat Lots hart die richting uitging, zei Abram meteen tegen Lot, enzovoort: “Scheid je toch van mij.” Je bent het niet waard met mij verbonden te zijn. Toen scheidde Abraham zich van hem en wilde niet met hem meegaan of zich met hem verbinden. Want ieder die zich met een schuldige verbindt, zal hem uiteindelijk volgen en gestraft worden…",
+              "notes": [
+                "De zin loopt door op I 84b."
+              ],
+              "uncertainties": [],
+              "original": "כיון דידע אברהם דלוט להכי נטי לביה, מיד ויאמר אברם אל לוט וגו' הפרד נא מעלי, לית אנת כדאי לאתחברא בהדאי, כדין אתפרש אברהם מניה, ולא בעא למיהך ולאתחברא עמיה, דכל מאן דיתחבר לחייבא, סופיה למיהך אבתריה, ולאתענש",
+              "lang": "arc",
+              "reference": "Zohar I 84a:8",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד א",
+                "occurrence": 1,
+                "paragraph": 8,
+                "sha256": "6ad38d6d4e1946b1e19370459829e488cb5c22c6b67072f1b63d629fa17eb6f4",
                 "url": "https://he.wikisource.org/w/index.php?oldid=547462"
               }
             }

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "complete": false,
-  "translatedPassages": 981,
+  "translatedPassages": 989,
   "completeDraftFolios": [
     "Zohar I 1a",
     "Zohar I 1b",
@@ -166,9 +166,10 @@
     "Zohar I 82a",
     "Zohar I 82b",
     "Zohar I 83a",
-    "Zohar I 83b"
+    "Zohar I 83b",
+    "Zohar I 84a"
   ],
-  "mainDraftPercent": 10.05,
+  "mainDraftPercent": 10.11,
   "targetDraftPercent": 10,
   "targetCompleteFolios": 164,
   "partialDraftFolios": [
@@ -177,14 +178,14 @@
   ],
   "independentlyReviewedPassages": 0,
   "next": "Zohar I 80b",
-  "nextAvailableSource": "Zohar I 84a",
+  "nextAvailableSource": "Zohar I 84b",
   "knownSourceGaps": [
     "Zohar I 80b",
     "Zohar I 81a"
   ],
   "remaining": "Alle overige passages van Zohar I–III, de addenda, geheel Zohar Chadasj en geheel Tikkoenei Zohar; onafhankelijke redactie van alle werkvertalingen.",
   "mainFolioRegister": 1632,
-  "untranslatedMainFolios": 1466,
+  "untranslatedMainFolios": 1465,
   "inventoryParts": 167,
   "acquiredMainContainers": 30,
   "sourceCompletenessVerified": false,
