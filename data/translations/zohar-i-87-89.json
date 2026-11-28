@@ -270,7 +270,8 @@
             "section": "דף פח א",
             "occurrence": 1,
             "paragraph": 1
-          }
+          },
+          "sectionTitle": "Hoofdtekst"
         },
         {
           "id": "2",
@@ -320,7 +321,8 @@
             "section": "סתרי תורה דף פח א",
             "occurrence": 1,
             "paragraph": 1
-          }
+          },
+          "sectionTitle": "Sitre Tora"
         },
         {
           "id": "5",
@@ -375,7 +377,8 @@
             "section": "דף פח ב",
             "occurrence": 1,
             "paragraph": 1
-          }
+          },
+          "sectionTitle": "Hoofdtekst"
         },
         {
           "id": "2",
@@ -423,7 +426,8 @@
             "section": "סתרי תורה דף פח ב",
             "occurrence": 1,
             "paragraph": 1
-          }
+          },
+          "sectionTitle": "Sitre Tora"
         },
         {
           "id": "5",
@@ -510,7 +514,8 @@
             "section": "דף פט א",
             "occurrence": 1,
             "paragraph": 1
-          }
+          },
+          "sectionTitle": "Hoofdtekst"
         },
         {
           "id": "2",
@@ -542,7 +547,8 @@
             "section": "סתרי תורה דף פט א",
             "occurrence": 1,
             "paragraph": 1
-          }
+          },
+          "sectionTitle": "Sitre Tora"
         },
         {
           "id": "4",
@@ -637,7 +643,8 @@
             "section": "סתרי תורה דף פט ב",
             "occurrence": 1,
             "paragraph": 1
-          }
+          },
+          "sectionTitle": "Sitre Tora"
         },
         {
           "id": "2",

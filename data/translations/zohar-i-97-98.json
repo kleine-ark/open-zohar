@@ -1,0 +1,641 @@
+{
+  "version": 1,
+  "status": "concept",
+  "license": "CC-BY-SA-4.0",
+  "chapters": [
+    {
+      "id": "97a",
+      "title": "I 97a",
+      "completeFolio": true,
+      "passages": [
+        {
+          "id": "1",
+          "nl": "Rabbi Chijja opende: “De bloesems zijn op het land verschenen, de tijd van het zingen is gekomen en de stem van de tortelduif wordt in ons land gehoord” (Hooglied 2:12). “De bloesems zijn op het land verschenen”: toen de Heilige, gezegend zij Hij, de wereld schiep, legde Hij in de aarde alle kracht die haar toekwam. Alles was in de aarde, maar zij bracht in de wereld geen vruchten voort totdat Adam geschapen werd. Toen Adam geschapen werd, werd alles in de wereld zichtbaar en openbaarde de aarde haar vruchten en haar krachten die in haar waren toevertrouwd.",
+          "notes": [
+            "Het gedeelte begint een uitleg van Genesis 18:1, “JHWH verscheen aan hem”. De bron bevat bij het zichtbaar worden van alles een korte aanwijzing om “voortkomen” niet te lezen."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "דף צז א",
+            "occurrence": 1,
+            "paragraph": 1
+          },
+          "sectionTitle": "Hoofdtekst"
+        },
+        {
+          "id": "2",
+          "nl": "Zo gaf ook de hemel zijn krachten niet aan de aarde totdat Adam kwam. Dat is wat geschreven staat: “Er was nog geen enkele struik van het veld op de aarde en er was nog geen enkel gewas van het veld opgekomen, want JHWH God had het nog niet op de aarde laten regenen en er was geen mens om de aardbodem te bewerken” (Genesis 2:5). Al die voortbrengselen waren verborgen en werden niet geopenbaard; de hemel hield zich in en liet het niet op de aarde regenen, omdat er geen mens was: hij was nog niet aanwezig en nog niet geschapen. Alles werd vanwege hem opgehouden. Toen Adam verscheen, meteen: “De bloesems zijn op het land verschenen.” Alle krachten die verborgen waren, werden geopenbaard en aan haar gegeven. “De tijd van het zingen is gekomen”: de ordening van de lofzangen werd gereedgemaakt om voor de Heilige, gezegend zij Hij, te zingen, iets wat er niet was voordat Adam geschapen werd.",
+          "notes": [],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "דף צז א",
+            "occurrence": 1,
+            "paragraph": 2
+          }
+        },
+        {
+          "id": "3",
+          "nl": "“En de stem van de tortelduif wordt in ons land gehoord”: want het woord van de Heilige, gezegend zij Hij, werd niet…",
+          "notes": [
+            "De zin loopt door in de hoofdtekst op I 97b. De bron geeft aanwijzingen om “alle” en “die Hij maakte” niet te lezen; de doorlopende hoofdzin is gevolgd."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "דף צז א",
+            "occurrence": 1,
+            "paragraph": 3
+          }
+        },
+        {
+          "id": "4",
+          "nl": "Sitre Tora. Het gezag van de Koning verschijnt in drie kleuren. De eerste kleur is een verschijning die het oog van verre ziet. Het oog kan niet duidelijk vaststellen wat het ziet omdat het ver weg is, totdat het oog, door zich samen te trekken, een kleine aanblik opvangt. Daarom staat geschreven: “Van verre is JHWH aan mij verschenen” (Jeremia 31:2).",
+          "notes": [
+            "Sitre Tora: “Geheimen van de Tora”, een afzonderlijk gemarkeerde sectie. De drie kleuren zijn hier tevens onderscheiden wijzen van profetisch zien."
+          ],
+          "uncertainties": [
+            "Hormanuta, “gezag”, kan hier ook op een door de Koning verleende machtiging of beschikking doelen. “In drie kleuren” volgt de bewoording en de aansluitende beschrijving."
+          ],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "סתרי תורה דף צז א",
+            "occurrence": 1,
+            "paragraph": 1
+          },
+          "sectionTitle": "Sitre Tora"
+        },
+        {
+          "id": "5",
+          "nl": "De tweede kleur is wat dit oog ziet wanneer het gesloten is. Deze kleur wordt alleen voor het oog zichtbaar door het weinige dat het opvangt terwijl het gesloten is, en zij is niet duidelijk vast te stellen. Het oog sluit zich en opent zich een weinig en vangt die verschijning op. Deze kleur heeft uitleg nodig om vast te stellen wat het oog opgevangen heeft. Daarom staat geschreven: “Wat zie je?” (Jeremia 1:11).",
+          "notes": [
+            "De bron geeft bij “dit oog” als variant “één oog” en een korte variante woordschikking bij de laatste vermelding van de kleur."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "סתרי תורה דף צז א",
+            "occurrence": 1,
+            "paragraph": 2
+          }
+        },
+        {
+          "id": "6",
+          "nl": "De derde kleur is de glans van een spiegel, waarin helemaal niets zichtbaar wordt behalve door de beweging van het oog, wanneer het gesloten is en men het in een draaiende beweging beweegt. In die draaiende beweging wordt een spiegel zichtbaar…",
+          "notes": [
+            "De beschrijving loopt door op I 97b. Het woord voor spiegel is aspaklarja."
+          ],
+          "uncertainties": [
+            "De beschrijving van het draaien van het gesloten oog is compact. De precieze wijze van zien is niet met een moderne optische verklaring aangevuld."
+          ],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "סתרי תורה דף צז א",
+            "occurrence": 1,
+            "paragraph": 3
+          }
+        },
+        {
+          "id": "7",
+          "nl": "Midrasj ha-Neëlam. De leraren openden bij dit vers: “Om de geur van je goede oliën; uitgegoten olie is je naam”, enzovoort (Hooglied 1:3). Onze leraren hebben geleerd: wanneer de ziel van een mens van de aarde naar de hemel opstijgt en in die hogere glans staat waarover wij gesproken hebben, bezoekt de Heilige, gezegend zij Hij, haar. Kom en hoor: rabbi Sjimon ben Jochai zei: zodra de ziel van een rechtvaardige op de plaats van de heerlijkheid van de Sjechina staat waar zij behoort te verblijven, roept de Heilige, gezegend zij Hij, de vaderen en zegt tegen hen: ga die rechtvaardige bezoeken die gekomen is en begroet hem met vrede namens Mij. Zij zeggen: Heer van de wereld, het past een vader niet om zijn zoon te gaan bezoeken. Het past de zoon zijn vader te bezoeken, hem te zien en naar hem te zoeken. Dan roept Hij Jakob en zegt tegen hem: jij die verdriet vanwege je kinderen hebt gehad, ga die rechtvaardige verwelkomen die hier gekomen is, en Ik zal met je meegaan. Dat is wat geschreven staat: “Die uw aangezicht zoeken: Jakob. Sela” (Psalm 24:6). Er staat niet “die zoekt”, in het enkelvoud, maar “die zoeken”, in het meervoud. Rabbi Chijja zei: dit blijkt al uit het begin van het vers, want er staat geschreven: “Dit is het geslacht van wie Hem zoeken”, enzovoort.",
+          "notes": [
+            "Midrasj ha-Neëlam: “Verborgen uitleg”, een afzonderlijk gemarkeerde sectie. De uitleg contrasteert de enkelvoudige en meervoudige vorm van “zoeken” in Psalm 24:6."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צז א",
+            "occurrence": 1,
+            "paragraph": 1
+          },
+          "sectionTitle": "Midrasj ha-Neëlam"
+        },
+        {
+          "id": "8",
+          "nl": "Rabbi Jakob zei namens rabbi Chijja: onze vader Jakob is de troon van de heerlijkheid. Zo heeft ook de school van Elia geleerd: onze vader Jakob is een troon op zichzelf, want er staat geschreven: “Ik zal mijn verbond met Jakob gedenken” (Leviticus 26:42). De Heilige, gezegend zij Hij, sloot met Jakob alleen een verbond, meer dan met al zijn vaderen…",
+          "notes": [
+            "De bron vermeldt rabbi Akiva als variant bij de naam van de overleveraar. De zin loopt door op I 97b."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צז א",
+            "occurrence": 1,
+            "paragraph": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "97b",
+      "title": "I 97b",
+      "completeFolio": true,
+      "passages": [
+        {
+          "id": "1",
+          "nl": "…in de wereld gevonden totdat Adam geschapen werd. Toen Adam aanwezig was, was alles aanwezig.",
+          "notes": [
+            "Voortzetting van I 97a."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "דף צז ב",
+            "occurrence": 1,
+            "paragraph": 1
+          },
+          "sectionTitle": "Hoofdtekst"
+        },
+        {
+          "id": "2",
+          "nl": "Nadat hij gezondigd had, week alles uit de wereld en werd de aarde vervloekt. Dat is wat geschreven staat: “Vervloekt is de aardbodem vanwege jou”, enzovoort (Genesis 3:17). En er staat: “Wanneer je de aardbodem bewerkt, zal hij je zijn kracht niet meer geven”, enzovoort. En er staat: “Dorens en distels zal hij voor je laten opkomen” (Genesis 3:18).",
+          "notes": [
+            "“Wanneer je de aardbodem bewerkt, zal hij je zijn kracht niet meer geven” staat in Genesis 4:12, in de woorden tot Kaïn. De tekst plaatst het bij de verwijdering van de krachten na de zonde van Adam."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "דף צז ב",
+            "occurrence": 1,
+            "paragraph": 2
+          }
+        },
+        {
+          "id": "3",
+          "nl": "Noach kwam en maakte bijlen en vijlen in de wereld gereed. Daarna: “Hij dronk van de wijn, werd dronken en ontblootte zich midden in zijn tent.” De mensen van de wereld kwamen en zondigden voor de Heilige, gezegend zij Hij. De krachten van de aarde weken opnieuw, zoals tevoren, en het bleef zo totdat Abraham kwam. Toen Abraham in de wereld kwam, meteen: “De bloesems zijn op het land verschenen.” Alle krachten in de aarde werden hersteld en geopenbaard. “De tijd van het zingen is gekomen”: toen de Heilige, gezegend zij Hij, tegen hem zei dat hij zich moest laten besnijden. Toen die tijd kwam, het verbond in Abraham aanwezig was en hij besneden werd, werd dit hele vers in hem vervuld en werd de wereld bevestigd. Het woord van de Heilige, gezegend zij Hij, was openlijk bij hem. Dat is wat geschreven staat: “JHWH verscheen aan hem.”",
+          "notes": [
+            "Het Noachcitaat is Genesis 9:21. Zamir kan zingen of snoeien aanduiden; de hier volgende uitleg betrekt het op de besnijdenis."
+          ],
+          "uncertainties": [
+            "De namen van Noachs werktuigen zijn voorlopig als bijlen en vijlen weergegeven; de precieze soort werktuigen is niet nader vastgesteld."
+          ],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "דף צז ב",
+            "occurrence": 1,
+            "paragraph": 3
+          }
+        },
+        {
+          "id": "4",
+          "nl": "Rabbi Elazar opende dit vers over de tijd nadat Abraham besneden was. Voordat hij besneden was, sprak Hij immers alleen vanuit de lagere graad met hem, en de hogere graden rustten niet op die graad. Zodra hij besneden was: “De bloesems zijn op het land verschenen.” Dat zijn de lagere graden die deze lagere graad voortbracht en gereedmaakte. “De tijd van het snoeien is gekomen”: dat zijn de uitlopers van de voorhuid. “En de stem van de tortelduif wordt in ons land gehoord”: dat is de stem die voortkomt uit…",
+          "notes": [
+            "De zin over de stem loopt door op I 98a."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "דף צז ב",
+            "occurrence": 1,
+            "paragraph": 4
+          }
+        },
+        {
+          "id": "5",
+          "nl": "…die licht geeft. Men kan die kleur niet vaststellen; men ziet alleen een glans die licht geeft terwijl het oog gesloten is. Daarom staat geschreven: “De hand van JHWH was op mij” (Ezechiël 37:1), “de hand van JHWH kwam tot mij”, en: “De hand van JHWH was krachtig op mij” (Ezechiël 3:14). Zij worden alle voor de ware profeten onderscheiden, behalve Mozes, de hogere getrouwe, die waardig was boven te aanschouwen wat helemaal niet zichtbaar is. Over hem staat geschreven: “Zo is het niet met mijn dienaar Mozes”, enzovoort (Numeri 12:7).",
+          "notes": [
+            "Voortzetting van Sitre Tora op I 97a. De middelste formulering over de hand staat tussen haakjes in de bron."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "סתרי תורה דף צז ב",
+            "occurrence": 1,
+            "paragraph": 1
+          },
+          "sectionTitle": "Sitre Tora"
+        },
+        {
+          "id": "6",
+          "nl": "“Hij verscheen aan hem”: de Sjechina werd aan hem zichtbaar en openbaarde zich aan hem te midden van die graden die aan haar zijden verbonden waren. Michaël aan de rechterzijde, Gabriël aan de linkerzijde, Rafaël voor en Uriël achter. Daarom werd de Sjechina boven hem geopenbaard bij deze geurige eiken van de wereld, om voor hen het heilige verbond te tonen dat in de hele wereld in het geheim van het geloof aanwezig was.",
+          "notes": [
+            "De bron geeft naast “geurige” als variant “afbeeldingen”. Zij bevat tevens een aanwijzing om de korte woorden “eerste merkteken” niet te lezen. De hoofdlezing is vertaald."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "סתרי תורה דף צז ב",
+            "occurrence": 1,
+            "paragraph": 2
+          }
+        },
+        {
+          "id": "7",
+          "nl": "“En hij zat bij de ingang van de tent”: wat is de ingang van de tent? Dat is de plaats die verbond genoemd wordt, het geheim van het geloof.",
+          "notes": [],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "סתרי תורה דף צז ב",
+            "occurrence": 1,
+            "paragraph": 3
+          }
+        },
+        {
+          "id": "8",
+          "nl": "“Op het heetst van de dag”: dat is het geheim waarmee Abraham verbonden was, de kracht van de rechterzijde, zijn graad. De ingang…",
+          "notes": [
+            "De uitdrukking “de ingang van de tent” wordt in deze bronmarkering gesplitst en gaat verder op I 98b. Er is in dit extract geen afzonderlijke Sitre Tora-markering voor I 98a."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "סתרי תורה דף צז ב",
+            "occurrence": 1,
+            "paragraph": 4
+          }
+        },
+        {
+          "id": "9",
+          "nl": "…doordat Hij hem tot de troon van de heerlijkheid maakte, afgezien van de eerste.",
+          "notes": [
+            "Voortzetting van Midrasj ha-Neëlam op I 97a."
+          ],
+          "uncertainties": [
+            "“Afgezien van de eerste” noemt niet expliciet welk voorafgaand wezen of welke eerdere troon bedoeld wordt; de verwijzing is open gelaten."
+          ],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צז ב",
+            "occurrence": 1,
+            "paragraph": 1
+          },
+          "sectionTitle": "Midrasj ha-Neëlam"
+        },
+        {
+          "id": "10",
+          "nl": "Rabbi Eliëzer zat en hield zich met de Tora bezig. Rabbi Akiva kwam naar hem toe en zei tegen hem: waarmee houdt mijn meester zich bezig? Hij zei tegen hem: met dit vers, waar geschreven staat: “Hij laat hen een troon van heerlijkheid beërven” (1 Samuël 2:8). Wat betekent “Hij laat hen een troon van heerlijkheid beërven”? Dit is onze vader Jakob, die Hij tot een afzonderlijke troon van heerlijkheid maakte om het bezoek van de zielen van de rechtvaardigen te ontvangen. De Heilige, gezegend zij Hij, gaat met hem mee bij het begin van iedere maand. Wanneer de ziel de heerlijkheid van de spiegel van de Sjechina van haar Heer ziet, zegent zij en buigt zij zich voor de Heilige, gezegend zij Hij. Dat is wat geschreven staat: “Zegen, mijn ziel”, enzovoort (Psalm 104:1). Rabbi Akiva zei: de Heilige, gezegend zij Hij, staat boven hem en de ziel begint en zegt: “JHWH, mijn God, U bent zeer groot”, enzovoort: de hele passage, tot aan het einde waar staat: “Laat de zondaars verdwijnen”, enzovoort (Psalm 104:35). Rabbi Akiva zei verder: niet alleen dit, maar zij prijst Hem ook vanwege het lichaam dat in deze wereld achtergebleven is en zegt: “Zegen JHWH, mijn ziel, en heel mijn binnenste”, enzovoort (Psalm 103:1). En de Heilige, gezegend zij Hij, gaat verder.",
+          "notes": [],
+          "uncertainties": [
+            "Oelfan bij het ontvangen van de zielen is ongewoon; het is hier in de samenhang van het voorafgaande bezoek als “bezoek” weergegeven. Een betekenis in de richting van onderricht blijft filologisch te controleren."
+          ],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צז ב",
+            "occurrence": 1,
+            "paragraph": 2
+          }
+        },
+        {
+          "id": "11",
+          "nl": "Waaruit weten wij dit? Uit dit vers, want er staat geschreven: “JHWH verscheen aan hem bij de eiken van Mamre”: dat is Jakob. Wat betekent Mamre? Omdat hij tweehonderd werelden uit Eden erfde en hij een troon is. Rabbi Isaak zei: Mamre heeft de getalswaarde tweehonderdeenentachtig. Tweehonderd horen bij Eden, want er staat geschreven: “Tweehonderd voor wie zijn vrucht bewaken” (Hooglied 8:12), en eenentachtig is de troon. Daarom wordt het genoemd: “JHWH verscheen aan hem bij de eiken van Mamre”, en daarom wordt hij Mamre genoemd.",
+          "notes": [
+            "De getalswaarde van ממרא is 281; כסא, “troon”, heeft de getalswaarde 81. De overige tweehonderd worden verbonden met Eden en Hooglied 8:12."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צז ב",
+            "occurrence": 1,
+            "paragraph": 3
+          }
+        },
+        {
+          "id": "12",
+          "nl": "Rabbi Jehoeda zei: wat betekent “bij de eiken”? Dat wil zeggen: zijn kracht, zoals geschreven staat: “De Machtige van Jakob” (Genesis 49:24).",
+          "notes": [
+            "Elone, “eiken van”, wordt hier uitgelegd vanuit het beeld van kracht."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צז ב",
+            "occurrence": 1,
+            "paragraph": 4
+          }
+        },
+        {
+          "id": "13",
+          "nl": "“En hij zat bij de ingang van de tent.” Dat is wat geschreven staat: “JHWH, wie zal in uw tent verblijven?”, enzovoort (Psalm 15:1).",
+          "notes": [],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צז ב",
+            "occurrence": 1,
+            "paragraph": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": "98a",
+      "title": "I 98a",
+      "completeFolio": true,
+      "passages": [
+        {
+          "id": "1",
+          "nl": "…dat binnenste van alles. Die stem wordt gehoord. Dit is de stem die het woord afbakent om het uit te spreken en het volkomen maakt.",
+          "notes": [
+            "Voortzetting van de hoofdtekst op I 97b. Stem en spreken worden als onderscheiden maar verbonden mystieke graden uitgelegd."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "דף צח א",
+            "occurrence": 1,
+            "paragraph": 1
+          },
+          "sectionTitle": "Hoofdtekst"
+        },
+        {
+          "id": "2",
+          "nl": "Kom en zie: vóór Abrahams besnijdenis rustte alleen deze graad op hem, zoals wij hebben gezegd. Wat staat er geschreven nadat hij besneden was? “JHWH verscheen aan hem.” Aan wie? Er staat immers niet: “JHWH verscheen aan Abraham.” Want als Abraham bedoeld is, welke grotere lof ligt hierin dan vóór zijn besnijdenis, toen er geschreven staat: “JHWH verscheen aan Abram” (Genesis 12:7)? Het is echter een verborgen geheim: “JHWH verscheen aan hem”, aan die graad die met hem sprak, iets wat er niet eerder was, vóór zijn besnijdenis. Want nu werd de stem geopenbaard en met het spreken verbonden toen Hij met hem sprak. “En hij zat bij de ingang van de tent”: “en hij”, zonder te onthullen wie. Hier wordt wijsheid onthuld: alle graden rustten op deze lagere graad nadat Abraham besneden was.",
+          "notes": [
+            "Het opnieuw uitgelegde vers is Genesis 18:1. De uitleg maakt gebruik van het feit dat “aan hem” in dat vers geen naam noemt."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "דף צח א",
+            "occurrence": 1,
+            "paragraph": 2
+          }
+        },
+        {
+          "id": "3",
+          "nl": "Kom en zie: “JHWH verscheen aan hem”: dit is het geheim van de stem die gehoord wordt, die zich met het spreken verbindt en daarin geopenbaard wordt. “En hij zat bij de ingang van de tent”: dat is de hogere wereld die er staat om haar te verlichten. “Op het heetst van de dag”: want de rechterzijde werd verlicht, de graad waarmee Abraham verbonden was. Een andere uitleg: “Op het heetst van de dag”: wanneer de ene graad tot de andere nadert, in het verlangen van de een naar de ander.",
+          "notes": [],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "דף צח א",
+            "occurrence": 1,
+            "paragraph": 3
+          }
+        },
+        {
+          "id": "4",
+          "nl": "“Op het heetst van de dag”, want er staat geschreven: “Voor jullie die mijn naam vrezen, zal de zon van gerechtigheid opgaan, met genezing onder haar vleugels” (Maleachi 3:20).",
+          "notes": [
+            "De bron gebruikt de Hebreeuwse versnummering Maleachi 3:20; in veel Nederlandse bijbels is dit 4:2."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צח א",
+            "occurrence": 1,
+            "paragraph": 1
+          },
+          "sectionTitle": "Midrasj ha-Neëlam"
+        },
+        {
+          "id": "5",
+          "nl": "Rabban Jochanan ben Zakkai zei: op dat ogenblik gaat de Heilige, gezegend zij Hij, op weg. Omdat de vaderen Abraham en Isaak horen dat de Heilige, gezegend zij Hij, naar hem toe gaat, vragen zij Jakob om met hen mee te gaan en hem met vrede te begroeten. Zij staan boven hem. Waaruit blijkt dat? Uit wat geschreven staat: “Hij sloeg zijn ogen op en zag, en zie, drie mannen stonden boven hem.” “Drie mannen”: dat zijn de vaderen Abraham, Isaak en Jakob, die boven hem staan en de goede daden zien die hij heeft gedaan. “Hij zag hen en rende hun tegemoet vanaf de ingang van de tent en boog zich ter aarde”: omdat hij de Sjechina van de heerlijkheid bij hen ziet. Dat is wat geschreven staat: “Daarom hebben de jonge vrouwen je lief” (Hooglied 1:3): dat zijn de vaderen.",
+          "notes": [
+            "De identificatie “dat zijn de vaderen” staat tussen haakjes in de bron. Het vers over de jonge vrouwen wordt op hen toegepast."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צח א",
+            "occurrence": 1,
+            "paragraph": 2
+          }
+        },
+        {
+          "id": "6",
+          "nl": "Een andere uitleg: “JHWH verscheen aan hem bij de eiken van Mamre.” De leraren legden dit vers uit over het stervensuur van de mens. Want er is geleerd: rabbi Jehoeda zei: het stervensuur van de mens is de grote oordeelsdag, wanneer de ziel zich van het lichaam scheidt. Een mens gaat niet uit de wereld weg voordat hij de Sjechina heeft gezien. Dat is wat geschreven staat: “Want geen mens kan Mij zien en leven” (Exodus 33:20). Met de Sjechina komen drie dienende engelen om de ziel van de rechtvaardige te ontvangen. Dat is wat geschreven staat: “JHWH verscheen aan hem”, enzovoort. “Op het heetst van de dag”: dat is de oordeelsdag die brandt als een oven, om de ziel van het lichaam te scheiden. “Hij sloeg zijn ogen op en zag, en zie, drie mannen”: zij onderzoeken zijn daden, wat hij gedaan heeft, en hij bekent die met zijn mond. Wanneer de ziel dit ziet, gaat zij uit het lichaam tot aan de ingang van de keel en blijft daar staan totdat hij alles heeft beleden wat het lichaam met haar in deze wereld gedaan heeft. Dan verheugt de ziel van de rechtvaardige zich over haar daden en over haar toevertrouwde bezit. Want er is geleerd: rabbi Isaak zei: de ziel van een rechtvaardige verlangt naar het ogenblik waarop zij uit deze wereld zal gaan, die een ademtocht is, om in de komende wereld te genieten.",
+          "notes": [],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צח א",
+            "occurrence": 1,
+            "paragraph": 3
+          }
+        },
+        {
+          "id": "7",
+          "nl": "Onze leraren hebben geleerd: toen rabbi Eliëzer de Grote ziek was, was die dag de vooravond van de sabbat. Hij liet zijn zoon Hyrkanus aan zijn rechterhand zitten en onthulde hem diepe en verborgen zaken. Maar deze nam geen woord in zich op, omdat hij dacht dat zijn vader in zijn denken verward was. Toen hij zag dat het denken van zijn vader helder was, ontving hij van hem honderdnegenentachtig hogere geheimen. Toen hij bij de marmeren stenen kwam die zich in het hogere water mengen, huilde rabbi Eliëzer en hield op met spreken. Hij zei: sta op en ga daar staan, mijn zoon. Hij zei tegen hem: vader, waarom? Hij zei tegen hem: ik zie dat mijn geest uit de wereld zal heengaan.",
+          "notes": [
+            "De frase over het heengaan is in het gebruikte extract onregelmatig: דאוחית חלף. Als vergelijking geeft het variantenapparaat van het Zohar Education Project een handschriftlezing met “mijn geest zal heengaan”. Die ondersteunt de hier gevolgde betekenis, zonder dat het vastgelegde bronextract wordt gewijzigd. Vergelijking: https://web.stanford.edu/dept/press/cgi-bin/aramaic/variants/?sel=437 (I 98a, regel 36)."
+          ],
+          "uncertainties": [
+            "De vertaling van de slotzin volgt de betekenis die door een handschriftvariant wordt ondersteund; de hoofdtekstlezing zelf blijft onregelmatig."
+          ],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צח א",
+            "occurrence": 1,
+            "paragraph": 4
+          }
+        },
+        {
+          "id": "8",
+          "nl": "Hij zei tegen hem: ga en zeg tegen je moeder dat zij mijn tefillin op een hoge plaats neerlegt. Nadat ik uit de wereld ben heengegaan en hier kom om ze te bekijken, moet je niet huilen. Want zij zijn nabij aan het hogere en niet aan het lagere, en het verstand van een mens heeft geen kennis…",
+          "notes": [
+            "De zin loopt door op I 98b. Tefillin zijn de gebedsriemen; de verwijzingen in de aansluitende uitleg blijven in de bron kort."
+          ],
+          "uncertainties": [
+            "De verwijzingen van “ze” en “zij zijn nabij aan het hogere” zijn niet expliciet. De passage noemt tefillin en daarna nabijheid na het sterven; de vertaling legt geen verdere verklaring vast."
+          ],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צח א",
+            "occurrence": 1,
+            "paragraph": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": "98b",
+      "title": "I 98b",
+      "completeFolio": true,
+      "passages": [
+        {
+          "id": "1",
+          "nl": "“Hij verscheen aan hem.” Rabbi Abba zei: voordat Abraham besneden was, was hij afgesloten. Toen hij besneden was, werd alles geopenbaard en rustte de Sjechina op hem, in volkomenheid, zoals het behoort. Kom en zie: “En hij zat bij de ingang van de tent.” “En hij”: dat is de hogere wereld die op deze lagere wereld rust. Wanneer? “Op het heetst van de dag”: wanneer het verlangen van één rechtvaardige is om daarin te rusten.",
+          "notes": [],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "דף צח ב",
+            "occurrence": 1,
+            "paragraph": 1
+          },
+          "sectionTitle": "Hoofdtekst"
+        },
+        {
+          "id": "2",
+          "nl": "Meteen: “Hij sloeg zijn ogen op en zag, en zie, drie mannen stonden boven hem.” Wie zijn die drie mannen? Dat zijn Abraham, Isaak en Jakob, die boven deze graad staan, en van hen…",
+          "notes": [
+            "De zin loopt door in de hoofdtekst op I 99a; de ingevoegde Tosefta en Sitre Tora blijven afzonderlijk herkenbaar."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "דף צח ב",
+            "occurrence": 1,
+            "paragraph": 2
+          }
+        },
+        {
+          "id": "3",
+          "nl": "Tosefta. “JHWH verscheen aan hem bij de eiken van Mamre.” Waarom bij de eiken van Mamre en niet op een andere plaats? Omdat hij hem raad had gegeven over de besnijdenis van zijn verbond. Toen de Heilige, gezegend zij Hij, tegen Abraham zei dat hij zich moest laten besnijden, ging Abraham zijn vrienden raadplegen. Aner zei tegen hem: je bent negentig jaar oud en je brengt jezelf in moeilijkheden. Mamre zei tegen hem: herinner je je de dag waarop de Chaldeeën je in de vuuroven wierpen? En die hongersnood die over de wereld kwam, want er staat geschreven: “Er kwam een hongersnood in het land en Abram daalde af naar Egypte” (Genesis 12:10)? En die koningen die je hebt achtervolgd en verslagen? De Heilige, gezegend zij Hij, heeft je uit alles gered en geen mens kon je kwaad doen. Sta op en volbreng het gebod van je Heer. De Heilige, gezegend zij Hij, zei tegen hem: Mamre, jij hebt hem raad gegeven zich te laten besnijden. Zo waar je leeft, Ik zal Mij alleen in jouw paleis aan hem openbaren. Dat is wat geschreven staat: “Bij de eiken van Mamre.” Tot zover de Tosefta.",
+          "notes": [
+            "Tosefta betekent toevoeging. De uitleg bevat een overlevering over Abrahams redding uit de vuuroven; die gebeurtenis wordt niet als vertelling in Genesis weergegeven. De bron laat Aner “negentig jaar” zeggen; dat getal is behouden."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "תוספתא דף צח ב",
+            "occurrence": 1,
+            "paragraph": 1
+          },
+          "sectionTitle": "Tosefta"
+        },
+        {
+          "id": "4",
+          "nl": "…van de tent is het geheim van de poort van gerechtigheid, de ingang van het geloof. Abraham trad er toen binnen door dat heilige merkteken. “Op het heetst van de dag”: dat is de rechtvaardige, de graad van één verbinding, die degene binnentreedt die besneden is en het heilige merkteken in zich gegrift draagt. Want hij is van de voorhuid bevrijd en is het verbond van deze twee graden binnengetreden, die het geheim van het geloof zijn.",
+          "notes": [
+            "Voortzetting van Sitre Tora op I 97b. “Rechtvaardige” is ook een aanduiding van de verbindende mystieke graad."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "סתרי תורה דף צח ב",
+            "occurrence": 1,
+            "paragraph": 1
+          },
+          "sectionTitle": "Sitre Tora"
+        },
+        {
+          "id": "5",
+          "nl": "“En zie, drie mannen”, enzovoort: dat zijn drie engelen, gezanten die zich met lucht bekleden en naar deze wereld afdalen, in de gedaante van een mens. Zij waren drie, naar het voorbeeld van boven, want de regenboog wordt alleen in drie kleuren zichtbaar: wit, rood en groen. Zeker, zo is het. Dit zijn die drie mannen, drie kleuren: de witte kleur, de rode kleur, de groene kleur. De witte kleur is Michaël, want hij is de rechterzijde. De rode kleur is Gabriël, de linkerzijde. De groene kleur is…",
+          "notes": [
+            "De drie kleuren volgen de symbolische indeling van deze tekst. De uitleg van de groene kleur loopt door op I 99a."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "סתרי תורה דף צח ב",
+            "occurrence": 1,
+            "paragraph": 2
+          }
+        },
+        {
+          "id": "6",
+          "nl": "…van hen.",
+          "notes": [
+            "Voortzetting van Midrasj ha-Neëlam op I 98a."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צח ב",
+            "occurrence": 1,
+            "paragraph": 1
+          },
+          "sectionTitle": "Midrasj ha-Neëlam"
+        },
+        {
+          "id": "7",
+          "nl": "Terwijl zij zaten, kwamen de wijzen van de generatie binnen om hem te bezoeken. Hij vervloekte hen omdat zij niet gekomen waren om hem te dienen. Want wij hebben geleerd: haar dienen is groter dan haar bestuderen. Toen rabbi Akiva kwam, zei hij tegen hem: Akiva, Akiva, waarom ben je niet gekomen om mij te dienen? Want het ogenblik om beproefd te worden is gekomen. Hij zei tegen hem: rabbi, ik had er geen tijd voor. Hij werd boos en zei: het zou mij verbazen als jij een natuurlijke dood stierf. Hij vervloekte hem dat zijn dood harder zou zijn dan die van hen allen.",
+          "notes": [
+            "Het dienen betreft het persoonlijk dienen van de leraar als vorm van leren. De uitspraak over het ogenblik van beproeving staat tussen haakjes in de bron."
+          ],
+          "uncertainties": [],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צח ב",
+            "occurrence": 1,
+            "paragraph": 2
+          }
+        },
+        {
+          "id": "8",
+          "nl": "Rabbi Akiva huilde en zei tegen hem: rabbi, leer mij Tora. Rabbi Eliëzer opende zijn mond over het werk van de troonwagen. Er kwam vuur dat hen beiden omringde. De wijzen zeiden: hieruit blijkt dat wij daarvoor niet geschikt en waardig zijn. Zij gingen naar de buitenste ingang en gingen daar zitten. Er gebeurde wat er gebeurde, en het vuur ging weg. Hij onderwees driehonderd vastgestelde wetsregels over een felwitte huidvlek en leerde hem tweehonderdzestien verklaringen van de verzen van het Hooglied. Uit de ogen van rabbi Akiva stroomde water en het vuur keerde terug zoals tevoren. Toen hij bij dit vers kwam: “Ondersteun mij met rozijnenkoeken, verkwik mij met appels, want ik ben ziek van liefde” (Hooglied 2:5), kon rabbi Akiva het niet verdragen. Hij verhief zijn stem, huilde en jammerde, en kon niet spreken vanwege de vrees voor de Sjechina die daar aanwezig was. Hij onderwees hem alle diepten en hogere geheimen die in het Hooglied waren. Hij liet hem een eed zweren dat hij geen enkel vers daaruit zou gebruiken, opdat de Heilige, gezegend zij Hij, vanwege hem de wereld niet zou verwoesten. Want het was zijn wil niet dat men het zou gebruiken…",
+          "notes": [
+            "Het werk van de troonwagen, ma’ase merkava, is esoterisch onderricht over het goddelijke troonvisioen. De felwitte huidvlek, baheret, is een categorie uit de reinheidswetgeving van Leviticus 13. De zin over het gebruik van de verzen loopt door op I 99a."
+          ],
+          "uncertainties": [
+            "Het werkwoord voor het gebruiken van de verzen wordt zonder nadere invulling behouden; de tekst noemt hier niet welke handeling daarmee bedoeld wordt."
+          ],
+          "sourceSegment": {
+            "file": "data/sources/containers-1.json",
+            "pageId": 261498,
+            "revision": 1083919,
+            "section": "מדרש הנעלם דף צח ב",
+            "occurrence": 1,
+            "paragraph": 3
+          }
+        }
+      ]
+    }
+  ]
+}

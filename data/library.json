@@ -3,10 +3,10 @@
   "title": "Open Zohar",
   "status": "Deeluitgave — conceptvertaling, corpus niet volledig",
   "progress": {
-    "translatedPassages": 1146,
-    "completeDraftFolios": 189,
+    "translatedPassages": 1220,
+    "completeDraftFolios": 197,
     "mainFolioRegister": 1632,
-    "mainDraftPercent": 11.58,
+    "mainDraftPercent": 12.07,
     "targetCompleteFolios": 164,
     "next": "Zohar I 80b"
   },
@@ -23492,6 +23492,7 @@
                 "De slotwoorden komen uit Jesaja 41:16. De bron voegt חסר, “ontbreekt”, toe; dit is als lacunemarkering behouden. De omvang van de ontbrekende tekst is niet aangegeven."
               ],
               "uncertainties": [],
+              "sectionTitle": "Hoofdtekst",
               "original": "לבתר אקדים רבי שמעון חמא ליה דאנטל ידוי במיא, ונטיל לון בשיעורא סגייא דמיין, א\"ר שמעון, מלא ידיו מברכותיך, וכך הוה, מההוא יומא ולהלאה אתעתר, ואשכח סימא והוה לעי באורייתא, ויהיב מזונא למסכני כל יומא, והוה חדי עמהון ומסבר לון אנפין נהירין, קרא עליה רבי שמעון, ואתה תגיל ביהו\"ה בקדוש וגו'. (חסר):",
               "lang": "arc",
               "reference": "Zohar I 88a:1",
@@ -23560,6 +23561,7 @@
               "uncertainties": [
                 "De parenthetische formulering bij de dertien balsemstromen bevat het losse “uit alle”. Dat is behouden; de precieze grammaticale aansluiting vraagt controle."
               ],
+              "sectionTitle": "Sitre Tora",
               "original": "סתרי תורה: אחר הדברים האלה וגו' -- אלין פתגמי אורייתא, דכתיב (דברים ה יט) את הדברים האלה דבר יהו\"ה אל כל קהלכם, מה להלן פתגמי אורייתא, אוף הכא פתגמי אורייתא, בתר דאשתדל בר נש בהאי עלמא בדברים האלה, קודשא בריך הוא מבשר ליה ואקדים לה לנשמתא שלם, (בשורות טובות), הה\"ד אל תירא אברם אנכי מגן לך, מכל זיינין בישין דגיהנם, שכרך הרבה מאד, בגין דכל מאן דאשתדל באורייתא בהאי עלמא, זכי ואחסין ירותת אחסנתא בעלמא דאתי, כמה דכתיב (משלי ח כא) להנחיל אוהבי יש, מאי י\"ש, (דא י\"ש מאין, תלת עשר נהרי דאפרסמונא דכיא (מכולן), דיהבי ליה אחסנתא עלאה בעלמא דאתי) (נ\"א דא עלמא דאתי), ואוצרותיהם אמלא בהאי עלמא, מעותרא ומכל טיבו דעלמא, מאן דאזיל לימינא זכי לעלמא דאתי, ומאן דאזיל לשמאלא הא עותרא בעלמא דין.",
               "lang": "arc",
               "reference": "Zohar I 88a:4",
@@ -23635,6 +23637,7 @@
                 "Voortzetting van de hoofdtekst op I 88a. “De olie bleef staan” is 2 Koningen 4:6; het werkwoord wordt met het staan van de wortel van Isaï verbonden."
               ],
               "uncertainties": [],
+              "sectionTitle": "Hoofdtekst",
               "original": "דהאי שמן דלעילא, קאים לארקא על דוד ושלמה, לאתברכא (על) בנוי, מנא לן, דכתיב ויעמוד השמן, כתיב הכא ויעמוד, וכתיב התם (ישעיה יא י) שורש ישי אשר עומד לנס עמים. תא חזי משלחן דלחם הפנים, דברכאן נפקין מתמן ומזונא לעלמא, לא בעי לאשתכחא ריקניא אפילו רגעא חדא, בגין דלא יסתלקון ברכאן מתמן, אוף הכי לא מברכין על שלחן ריקניא, דהא ברכאן דלעילא לא שריין על שלחן ריקניא. תא חזי מה כתיב, אני לדודי ועלי תשוקתו, אני לדודי בקדמיתא ולבתר ועלי תשוקתו אני לדודי לאתקנא ליה דוכתא בקדמיתא, ולבתר ועלי תשוקתו, דבר אחר, אני לדודי, דהא תנינן שכינתא לא אשתכחת עמהון דחייביא, כיון דאתי בר נש לאתדכאה ולמקרב גביה דקב\"ה, כדין שכינתא שריא עליה, הה\"ד אני לדודי בקדמיתא, ועלי תשוקתו לבתר, אתי בר נש לאתדכאה מדכאין ליה.",
               "lang": "arc",
               "reference": "Zohar I 88b:1",
@@ -23701,6 +23704,7 @@
                 "Voortzetting van de Sitre Tora-scène op I 88a."
               ],
               "uncertainties": [],
+              "sectionTitle": "Sitre Tora",
               "original": "שמע מינה דלאו לשם שמים קא עביד, ועאל לאדריה, שמע חד קלא דהוה אמר לא תענשיה, (תוב לגביה) דגברא רבא ליהוי, תב לגביה, אמר ליה תיב ברי תיב, ואנא יהיבנא לך עותרא.",
               "lang": "arc",
               "reference": "Zohar I 88b:4",
@@ -23820,6 +23824,7 @@
                 "Voortzetting van de hoofdtekst op I 88b."
               ],
               "uncertainties": [],
+              "sectionTitle": "Hoofdtekst",
               "original": "דכתיב (שמות ו ג) וארא אל אברהם אל יצחק ואל יעקב באל שדי ועד לא אתגזר לא הוו אינון דרגין שראן עלוי למללא.",
               "lang": "arc",
               "reference": "Zohar I 89a:1",
@@ -23864,6 +23869,7 @@
                 "Voortzetting van Sitre Tora op I 88b. De bron heeft het parenthetische woord “roepen” naast “zich bemoeien met”."
               ],
               "uncertainties": [],
+              "sectionTitle": "Sitre Tora",
               "original": "אשר מחזה שדי יחזה, יחזה סתים הוה מלה מגו מלאכי השרת, בגין דלא יהא לון פטרא, דקודשא בריך הוא ממלל בההוא ערל מסאבא, דהא מלאכי קדישי לא (יקרון) נזקקין בלשון תרגום.",
               "lang": "arc",
               "reference": "Zohar I 89a:3",
@@ -23997,6 +24003,7 @@
               "nl": "“Mijn offergave”: dat is een offer van vlees dat ter verzoening wordt gebracht, bloed voor bloed en vlees voor vlees. Want alle offers worden vanwege het vlees gebracht, om voor het vlees verzoening te doen. Zo heb ik gehoord: als een mens zondigt, wat heeft het dier dan gezondigd? De Heilige, gezegend zij Hij, heeft toch gezegd: “Wanneer een mens uit jullie een offergave brengt”, enzovoort (Leviticus 1:2). Waarom? De Heilige, gezegend zij Hij, heeft de geest van de mens en de geest van het dier gemaakt en de een van de ander onderscheiden. Daarom: “De geest van de mensen, die omhoog opstijgt, en de geest van het dier”, enzovoort (Prediker 3:21). Zeker, zij zijn van elkaar onderscheiden. Wat staat er geschreven voordat de mens zondigde? “God zei: zie, Ik heb jullie al het zaaddragende gewas gegeven”, enzovoort (Genesis 1:29), en: “Het zal jullie tot voedsel zijn” — en niet meer. Toen hij zondigde en de kwade neiging in zijn lichaam en in al zijn nakomelingen werd opgenomen, voltrok Hij het oordeel aan hen.",
               "notes": [],
               "uncertainties": [],
+              "sectionTitle": "Sitre Tora",
               "original": "את קרבני, דא קרבן בשרא דאתקרב לכפרא, דמא על דמא, בשרא על בשרא, בגין דכל קרבנין לאו מתקרבין אלא על בשרא לכפרא על בשרא, והכי שמענא, אי בר נש חטא בהמה מה חטאה, דקודשא בריך הוא אמר (ויקרא א ב) אדם כי יקריב מכם קרבן וגו', אמאי, אלא קודשא בריך הוא עבד רוח בני נשא ורוח הבהמה, ואפריש דא מן דא, ובגין כך (קהלת ג כא) רוח בני האדם העולה היא למעלה, ורוח הבהמה וגומר, ודאי מתפרשן דא מן דא, עד לא חטא אדם מה כתיב, (בראשית א כט) ויאמר אלהי\"ם הנה נתתי לכם את כל עשב זורע זרע וגו', וכתיב לכם יהיה לאכלה ולא יתיר, כיון דחטא ויצר הרע אשתאיב בגופא דיליה, ובכל אינון תולדין, עבד בהו דינא.",
               "lang": "arc",
               "reference": "Zohar I 89b:1",
@@ -24189,6 +24196,7 @@
               "uncertainties": [
                 "De bronzin over geen loon ontvangen om de komende wereld binnen te gaan is compact. De causale verhouding tussen loon, kinderloosheid en toegang achter het voorhangsel vraagt filologische eindcontrole."
               ],
+              "sectionTitle": "Hoofdtekst",
               "original": "ויאמר אברם אדנ\"י יהו\"ה מה תתן לי -- אדנ\"י, אל\"ף דל\"ת נו\"ן יו\"ד, אלהי\"ם יו\"ד ה\"א וי\"ו ה\"א (נ\"א אלהי\"ם יהו\"ה בניקוד אלהי\"ם), אלא רזא דמלה, חבורא דתרין עלמין כחדא, עלמא תתאה ועלמא עלאה, מה תתן לי ואנכי הולך ערירי, דלית לי בר, ואוליפנא דכל מאן דלית ליה ברא בהאי עלמא אקרי ערירי, כמה דאת אמר (ויקרא כ כא) ערירים יהיו. ואברהם על מה אמר מלה דא דאמר מה תתן לי, כביכול כאילו לא האמין ביה בקב\"ה, אלא אמר ליה קב\"ה, אנכי מגן לך בהאי עלמא, שכרך הרבה מאד בעלמא דאתי, מיד אתער אברהם ברזא דחכמתא, ואמר מה תתן לי, דהא ידענא דלא קביל אגר למיעל ביה בההוא עלמא בר נש דלא אוליד בר, ועל דא אמר מה תתן לי ואנכי הולך ערירי, דהא לא תתן לי דלא זכינא ביה, מכאן דבר נש דלא זכי בבנין בהאי עלמא לא זכי בההוא עלמא לאעלא גו פרגודא. ואברהם הוה חמי באצטגנינות דיליה דלא יוליד, מה כתיב ויוצא אותו",
               "lang": "arc",
               "reference": "Zohar I 90a:1",
@@ -24211,6 +24219,7 @@
                 "Sitre Tora: afzonderlijk ingebedde sectie. Tesjoeva, “omkeer”, wordt hier als hogere mystieke werkelijkheid of paleis voorgesteld."
               ],
               "uncertainties": [],
+              "sectionTitle": "Sitre Tora",
               "original": "פתח ואמר, (חבקוק ב כ) ויהו\"ה בהיכל קדשו, הס מפניו כל הארץ, כד בעי קודשא בריך הוא למברי עלמא אסתכל גו מחשבה רזא דאורייתא ורשים רשימין ולא הוה יכיל למיקם, עד דברא תשובה דאיהי היכלא פנימאה עלאה רזא סתימא ותמן אתרשימו ואתציירו אתוון בגלופייהו.",
               "lang": "arc",
               "reference": "Zohar I 90a:2",
@@ -26131,6 +26140,1750 @@
                 "paragraph": 5,
                 "sha256": "f5adfb444311cd1192af70170a35238676c63ebf64e2e28b67c451db8f90200c",
                 "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "97a",
+          "title": "I 97a",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "Rabbi Chijja opende: “De bloesems zijn op het land verschenen, de tijd van het zingen is gekomen en de stem van de tortelduif wordt in ons land gehoord” (Hooglied 2:12). “De bloesems zijn op het land verschenen”: toen de Heilige, gezegend zij Hij, de wereld schiep, legde Hij in de aarde alle kracht die haar toekwam. Alles was in de aarde, maar zij bracht in de wereld geen vruchten voort totdat Adam geschapen werd. Toen Adam geschapen werd, werd alles in de wereld zichtbaar en openbaarde de aarde haar vruchten en haar krachten die in haar waren toevertrouwd.",
+              "notes": [
+                "Het gedeelte begint een uitleg van Genesis 18:1, “JHWH verscheen aan hem”. De bron bevat bij het zichtbaar worden van alles een korte aanwijzing om “voortkomen” niet te lezen."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Hoofdtekst",
+              "original": "רבי חייא פתח, (שיר ב יב) הנצנים נראו בארץ עת הזמיר הגיע וקול התור נשמע בארצנו, הנצנים נראו בארץ, כד ברא קב\"ה עלמא, יהב בארעא כל חילא דאתחזי לה, וכלא הוה בארעא, ולא אפיקת איבין בעלמא עד דאתברי אדם, כיון דאתברי אדם כלא אתחזי (ד\"א ל\"ג למיפק) בעלמא, וארעא גליאת איבהא וחילהא דאתפקדו בה.",
+              "lang": "arc",
+              "reference": "Zohar I 97a:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צז א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "9370025d3ca2e38211cad0ed157200348be127b2164caf66ed20bad1c0c2c958",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "Zo gaf ook de hemel zijn krachten niet aan de aarde totdat Adam kwam. Dat is wat geschreven staat: “Er was nog geen enkele struik van het veld op de aarde en er was nog geen enkel gewas van het veld opgekomen, want JHWH God had het nog niet op de aarde laten regenen en er was geen mens om de aardbodem te bewerken” (Genesis 2:5). Al die voortbrengselen waren verborgen en werden niet geopenbaard; de hemel hield zich in en liet het niet op de aarde regenen, omdat er geen mens was: hij was nog niet aanwezig en nog niet geschapen. Alles werd vanwege hem opgehouden. Toen Adam verscheen, meteen: “De bloesems zijn op het land verschenen.” Alle krachten die verborgen waren, werden geopenbaard en aan haar gegeven. “De tijd van het zingen is gekomen”: de ordening van de lofzangen werd gereedgemaakt om voor de Heilige, gezegend zij Hij, te zingen, iets wat er niet was voordat Adam geschapen werd.",
+              "notes": [],
+              "uncertainties": [],
+              "original": "כגוונא דא שמים לא יהבו חילין לארעא עד דאתא אדם, הה\"ד (בראשית ב ה) וכל שיח השדה טרם יהיה בארץ וכל עשב השדה טרם יצמח כי לא המטיר יהו\"ה אלהי\"ם על הארץ ואדם אין לעבוד את האדמה, אטמרו כל אינון תולדין ולא אתגלון, ושמיא אתעכבו דלא אמטירו על ארעא, בגין דאדם אין, דלא אשתכח ולא אתברי, וכלא אתעכב בגיניה, כיון דאתחזי אדם, מיד הנצנים נראו בארץ, וכל חילין דאתטמרו אתגליאו ואתיהיבו בה, עת הזמיר הגיע, דאתתקן תקונא דתושבחן לזמרא קמי קב\"ה, מה דלא אשתכח עד לא אתברי אדם.",
+              "lang": "arc",
+              "reference": "Zohar I 97a:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צז א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "aa67162ea070f3d6dc27b90185c31490a5482a310bafedef819a513ed78b603b",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "“En de stem van de tortelduif wordt in ons land gehoord”: want het woord van de Heilige, gezegend zij Hij, werd niet…",
+              "notes": [
+                "De zin loopt door in de hoofdtekst op I 97b. De bron geeft aanwijzingen om “alle” en “die Hij maakte” niet te lezen; de doorlopende hoofdzin is gevolgd."
+              ],
+              "uncertainties": [],
+              "original": "וקול התור נשמע בארצנו, דהא (ד\"א ל\"ג כל) מלה דקב\"ה (ד\"א ל\"ג דעבד) דלא",
+              "lang": "arc",
+              "reference": "Zohar I 97a:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צז א",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "24eb55e5eedc91d5db920e0a1200bfd6dda89f08f026f658eca8933a07caa3df",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "Sitre Tora. Het gezag van de Koning verschijnt in drie kleuren. De eerste kleur is een verschijning die het oog van verre ziet. Het oog kan niet duidelijk vaststellen wat het ziet omdat het ver weg is, totdat het oog, door zich samen te trekken, een kleine aanblik opvangt. Daarom staat geschreven: “Van verre is JHWH aan mij verschenen” (Jeremia 31:2).",
+              "notes": [
+                "Sitre Tora: “Geheimen van de Tora”, een afzonderlijk gemarkeerde sectie. De drie kleuren zijn hier tevens onderscheiden wijzen van profetisch zien."
+              ],
+              "uncertainties": [
+                "Hormanuta, “gezag”, kan hier ook op een door de Koning verleende machtiging of beschikking doelen. “In drie kleuren” volgt de bewoording en de aansluitende beschrijving."
+              ],
+              "sectionTitle": "Sitre Tora",
+              "original": "סתרי תורה: הורמנותא דמלכא אתחזי בתלת גוונין, גוון חד, חיזו דאתחזי לעינא מרחיק, ועינא לא יכיל לקיימא בברירו דחזי, בגין דאיהו מרחוק, עד דנטיל עינא חיזו זעיר בקמיטו דיליה, ועל דא כתיב (ירמיה לא ב) מרחוק יהו\"ה נראה לי.",
+              "lang": "arc",
+              "reference": "Zohar I 97a:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צז א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "8f5b8c2613813b65c94c0f46290ee62209d433aa7f30a58bd9def0b2a245c676",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "De tweede kleur is wat dit oog ziet wanneer het gesloten is. Deze kleur wordt alleen voor het oog zichtbaar door het weinige dat het opvangt terwijl het gesloten is, en zij is niet duidelijk vast te stellen. Het oog sluit zich en opent zich een weinig en vangt die verschijning op. Deze kleur heeft uitleg nodig om vast te stellen wat het oog opgevangen heeft. Daarom staat geschreven: “Wat zie je?” (Jeremia 1:11).",
+              "notes": [
+                "De bron geeft bij “dit oog” als variant “één oog” en een korte variante woordschikking bij de laatste vermelding van de kleur."
+              ],
+              "uncertainties": [],
+              "original": "גוון תניין, חיזו דהאי (נ\"א דחד) עינא בסתימו דיליה, דהאי גוון לא אתחזי לעינא בר בסתימו זעיר דנקיט, ולא קיימא בברירו, סתים עינא ופתח זעיר ונקיט ההוא חיזו, וגוון דא (נ\"א, גוון ודא) אצטריך לפתרונא לקיימא על מה דנקיט עינא, ועל דא כתיב (שם א יא) מה אתה רואה.",
+              "lang": "arc",
+              "reference": "Zohar I 97a:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צז א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "da9c11edb2eb0f0d9b25d30bc4be42811e3666bc86ca647d73f3575493166319",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "De derde kleur is de glans van een spiegel, waarin helemaal niets zichtbaar wordt behalve door de beweging van het oog, wanneer het gesloten is en men het in een draaiende beweging beweegt. In die draaiende beweging wordt een spiegel zichtbaar…",
+              "notes": [
+                "De beschrijving loopt door op I 97b. Het woord voor spiegel is aspaklarja."
+              ],
+              "uncertainties": [
+                "De beschrijving van het draaien van het gesloten oog is compact. De precieze wijze van zien is niet met een moderne optische verklaring aangevuld."
+              ],
+              "original": "גוון תליתאה, הוא זהר אספקלריאה דלא אתחזי ביה כלל, בר בגלגולא דעינא, כד איהו סתים בסתימו ומגלגלין ליה בגלגולא, ואתחזאי בהאי גלגולא אספקלריאה",
+              "lang": "arc",
+              "reference": "Zohar I 97a:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צז א",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "fa483ecb5558f75fbf844b54ed2578b7d8306a7994530b4604831c8cc293c335",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "7",
+              "nl": "Midrasj ha-Neëlam. De leraren openden bij dit vers: “Om de geur van je goede oliën; uitgegoten olie is je naam”, enzovoort (Hooglied 1:3). Onze leraren hebben geleerd: wanneer de ziel van een mens van de aarde naar de hemel opstijgt en in die hogere glans staat waarover wij gesproken hebben, bezoekt de Heilige, gezegend zij Hij, haar. Kom en hoor: rabbi Sjimon ben Jochai zei: zodra de ziel van een rechtvaardige op de plaats van de heerlijkheid van de Sjechina staat waar zij behoort te verblijven, roept de Heilige, gezegend zij Hij, de vaderen en zegt tegen hen: ga die rechtvaardige bezoeken die gekomen is en begroet hem met vrede namens Mij. Zij zeggen: Heer van de wereld, het past een vader niet om zijn zoon te gaan bezoeken. Het past de zoon zijn vader te bezoeken, hem te zien en naar hem te zoeken. Dan roept Hij Jakob en zegt tegen hem: jij die verdriet vanwege je kinderen hebt gehad, ga die rechtvaardige verwelkomen die hier gekomen is, en Ik zal met je meegaan. Dat is wat geschreven staat: “Die uw aangezicht zoeken: Jakob. Sela” (Psalm 24:6). Er staat niet “die zoekt”, in het enkelvoud, maar “die zoeken”, in het meervoud. Rabbi Chijja zei: dit blijkt al uit het begin van het vers, want er staat geschreven: “Dit is het geslacht van wie Hem zoeken”, enzovoort.",
+              "notes": [
+                "Midrasj ha-Neëlam: “Verborgen uitleg”, een afzonderlijk gemarkeerde sectie. De uitleg contrasteert de enkelvoudige en meervoudige vorm van “zoeken” in Psalm 24:6."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Midrasj ha-Neëlam",
+              "original": "מדרש הנעלם: רבנן פתחי בהאי קרא, (שיר א ג) לריח שמניך טובים שמן תורק שמך וגומר - תנו רבנן, האי נשמתא דבר איניש בשעתא דסלקא מארעא לרקיעא וקיימא בההוא זיהרא עלאה דאמרן, קודשא בריך הוא מבקר לה, תא שמע אמר רבי שמעון בן יוחאי, כל נשמתא דצדיקא כיון דקיימא באתר שכינתא יקרא דחזיא למיתב, קודשא בריך הוא קרי לאבהתא ואמר לון זילו ובקרו לפלניא צדיקא דאתא, ואקדימו ליה שלמא מן שמי, ואינון אמרין מארי עלמא לא אתחזי לאבא למיזל למיחמי לברא, ברא אתחזי למיחמי ולמחזי ולמתבע לאבוי. והוא קרי ליעקב, ואמר ליה אנת דהוה לך צערא דבנין, זיל וקביל (אולפניה) פני דפלניא צדיקא דאתא הכא, ואנא איזיל עמך, הה\"ד (תהלים כד ו) מבקשי פניך יעקב סלה, מבקש לא נאמר אלא מבקשי. אמר רבי חייא, מרישיה דקרא משמע, דכתיב זה דור דורשיו וגו'.",
+              "lang": "arc",
+              "reference": "Zohar I 97a:7",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צז א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "5445322245419e8472d06999854c0c13fd220a5d2bbe703baa5f6fe548292d87",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "8",
+              "nl": "Rabbi Jakob zei namens rabbi Chijja: onze vader Jakob is de troon van de heerlijkheid. Zo heeft ook de school van Elia geleerd: onze vader Jakob is een troon op zichzelf, want er staat geschreven: “Ik zal mijn verbond met Jakob gedenken” (Leviticus 26:42). De Heilige, gezegend zij Hij, sloot met Jakob alleen een verbond, meer dan met al zijn vaderen…",
+              "notes": [
+                "De bron vermeldt rabbi Akiva als variant bij de naam van de overleveraar. De zin loopt door op I 97b."
+              ],
+              "uncertainties": [],
+              "original": "אמר רבי יעקב אמר רבי חייא (נ\"א, עקיבא), יעקב אבינו הוא כסא הכבוד, וכן תאנא דבי אליהו יעקב אבינו הוא כסא בפני עצמו, דכתיב (ויקרא כו מב) וזכרתי את בריתי יעקב, ברית כרת קודשא בריך הוא ליעקב לבדו יותר מכל אבותיו",
+              "lang": "arc",
+              "reference": "Zohar I 97a:8",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צז א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "bf947fdc701cbc841a5560c4d6ee294ff209649f2f9582fe93aebd0ff2a6832e",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "97b",
+          "title": "I 97b",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "…in de wereld gevonden totdat Adam geschapen werd. Toen Adam aanwezig was, was alles aanwezig.",
+              "notes": [
+                "Voortzetting van I 97a."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Hoofdtekst",
+              "original": "אשתכח בעלמא עד דאתברי אדם, כיון דאשתכח אדם כלא אשתכח.",
+              "lang": "arc",
+              "reference": "Zohar I 97b:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צז ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "22791804c1a1736b6a427500ba4ca11ff9d28af745b910dbb7ee9603369dea51",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "Nadat hij gezondigd had, week alles uit de wereld en werd de aarde vervloekt. Dat is wat geschreven staat: “Vervloekt is de aardbodem vanwege jou”, enzovoort (Genesis 3:17). En er staat: “Wanneer je de aardbodem bewerkt, zal hij je zijn kracht niet meer geven”, enzovoort. En er staat: “Dorens en distels zal hij voor je laten opkomen” (Genesis 3:18).",
+              "notes": [
+                "“Wanneer je de aardbodem bewerkt, zal hij je zijn kracht niet meer geven” staat in Genesis 4:12, in de woorden tot Kaïn. De tekst plaatst het bij de verwijdering van de krachten na de zonde van Adam."
+              ],
+              "uncertainties": [],
+              "original": "בתר דחטא, כלא אסתלק מעלמא, ואתלטיא ארעא, הה\"ד (בראשית ג יז) ארורה האדמה בעבורך וגו', וכתיב כי תעבוד את האדמה לא תוסף תת כחה לך וגו', וכתיב (שם יח) וקוץ ודרדר תצמיח לך.",
+              "lang": "arc",
+              "reference": "Zohar I 97b:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צז ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "ee38e7e41d5cc03a96218fa8a9a94200da2d5b4993edb585e84bda09a1ea61ed",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "Noach kwam en maakte bijlen en vijlen in de wereld gereed. Daarna: “Hij dronk van de wijn, werd dronken en ontblootte zich midden in zijn tent.” De mensen van de wereld kwamen en zondigden voor de Heilige, gezegend zij Hij. De krachten van de aarde weken opnieuw, zoals tevoren, en het bleef zo totdat Abraham kwam. Toen Abraham in de wereld kwam, meteen: “De bloesems zijn op het land verschenen.” Alle krachten in de aarde werden hersteld en geopenbaard. “De tijd van het zingen is gekomen”: toen de Heilige, gezegend zij Hij, tegen hem zei dat hij zich moest laten besnijden. Toen die tijd kwam, het verbond in Abraham aanwezig was en hij besneden werd, werd dit hele vers in hem vervuld en werd de wereld bevestigd. Het woord van de Heilige, gezegend zij Hij, was openlijk bij hem. Dat is wat geschreven staat: “JHWH verscheen aan hem.”",
+              "notes": [
+                "Het Noachcitaat is Genesis 9:21. Zamir kan zingen of snoeien aanduiden; de hier volgende uitleg betrekt het op de besnijdenis."
+              ],
+              "uncertainties": [
+                "De namen van Noachs werktuigen zijn voorlopig als bijlen en vijlen weergegeven; de precieze soort werktuigen is niet nader vastgesteld."
+              ],
+              "original": "אתא נח ותקין קרדומין ופצירי בעלמא, ולבתר וישת מן היין וישכר ויתגל בתוך אהלה, אתו בני עלמא וחבו קמיה דקב\"ה, ואסתלקו חילין דארעא (דעלמא) כמלקדמין, והוו קיימי עד דאתא אברהם, כיון דאתא אברהם (לעלמא), מיד הנצנים נראו בארץ, אתתקנו ואתגלו כל חילין בארעא, עת הזמיר הגיע בשעתא דאמר ליה קב\"ה דיתגזר, כיון דמטא ההוא זמנא, דברית אשתכח ביה באברהם ואתגזר, כדין אתקיים ביה כל האי קרא, ואתקיים עלמא, ומלה דקב\"ה הוה באתגלייא ביה, הה\"ד וירא אליו יהו\"ה.",
+              "lang": "arc",
+              "reference": "Zohar I 97b:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צז ב",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "320b8b15ab320ed8d12da7f1bc3cac5cf40b020e418c13462efd2345d6e37617",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "Rabbi Elazar opende dit vers over de tijd nadat Abraham besneden was. Voordat hij besneden was, sprak Hij immers alleen vanuit de lagere graad met hem, en de hogere graden rustten niet op die graad. Zodra hij besneden was: “De bloesems zijn op het land verschenen.” Dat zijn de lagere graden die deze lagere graad voortbracht en gereedmaakte. “De tijd van het snoeien is gekomen”: dat zijn de uitlopers van de voorhuid. “En de stem van de tortelduif wordt in ons land gehoord”: dat is de stem die voortkomt uit…",
+              "notes": [
+                "De zin over de stem loopt door op I 98a."
+              ],
+              "uncertainties": [],
+              "original": "רבי אלעזר פתח, האי קרא (בשעתא) בתר דאתגזר אברהם, דעד לא אתגזר לא הוה מליל עמיה אלא מגו דרגא תתאה ודרגין עלאין לא הוו קיימי על ההיא דרגא, כיון דאתגזר, מיד הנצנים נראו בארץ, אלין דרגין תתאין דאפיקת ואתקינת האי דרגא תתאה, עת הזמיר הגיע, אלין ענפוי דערלה וקול התור נשמע בארצנו, דא קול דנפיק מגו",
+              "lang": "arc",
+              "reference": "Zohar I 97b:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צז ב",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "e1fe331ac04af9c0673b65368c4954b5f9be0afe4c44e9a8888a43c6eff1bc64",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "…die licht geeft. Men kan die kleur niet vaststellen; men ziet alleen een glans die licht geeft terwijl het oog gesloten is. Daarom staat geschreven: “De hand van JHWH was op mij” (Ezechiël 37:1), “de hand van JHWH kwam tot mij”, en: “De hand van JHWH was krachtig op mij” (Ezechiël 3:14). Zij worden alle voor de ware profeten onderscheiden, behalve Mozes, de hogere getrouwe, die waardig was boven te aanschouwen wat helemaal niet zichtbaar is. Over hem staat geschreven: “Zo is het niet met mijn dienaar Mozes”, enzovoort (Numeri 12:7).",
+              "notes": [
+                "Voortzetting van Sitre Tora op I 97a. De middelste formulering over de hand staat tussen haakjes in de bron."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Sitre Tora",
+              "original": "דנהרא, ולא יכיל לקיימא בהוא גוון, בר דחזי זוהר מנהרא בסתימו דעינא, ועל דא כתיב (יחזקאל לז א) היתה עלי יד יהו\"ה, (ויד הוי\"ה היתה אלי), (שם ג יד) ויד יהו\"ה עלי חזקה, וכלהו מתפרשין לנביאי קשוט, בר משה מהימנא עלאה, דזכה לאסתכלא לעילא במה דלא אתחזי כלל, עליה כתיב (במדבר יב ז) לא כן עבדי משה וגו':",
+              "lang": "arc",
+              "reference": "Zohar I 97b:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צז ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "7106f2bd8354b60a45fc54516b549144af33f9b8a9d91e22dc3cb621a0c963c1",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "“Hij verscheen aan hem”: de Sjechina werd aan hem zichtbaar en openbaarde zich aan hem te midden van die graden die aan haar zijden verbonden waren. Michaël aan de rechterzijde, Gabriël aan de linkerzijde, Rafaël voor en Uriël achter. Daarom werd de Sjechina boven hem geopenbaard bij deze geurige eiken van de wereld, om voor hen het heilige verbond te tonen dat in de hele wereld in het geheim van het geloof aanwezig was.",
+              "notes": [
+                "De bron geeft naast “geurige” als variant “afbeeldingen”. Zij bevat tevens een aanwijzing om de korte woorden “eerste merkteken” niet te lezen. De hoofdlezing is vertaald."
+              ],
+              "uncertainties": [],
+              "original": "וירא אליו -- אתחזי ואתגלי ליה שכינתא גו אינון דרגין דאתחברו בסטרוי, מיכאל לסטר ימינא, גבריאל לסטר שמאלא, רפאל לקמא, אוריאל לאחורא, ועל דא אתגליא עליה שכינתא בהני אלוני בוסמין (נ\"א, צולמין) דעלמא, בגין לאחזאה קמייהו ברית (ד\"א ל\"ג, קדמאה רשימו) קדישא, דהוה בכל עלמא ברזא דמהימנותא.",
+              "lang": "arc",
+              "reference": "Zohar I 97b:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צז ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "e23d8cb6bdc2f3c49f5ec7fdb7efbe7163f7b3e532a113b9f1c2f91e929a65a0",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "7",
+              "nl": "“En hij zat bij de ingang van de tent”: wat is de ingang van de tent? Dat is de plaats die verbond genoemd wordt, het geheim van het geloof.",
+              "notes": [],
+              "uncertainties": [],
+              "original": "והוא יושב פתח האהל -- מאן פתח האהל? דא אתר דאקרי ברית רזא דמהימנותא.",
+              "lang": "arc",
+              "reference": "Zohar I 97b:7",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צז ב",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "93bc0aeeaad905765031bc4764b363d67d93f392ec46bda2b1359fe0f62f664e",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "8",
+              "nl": "“Op het heetst van de dag”: dat is het geheim waarmee Abraham verbonden was, de kracht van de rechterzijde, zijn graad. De ingang…",
+              "notes": [
+                "De uitdrukking “de ingang van de tent” wordt in deze bronmarkering gesplitst en gaat verder op I 98b. Er is in dit extract geen afzonderlijke Sitre Tora-markering voor I 98a."
+              ],
+              "uncertainties": [],
+              "original": "כחום היום-- דא רזא דאתדבק ביה אברהם, תוקפא דסטרא דימינא דרגא דיליה, פתח",
+              "lang": "arc",
+              "reference": "Zohar I 97b:8",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צז ב",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "40a41cefa56f300fe3410123ebde3584fccad2e655adf6017a74ee927c7777a1",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "9",
+              "nl": "…doordat Hij hem tot de troon van de heerlijkheid maakte, afgezien van de eerste.",
+              "notes": [
+                "Voortzetting van Midrasj ha-Neëlam op I 97a."
+              ],
+              "uncertainties": [
+                "“Afgezien van de eerste” noemt niet expliciet welk voorafgaand wezen of welke eerdere troon bedoeld wordt; de verwijzing is open gelaten."
+              ],
+              "sectionTitle": "Midrasj ha-Neëlam",
+              "original": "דעביד ליה כסא הכבוד, בר מן קדמאה.",
+              "lang": "arc",
+              "reference": "Zohar I 97b:9",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צז ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "d46ca2b8e83ec8eabff5e7d9adcd6765e9105993c11aeed683ae4f921420b35c",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "10",
+              "nl": "Rabbi Eliëzer zat en hield zich met de Tora bezig. Rabbi Akiva kwam naar hem toe en zei tegen hem: waarmee houdt mijn meester zich bezig? Hij zei tegen hem: met dit vers, waar geschreven staat: “Hij laat hen een troon van heerlijkheid beërven” (1 Samuël 2:8). Wat betekent “Hij laat hen een troon van heerlijkheid beërven”? Dit is onze vader Jakob, die Hij tot een afzonderlijke troon van heerlijkheid maakte om het bezoek van de zielen van de rechtvaardigen te ontvangen. De Heilige, gezegend zij Hij, gaat met hem mee bij het begin van iedere maand. Wanneer de ziel de heerlijkheid van de spiegel van de Sjechina van haar Heer ziet, zegent zij en buigt zij zich voor de Heilige, gezegend zij Hij. Dat is wat geschreven staat: “Zegen, mijn ziel”, enzovoort (Psalm 104:1). Rabbi Akiva zei: de Heilige, gezegend zij Hij, staat boven hem en de ziel begint en zegt: “JHWH, mijn God, U bent zeer groot”, enzovoort: de hele passage, tot aan het einde waar staat: “Laat de zondaars verdwijnen”, enzovoort (Psalm 104:35). Rabbi Akiva zei verder: niet alleen dit, maar zij prijst Hem ook vanwege het lichaam dat in deze wereld achtergebleven is en zegt: “Zegen JHWH, mijn ziel, en heel mijn binnenste”, enzovoort (Psalm 103:1). En de Heilige, gezegend zij Hij, gaat verder.",
+              "notes": [],
+              "uncertainties": [
+                "Oelfan bij het ontvangen van de zielen is ongewoon; het is hier in de samenhang van het voorafgaande bezoek als “bezoek” weergegeven. Een betekenis in de richting van onderricht blijft filologisch te controleren."
+              ],
+              "original": "רבי אליעזר הוה יתיב והוה לעי באורייתא, אתא לגביה רבי עקיבא, אמר ליה במאי קא עסיק מר, אמר ליה בהאי קרא, דכתיב (שמואל א ב ח) וכסא כבוד ינחילם, מהו כסא כבוד ינחילם, זה יעקב אבינו, דעביד ליה כרסי יקר בלחודוי, לקבלא אולפן נשמתא דצדיקיא וקודשא בריך הוא אזיל עמיה בכל ריש ירחא וירחא, וכד חמי נשמתא יקר אספקלריאה שכינתא דמאריה, מברכת וסגדת קמי קודשא בריך הוא, הה\"ד (תהלים קד א) ברכי נפשי וגו'. אמר רבי עקיבא, קודשא בריך הוא קאים עלוהי ונשמתא פתח ואמר, יהו\"ה אלהי גדלת מאד וגו' כל הפרשה, עד סיומא דקאמר (תהלים קד לה) יתמו חטאים וגו'. ועוד אמר רבי עקיבא, ולא דא בלחודוי, אלא משבחת ליה על גופא דאשתאר בעלמא דין, ואמר (תהלים קג א) ברכי נפשי את יהו\"ה וכל קרבי וגו'. וקודשא בריך הוא אזיל.",
+              "lang": "arc",
+              "reference": "Zohar I 97b:10",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צז ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "73967443722004280cfc2dcedb464e002c9c9983a04fc12c326f18d5a95fd561",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "11",
+              "nl": "Waaruit weten wij dit? Uit dit vers, want er staat geschreven: “JHWH verscheen aan hem bij de eiken van Mamre”: dat is Jakob. Wat betekent Mamre? Omdat hij tweehonderd werelden uit Eden erfde en hij een troon is. Rabbi Isaak zei: Mamre heeft de getalswaarde tweehonderdeenentachtig. Tweehonderd horen bij Eden, want er staat geschreven: “Tweehonderd voor wie zijn vrucht bewaken” (Hooglied 8:12), en eenentachtig is de troon. Daarom wordt het genoemd: “JHWH verscheen aan hem bij de eiken van Mamre”, en daarom wordt hij Mamre genoemd.",
+              "notes": [
+                "De getalswaarde van ממרא is 281; כסא, “troon”, heeft de getalswaarde 81. De overige tweehonderd worden verbonden met Eden en Hooglied 8:12."
+              ],
+              "uncertainties": [],
+              "original": "מנא לן האי? מהאי קרא, דכתיב וירא אליו יהו\"ה באלוני ממרא -- זה יעקב. מהו ממרא? משום דאחסין מאתן עלמין מעדן, והוא כסא. אמר רבי יצחק, ממרא בגימטריא מאתן ותמנין וחד הוה. מאתן -- דעדן, דכתיב (שיר ח יב) ומאתים לנוטרים את פריו, ותמנין וחד דהוא כסא. ובגין כך אתקרי וירא אליו יהו\"ה באלוני ממרא, ועל שום דא נקרא ממרא.",
+              "lang": "arc",
+              "reference": "Zohar I 97b:11",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צז ב",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "3d6a28c72d2ad4e7c96a188f5f60700a563c74bd347882203878ca0a880c64ee",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "12",
+              "nl": "Rabbi Jehoeda zei: wat betekent “bij de eiken”? Dat wil zeggen: zijn kracht, zoals geschreven staat: “De Machtige van Jakob” (Genesis 49:24).",
+              "notes": [
+                "Elone, “eiken van”, wordt hier uitgelegd vanuit het beeld van kracht."
+              ],
+              "uncertainties": [],
+              "original": "אמר רבי יהודה מהו באלוני? ר\"ל תוקפוי, הה\"ד (בראשית מט כד) אביר יעקב.",
+              "lang": "arc",
+              "reference": "Zohar I 97b:12",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צז ב",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "6ea76c7e2e9d304f07e38a4d0ef0f43675db74764169925d55141c0a6e2b5f11",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "13",
+              "nl": "“En hij zat bij de ingang van de tent.” Dat is wat geschreven staat: “JHWH, wie zal in uw tent verblijven?”, enzovoort (Psalm 15:1).",
+              "notes": [],
+              "uncertainties": [],
+              "original": "והוא יושב פתח האהל, הה\"ד (תהלים טו א) יהו\"ה מי יגור באהלך וגומר.",
+              "lang": "arc",
+              "reference": "Zohar I 97b:13",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צז ב",
+                "occurrence": 1,
+                "paragraph": 5,
+                "sha256": "32f8d6b3e19297863e5857270b76eb9fe61a94d5153c06c5ea61ff062e637598",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "98a",
+          "title": "I 98a",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "…dat binnenste van alles. Die stem wordt gehoord. Dit is de stem die het woord afbakent om het uit te spreken en het volkomen maakt.",
+              "notes": [
+                "Voortzetting van de hoofdtekst op I 97b. Stem en spreken worden als onderscheiden maar verbonden mystieke graden uitgelegd."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Hoofdtekst",
+              "original": "ההוא פנימאה דכלא וההוא קול נשמע, ודא קול דגזר מלה למללא ועביד לה שלימו.",
+              "lang": "arc",
+              "reference": "Zohar I 98a:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צח א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "33bafa7144c85d9cbcdbfa5336010681fe02af9d195131614428d26af2a047d7",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "Kom en zie: vóór Abrahams besnijdenis rustte alleen deze graad op hem, zoals wij hebben gezegd. Wat staat er geschreven nadat hij besneden was? “JHWH verscheen aan hem.” Aan wie? Er staat immers niet: “JHWH verscheen aan Abraham.” Want als Abraham bedoeld is, welke grotere lof ligt hierin dan vóór zijn besnijdenis, toen er geschreven staat: “JHWH verscheen aan Abram” (Genesis 12:7)? Het is echter een verborgen geheim: “JHWH verscheen aan hem”, aan die graad die met hem sprak, iets wat er niet eerder was, vóór zijn besnijdenis. Want nu werd de stem geopenbaard en met het spreken verbonden toen Hij met hem sprak. “En hij zat bij de ingang van de tent”: “en hij”, zonder te onthullen wie. Hier wordt wijsheid onthuld: alle graden rustten op deze lagere graad nadat Abraham besneden was.",
+              "notes": [
+                "Het opnieuw uitgelegde vers is Genesis 18:1. De uitleg maakt gebruik van het feit dat “aan hem” in dat vers geen naam noemt."
+              ],
+              "uncertainties": [],
+              "original": "תא חזי דעד לא אתגזר אברהם לא הוה עליה אלא האי דרגא כדאמרן, כיון (לבתר) דאתגזר מה כתיב, וירא אליו יהו\"ה - למאן? דהא לא כתיב וירא יהו\"ה אל אברהם, דאי לאברהם מאי שבחא הכא יתיר מבקדמיתא עד לא אתגזר, דכתיב וירא יהו\"ה אל אברם (בראשית יב ז)? אלא רזא סתימא איהו, וירא אליו יהו\"ה לההוא דרגא דמליל עמיה מה דלא הוה מקדמת דנא עד לא אתגזר, דהשתא אתגלי קול ואתחבר בדבור כד מליל עמיה. והוא יושב פתח האהל - והוא, ולא גלי מאן? אלא הכא גלי חכמתא, דכלהו דרגין שרו על האי דרגא תתאה בתר דאתגזר אברהם.",
+              "lang": "arc",
+              "reference": "Zohar I 98a:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צח א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "3fc9c4864df95c0f6963a9e2f77b18aa79d29f530bd1bb52f90b5604e3867f07",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "Kom en zie: “JHWH verscheen aan hem”: dit is het geheim van de stem die gehoord wordt, die zich met het spreken verbindt en daarin geopenbaard wordt. “En hij zat bij de ingang van de tent”: dat is de hogere wereld die er staat om haar te verlichten. “Op het heetst van de dag”: want de rechterzijde werd verlicht, de graad waarmee Abraham verbonden was. Een andere uitleg: “Op het heetst van de dag”: wanneer de ene graad tot de andere nadert, in het verlangen van de een naar de ander.",
+              "notes": [],
+              "uncertainties": [],
+              "original": "תא חזי וירא אליו יהו\"ה -- דא הוא רזא דקול דאשתמע, דאתחבר בדבור ואתגלי ביה. והוא יושב פתח האהל -- דא עלמא עלאה דקאים לאנהרא עליה. כחום היום -- דהא אתנהיר ימינא, דרגא דאברהם אתדבק ביה. דבר אחר, כחום היום -- בשעתא דאתקריב דרגא לדרגא, בתיאובתא דדא לקבל דא.",
+              "lang": "arc",
+              "reference": "Zohar I 98a:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צח א",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "d6a6b5e799e0c1cb80e8f44fa8bd7a35af119d50efdfb9909ffcfc83db8cd868",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "“Op het heetst van de dag”, want er staat geschreven: “Voor jullie die mijn naam vrezen, zal de zon van gerechtigheid opgaan, met genezing onder haar vleugels” (Maleachi 3:20).",
+              "notes": [
+                "De bron gebruikt de Hebreeuwse versnummering Maleachi 3:20; in veel Nederlandse bijbels is dit 4:2."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Midrasj ha-Neëlam",
+              "original": "כחום היום, דכתיב (מלאכי ג כ) וזרחה לכם יראי שמי שמש צדקה ומרפא בכנפיה.",
+              "lang": "arc",
+              "reference": "Zohar I 98a:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צח א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "8f7122e69bbd98d1ba2431b05a7e18e05b47fd8bb79c0e0e719ff8ef8ebd79bd",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "Rabban Jochanan ben Zakkai zei: op dat ogenblik gaat de Heilige, gezegend zij Hij, op weg. Omdat de vaderen Abraham en Isaak horen dat de Heilige, gezegend zij Hij, naar hem toe gaat, vragen zij Jakob om met hen mee te gaan en hem met vrede te begroeten. Zij staan boven hem. Waaruit blijkt dat? Uit wat geschreven staat: “Hij sloeg zijn ogen op en zag, en zie, drie mannen stonden boven hem.” “Drie mannen”: dat zijn de vaderen Abraham, Isaak en Jakob, die boven hem staan en de goede daden zien die hij heeft gedaan. “Hij zag hen en rende hun tegemoet vanaf de ingang van de tent en boog zich ter aarde”: omdat hij de Sjechina van de heerlijkheid bij hen ziet. Dat is wat geschreven staat: “Daarom hebben de jonge vrouwen je lief” (Hooglied 1:3): dat zijn de vaderen.",
+              "notes": [
+                "De identificatie “dat zijn de vaderen” staat tussen haakjes in de bron. Het vers over de jonge vrouwen wordt op hen toegepast."
+              ],
+              "uncertainties": [],
+              "original": "אמר רבן יוחנן בן זכאי, בההיא שעתא אזיל קודשא בריך הוא, ובגין דשמעין אבהתא אברהם ויצחק דקודשא בריך הוא אזיל לגביה, תבעין מן יעקב למיזל עמהון, ולאקדמא ליה שלם, ואינון קיימין עלויה. ממאי דכתיב וישא עיניו וירא והנה שלשה אנשים נצבים עליו, שלשה אנשים -- (דקיימין) אלין אבהתא אברהם יצחק ויעקב, דקיימין עלוהי, וחמו עובדין טבין דעביד. וירא וירץ לקראתם מפתח האהל וישתחו ארצה -- משום דחמי שכינת יקרא עמהון, הה\"ד (שיר א ג) על כן עלמות אהבוך (אלו הן האבות).",
+              "lang": "arc",
+              "reference": "Zohar I 98a:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צח א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "aaf546d4fa846de647747282eb600f92a41a815905eedb1c754d58737e0748c5",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "Een andere uitleg: “JHWH verscheen aan hem bij de eiken van Mamre.” De leraren legden dit vers uit over het stervensuur van de mens. Want er is geleerd: rabbi Jehoeda zei: het stervensuur van de mens is de grote oordeelsdag, wanneer de ziel zich van het lichaam scheidt. Een mens gaat niet uit de wereld weg voordat hij de Sjechina heeft gezien. Dat is wat geschreven staat: “Want geen mens kan Mij zien en leven” (Exodus 33:20). Met de Sjechina komen drie dienende engelen om de ziel van de rechtvaardige te ontvangen. Dat is wat geschreven staat: “JHWH verscheen aan hem”, enzovoort. “Op het heetst van de dag”: dat is de oordeelsdag die brandt als een oven, om de ziel van het lichaam te scheiden. “Hij sloeg zijn ogen op en zag, en zie, drie mannen”: zij onderzoeken zijn daden, wat hij gedaan heeft, en hij bekent die met zijn mond. Wanneer de ziel dit ziet, gaat zij uit het lichaam tot aan de ingang van de keel en blijft daar staan totdat hij alles heeft beleden wat het lichaam met haar in deze wereld gedaan heeft. Dan verheugt de ziel van de rechtvaardige zich over haar daden en over haar toevertrouwde bezit. Want er is geleerd: rabbi Isaak zei: de ziel van een rechtvaardige verlangt naar het ogenblik waarop zij uit deze wereld zal gaan, die een ademtocht is, om in de komende wereld te genieten.",
+              "notes": [],
+              "uncertainties": [],
+              "original": "דבר אחר: וירא אליו יהו\"ה באלוני ממרא - רבנן פתחי בהאי קרא בשעת פטירתו של אדם. דתניא אמר רבי יהודה, בשעת פטירתו של אדם הוא יום הדין הגדול, שהנשמה מתפרדת מן הגוף, ולא נפטר אדם מן העולם עד שרואה את השכינה, הה\"ד (שמות לג כ) כי לא יראני האדם וחי. ובאין עם השכינה שלשה מלאכי השרת לקבל נשמתו של צדיק, הה\"ד וירא אליו יהו\"ה וגו'. כחום היום -- זה יום הדין הבוער כתנור להפריד הנשמה מן הגוף. וישא עיניו וירא והנה שלשה אנשים, המבקרים מעשיו מה שעשה, והוא מודה עליהם בפיו, וכיון שהנשמה רואה כך, יוצאת מן הגוף עד פתח בית הבליעה, ועומדת שם עד שמתודה כל מה שעשה הגוף עמה בעולם הזה, ואז נשמת הצדיק היא שמחה במעשיה ושמחה על פקדונה, דתאנא אמר רבי יצחק, נשמתו של צדיק מתאוה אימתי תצא מן העולם הזה שהוא הבל, כדי להתענג בעולם הבא.",
+              "lang": "arc",
+              "reference": "Zohar I 98a:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צח א",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "6bf26cb1af8c7557a798b533d56b40c415a84f4301fe22aeb50c271f2fcac305",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "7",
+              "nl": "Onze leraren hebben geleerd: toen rabbi Eliëzer de Grote ziek was, was die dag de vooravond van de sabbat. Hij liet zijn zoon Hyrkanus aan zijn rechterhand zitten en onthulde hem diepe en verborgen zaken. Maar deze nam geen woord in zich op, omdat hij dacht dat zijn vader in zijn denken verward was. Toen hij zag dat het denken van zijn vader helder was, ontving hij van hem honderdnegenentachtig hogere geheimen. Toen hij bij de marmeren stenen kwam die zich in het hogere water mengen, huilde rabbi Eliëzer en hield op met spreken. Hij zei: sta op en ga daar staan, mijn zoon. Hij zei tegen hem: vader, waarom? Hij zei tegen hem: ik zie dat mijn geest uit de wereld zal heengaan.",
+              "notes": [
+                "De frase over het heengaan is in het gebruikte extract onregelmatig: דאוחית חלף. Als vergelijking geeft het variantenapparaat van het Zohar Education Project een handschriftlezing met “mijn geest zal heengaan”. Die ondersteunt de hier gevolgde betekenis, zonder dat het vastgelegde bronextract wordt gewijzigd. Vergelijking: https://web.stanford.edu/dept/press/cgi-bin/aramaic/variants/?sel=437 (I 98a, regel 36)."
+              ],
+              "uncertainties": [
+                "De vertaling van de slotzin volgt de betekenis die door een handschriftvariant wordt ondersteund; de hoofdtekstlezing zelf blijft onregelmatig."
+              ],
+              "original": "תנו רבנן, כשחלה רבי אליעזר הגדול, ההוא יומא ערב שבת הוה, ואותיב לימיניה הורקנוס בריה, והוה מגלי ליה עמיקתא ומסתרתא, והוא לא הוה מקבל בדעתיה מלה, דחשיב דמטורף בדעתיה הוה, כיון דחמא דדעתא דאבוי מתישבא עלוי, קביל מניה מאה ותמנין ותשעה רזין עלאין. כד מטא לאבני שיש דמתערבי במיא עלאה, בכה רבי אליעזר ופסק למימר, אמר קום התם ברי, א\"ל אבא למה, אמר ליה חזינא דאוחית חלף מן עלמא.",
+              "lang": "arc",
+              "reference": "Zohar I 98a:7",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צח א",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "3da32e36fd03259fc9dc1fe13d5b821a8f602b34d8531c87fb9457b696ecb996",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "8",
+              "nl": "Hij zei tegen hem: ga en zeg tegen je moeder dat zij mijn tefillin op een hoge plaats neerlegt. Nadat ik uit de wereld ben heengegaan en hier kom om ze te bekijken, moet je niet huilen. Want zij zijn nabij aan het hogere en niet aan het lagere, en het verstand van een mens heeft geen kennis…",
+              "notes": [
+                "De zin loopt door op I 98b. Tefillin zijn de gebedsriemen; de verwijzingen in de aansluitende uitleg blijven in de bron kort."
+              ],
+              "uncertainties": [
+                "De verwijzingen van “ze” en “zij zijn nabij aan het hogere” zijn niet expliciet. De passage noemt tefillin en daarna nabijheid na het sterven; de vertaling legt geen verdere verklaring vast."
+              ],
+              "original": "אמר ליה זיל ואימא לאמך דתסתלק תפלאי באתר עלאה, ובתר דאסתלק מן עלמא ואיתי הכא למחמי להון, לא תבכי, דאינון קריבין עלאין ולא תתאין, ודעתא דבר נש לא ידע",
+              "lang": "arc",
+              "reference": "Zohar I 98a:8",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צח א",
+                "occurrence": 1,
+                "paragraph": 5,
+                "sha256": "35bdc8678fe0069ae04b408cc6d04a6dce0231a01457cfca5a4707a2a1a0e02f",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "98b",
+          "title": "I 98b",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "“Hij verscheen aan hem.” Rabbi Abba zei: voordat Abraham besneden was, was hij afgesloten. Toen hij besneden was, werd alles geopenbaard en rustte de Sjechina op hem, in volkomenheid, zoals het behoort. Kom en zie: “En hij zat bij de ingang van de tent.” “En hij”: dat is de hogere wereld die op deze lagere wereld rust. Wanneer? “Op het heetst van de dag”: wanneer het verlangen van één rechtvaardige is om daarin te rusten.",
+              "notes": [],
+              "uncertainties": [],
+              "sectionTitle": "Hoofdtekst",
+              "original": "וירא אליו -- אמר רבי אבא עד לא אתגזר אברהם הוה אטים, כיון דאתגזר אתגלי כלא ושרא עליה שכינתא בשלימו כדקא יאות. תא חזי, והוא יושב פתח האהל. והוא -- דא עלמא עלאה דשרי על האי עלמא תתאה. אימתי? כחום היום -- בזמנא דתיאובתא דחד צדיק למישרי ביה.",
+              "lang": "arc",
+              "reference": "Zohar I 98b:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צח ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "d1f03a503a9c64f0ded29198d77faef5c07121f201ef60518820d7c5dcee1a65",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "Meteen: “Hij sloeg zijn ogen op en zag, en zie, drie mannen stonden boven hem.” Wie zijn die drie mannen? Dat zijn Abraham, Isaak en Jakob, die boven deze graad staan, en van hen…",
+              "notes": [
+                "De zin loopt door in de hoofdtekst op I 99a; de ingevoegde Tosefta en Sitre Tora blijven afzonderlijk herkenbaar."
+              ],
+              "uncertainties": [],
+              "original": "מיד וישא עיניו וירא והנה שלשה אנשים נצבים עליו -- מאן אינון שלשה אנשים? אלין אברהם יצחק ויעקב, דקיימי עליה דהאי דרגא ומנייהו",
+              "lang": "arc",
+              "reference": "Zohar I 98b:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צח ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "e4b860cd099f70a94a04a0386fa7d83ee67f47d7e6f17a640f7a38984e3ac19d",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "Tosefta. “JHWH verscheen aan hem bij de eiken van Mamre.” Waarom bij de eiken van Mamre en niet op een andere plaats? Omdat hij hem raad had gegeven over de besnijdenis van zijn verbond. Toen de Heilige, gezegend zij Hij, tegen Abraham zei dat hij zich moest laten besnijden, ging Abraham zijn vrienden raadplegen. Aner zei tegen hem: je bent negentig jaar oud en je brengt jezelf in moeilijkheden. Mamre zei tegen hem: herinner je je de dag waarop de Chaldeeën je in de vuuroven wierpen? En die hongersnood die over de wereld kwam, want er staat geschreven: “Er kwam een hongersnood in het land en Abram daalde af naar Egypte” (Genesis 12:10)? En die koningen die je hebt achtervolgd en verslagen? De Heilige, gezegend zij Hij, heeft je uit alles gered en geen mens kon je kwaad doen. Sta op en volbreng het gebod van je Heer. De Heilige, gezegend zij Hij, zei tegen hem: Mamre, jij hebt hem raad gegeven zich te laten besnijden. Zo waar je leeft, Ik zal Mij alleen in jouw paleis aan hem openbaren. Dat is wat geschreven staat: “Bij de eiken van Mamre.” Tot zover de Tosefta.",
+              "notes": [
+                "Tosefta betekent toevoeging. De uitleg bevat een overlevering over Abrahams redding uit de vuuroven; die gebeurtenis wordt niet als vertelling in Genesis weergegeven. De bron laat Aner “negentig jaar” zeggen; dat getal is behouden."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Tosefta",
+              "original": "תוספתא: וירא אליו יהו\"ה באלוני ממרא -- אמאי באלוני ממרא ולא באתר אחרא, אלא בגין דיהיב ליה עיטא על גזירו דקיימא דיליה, בשעתא דאמר קב\"ה לאברהם למגזר, אזל אברהם לימלך עם חברוי, אמר ליה ענר, אנת בן תשעין שנין ואת מעיק גרמך, א\"ל ממרא, דכרת יומא דרמו לך כשדאי באתון דנורא, וההוא כפנא דעבר על עלמא, דכתיב (בראשית יב י) ויהי רעב בארץ וירד אברם מצרימה, ואינון מלכין דרדפת בתריהון ומחית יתהון, וקב\"ה שזבינך מכלא, ולא יכיל בר נש למעבד לך ביש, קום עביד פקודא דמרך, א\"ל קב\"ה, ממרא, אנת יהבת ליה עיטא למגזר, חייך לית אנא מתגלי עליה, אלא בפלטרין דילך, הה\"ד באלוני ממרא (ע\"כ התוספתא):",
+              "lang": "arc",
+              "reference": "Zohar I 98b:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "תוספתא דף צח ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "36877313762d4cd08ef96c7d889b8dac80b598965f5dd5464eaee5568dce9adb",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "…van de tent is het geheim van de poort van gerechtigheid, de ingang van het geloof. Abraham trad er toen binnen door dat heilige merkteken. “Op het heetst van de dag”: dat is de rechtvaardige, de graad van één verbinding, die degene binnentreedt die besneden is en het heilige merkteken in zich gegrift draagt. Want hij is van de voorhuid bevrijd en is het verbond van deze twee graden binnengetreden, die het geheim van het geloof zijn.",
+              "notes": [
+                "Voortzetting van Sitre Tora op I 97b. “Rechtvaardige” is ook een aanduiding van de verbindende mystieke graad."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Sitre Tora",
+              "original": "האהל רזא דתרעא דצדק פתחא דמהימנותא דכדין עאל ביה אברהם בההוא רשימא קדישא, כחום היום, דא צדיק, דרגא דחבורא חדא דעאל ביה מאן דאתגזר, ואתרשים ביה רשימא קדישא, דהא אתעבר מערלה, ועאל בקיומא דתרין דרגין אלין, דאינון רזא דמהימנותא:",
+              "lang": "arc",
+              "reference": "Zohar I 98b:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צח ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "78896736a8b2b3326a0dc637ddbb259059f325493ab29f5ef8c29ad0b3ce7e8e",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "“En zie, drie mannen”, enzovoort: dat zijn drie engelen, gezanten die zich met lucht bekleden en naar deze wereld afdalen, in de gedaante van een mens. Zij waren drie, naar het voorbeeld van boven, want de regenboog wordt alleen in drie kleuren zichtbaar: wit, rood en groen. Zeker, zo is het. Dit zijn die drie mannen, drie kleuren: de witte kleur, de rode kleur, de groene kleur. De witte kleur is Michaël, want hij is de rechterzijde. De rode kleur is Gabriël, de linkerzijde. De groene kleur is…",
+              "notes": [
+                "De drie kleuren volgen de symbolische indeling van deze tekst. De uitleg van de groene kleur loopt door op I 99a."
+              ],
+              "uncertainties": [],
+              "original": "והנה שלשה אנשים וגו' -- אלין תלת מלאכין שליחן, דמתלבשן באוירא, ונחתי להאי עלמא, (ואתחזון) בחיזו דבר נש, ותלת הוו כגוונא דלעילא, בגין דקשת לא אתחזי אלא בגוונין תלתא, חוור וסומק וירוק, והכי הוא ודאי, ואלין אינון שלשה אנשים, תלתא גוונין, גוון חוור גוון סומק גוון ירוק, גוון חוור דא מיכאל, בגין דאיהו סטרא דימינא. גוון סומק דא גבריאל, סטרא דשמאלא, גוון ירוק דא",
+              "lang": "arc",
+              "reference": "Zohar I 98b:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צח ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "e590e3a9233596b886b7f748bb94970c9ac85a6bac8e5a718351bcd8351c63bb",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "…van hen.",
+              "notes": [
+                "Voortzetting van Midrasj ha-Neëlam op I 98a."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Midrasj ha-Neëlam",
+              "original": "בהו.",
+              "lang": "arc",
+              "reference": "Zohar I 98b:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צח ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "bdcff07367e1b4199a3b3514c467fc0e0d122d7155ff096bfabf6234c26ffda6",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "7",
+              "nl": "Terwijl zij zaten, kwamen de wijzen van de generatie binnen om hem te bezoeken. Hij vervloekte hen omdat zij niet gekomen waren om hem te dienen. Want wij hebben geleerd: haar dienen is groter dan haar bestuderen. Toen rabbi Akiva kwam, zei hij tegen hem: Akiva, Akiva, waarom ben je niet gekomen om mij te dienen? Want het ogenblik om beproefd te worden is gekomen. Hij zei tegen hem: rabbi, ik had er geen tijd voor. Hij werd boos en zei: het zou mij verbazen als jij een natuurlijke dood stierf. Hij vervloekte hem dat zijn dood harder zou zijn dan die van hen allen.",
+              "notes": [
+                "Het dienen betreft het persoonlijk dienen van de leraar als vorm van leren. De uitspraak over het ogenblik van beproeving staat tussen haakjes in de bron."
+              ],
+              "uncertainties": [],
+              "original": "עד דהוו יתבי, עאלו חכימי דרא למבקר ליה. אוליט להו על דלא אתו לשמשא ליה, דתנינן גדולה שמושה יותר מלימודה. עד דאתא רבי עקיבא, אמר ליה עקיבא עקיבא למה לא אתית לשמשא לי (דהא אתא עתא לאצרפא). אמר ליה, רבי לא הוה לי פנאי. ארתח. אמר אתמהה עלך אי תמות מיתת עצמך. לטייה דיהא קשה מכלהון מיתתיה.",
+              "lang": "arc",
+              "reference": "Zohar I 98b:7",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צח ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "a38d50760cc0c486fcf8aedc49fa3fd01492063964beb83776fedd71cb8705ad",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "8",
+              "nl": "Rabbi Akiva huilde en zei tegen hem: rabbi, leer mij Tora. Rabbi Eliëzer opende zijn mond over het werk van de troonwagen. Er kwam vuur dat hen beiden omringde. De wijzen zeiden: hieruit blijkt dat wij daarvoor niet geschikt en waardig zijn. Zij gingen naar de buitenste ingang en gingen daar zitten. Er gebeurde wat er gebeurde, en het vuur ging weg. Hij onderwees driehonderd vastgestelde wetsregels over een felwitte huidvlek en leerde hem tweehonderdzestien verklaringen van de verzen van het Hooglied. Uit de ogen van rabbi Akiva stroomde water en het vuur keerde terug zoals tevoren. Toen hij bij dit vers kwam: “Ondersteun mij met rozijnenkoeken, verkwik mij met appels, want ik ben ziek van liefde” (Hooglied 2:5), kon rabbi Akiva het niet verdragen. Hij verhief zijn stem, huilde en jammerde, en kon niet spreken vanwege de vrees voor de Sjechina die daar aanwezig was. Hij onderwees hem alle diepten en hogere geheimen die in het Hooglied waren. Hij liet hem een eed zweren dat hij geen enkel vers daaruit zou gebruiken, opdat de Heilige, gezegend zij Hij, vanwege hem de wereld niet zou verwoesten. Want het was zijn wil niet dat men het zou gebruiken…",
+              "notes": [
+                "Het werk van de troonwagen, ma’ase merkava, is esoterisch onderricht over het goddelijke troonvisioen. De felwitte huidvlek, baheret, is een categorie uit de reinheidswetgeving van Leviticus 13. De zin over het gebruik van de verzen loopt door op I 99a."
+              ],
+              "uncertainties": [
+                "Het werkwoord voor het gebruiken van de verzen wordt zonder nadere invulling behouden; de tekst noemt hier niet welke handeling daarmee bedoeld wordt."
+              ],
+              "original": "בכי רבי עקיבא ואמר ליה רבי אוליף לי אורייתא. אפתח פומיה רבי אליעזר במעשה מרכבה, אתא אשא ואסחר לתרויהון. אמרו חכימיא, שמע מינה דלית אנן חזיין וכדאין לכך, נפקו לפתחא דברא ויתיבו תמן. הוה מה דהוה, ואזל אשא, ואוליף בבהרת עזה תלת מאה הלכות פסוקות, ואוליף ליה רי\"ו טעמים דפסוקי דשיר השירים. והוו עינוי דרבי עקיבא נחתין מיא, ואתחזר אשא כקדמיתא. כד מטא להאי פסוקא (שיר ב ה) סמכוני באשישות רפדוני בתפוחים כי חולת אהבה אני, לא יכיל למסבל רבי עקיבא, וארים קליה בבכייתא וגעי, ולא הוה ממלל מדחילו דשכינתא דהות תמן. אורי ליה כל עמיקתא ורזין עלאין דהוה ביה בשיר השירים, ואומי ליה אומאה, דלא לישתמש בשום חד פסוק מניה, כי היכי דלא ליחריב עלמא קודשא בריך הוא בגיניה, ולא בעי קמיה דישתמשון ביה",
+              "lang": "arc",
+              "reference": "Zohar I 98b:8",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צח ב",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "84703d619256a5db1d0601e12422912ad4243a8693b4bc127508ea51412cd28f",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "99a",
+          "title": "I 99a",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "…zuigt het fundament van de wereld voeding en wordt het gevoed. Dan: “Hij zag hen en rende hun tegemoet.” Want het verlangen van deze lagere graad is om zich met hen te verbinden, en haar vreugde is om zich achter hen te laten meevoeren. “Hij boog zich ter aarde”: om de troon voor hen gereed te maken. Kom en zie: de Heilige, gezegend zij Hij, maakte koning David tot één steun van de hogere troon, zoals de vaderen. Hoewel hij tegenover hen de troon is, is hij, wanneer hij met hen verbonden is, één steun om in de hogere troon te worden opgenomen. Daarom ontving koning David zeven jaar het koningschap in Hebron, om zich met hen te verbinden. Dit is al besproken.",
+              "notes": [
+                "Voortzetting van I 98b. De bron vermeldt “het fundament van de wereld” tussen haakjes. De drie vaderen en David worden hier als steunen of onderdelen van de hogere troon uitgelegd. Davids koningschap in Hebron: 2 Samuël 2:11; 5:5."
+              ],
+              "uncertainties": [
+                "De wisselende mannelijke en vrouwelijke verwijzingen horen bij het fundament, de lagere graad en de troon; hun precieze toewijzing is niet overal expliciet."
+              ],
+              "sectionTitle": "Hoofdtekst",
+              "original": "יניק (יסודא דעלמא) ואתזן. כדין -- וירא וירץ לקראתם, דתיאובתא דהאי דרגא תתאה לאתחברא בהו וחדוותא דילה לאתמשכא אבתרייהו. וישתחו ארצה -- לאתתקנא כרסייא לגבייהו. תא חזי, עבד קב\"ה לדוד מלכא חד סמכא מכרסייא עלאה כאבהן. ואף על גב דאיהו כרסייא לגבייהו, אבל בזמנא דאתחבר בהו, איהו חד סמכא לאתתקנא בכרסייא עלאה, ובגין כך נטל מלכותא בחברון דוד מלכא שבע שנין, לאתחברא בהו והא אתמר.",
+              "lang": "arc",
+              "reference": "Zohar I 99a:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צט א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "af4742cfedba19cb6ac95895d8ce5e65a94d09f7615d079a88d28c5748c3d271",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "Rabbi Abba opende en zei: “Wie zal de berg van JHWH beklimmen, en wie zal op zijn heilige plaats staan?” (Psalm 24:3). Kom en zie: alle mensen van de wereld zien niet in waarom zij in de wereld bestaan. De dagen gaan voorbij, stijgen op en staan voor de Heilige, gezegend zij Hij: al die dagen waarin mensen in deze wereld bestaan. Want zij alle zijn geschapen en zij alle staan boven. Waaruit weten wij dat zij geschapen zijn? Er staat geschreven: “Dagen werden gevormd” (Psalm 139:16). Wanneer de dagen komen om uit deze wereld weggenomen te worden, komen zij alle nader voor de hogere Koning. Dat is wat geschreven staat: “Davids dagen naderden om te sterven” (1 Koningen 2); “Israëls dagen naderden om te sterven” (Genesis 47:29). Want wanneer een mens in deze wereld is, slaat hij er geen acht op en overdenkt hij niet waarom hij bestaat; hij denkt iedere dag dat die als het ware in leegte voorbijgaat.",
+              "notes": [
+                "Het eerste citaat over Davids naderende dagen staat in 1 Koningen 2:1. De tekst neemt de dagen als geschapen werkelijkheden die voor de Koning verschijnen."
+              ],
+              "uncertainties": [],
+              "original": "רבי אבא פתח ואמר, (תהלים כד ג) מי יעלה בהר יהו\"ה ומי יקום במקום קדשו, תא חזי כל בני עלמא לא חמאן על מה קיימי בעלמא, ויומין אזלין, וסלקין וקיימי קמי קב\"ה, כל אינון יומין דבני נשא קיימי בהו בהאי עלמא, דהא כלהו אתבריאו, וכלהו קיימי לעילא ומנלן דאתבריאו, דכתיב (תהלים קלט טז) ימים יוצרו. וכד מטאן יומין לאסתלקא מהאי עלמא, כלהו קריבין קמי מלכא עלאה, הה\"ד (מלכים א ב ) ויקרבו ימי דוד למות, (בראשית מז כט) ויקרבו ימי ישראל למות. בגין דכד בר נש איהו בהאי עלמא, לא אשגח ולא אסתכל על מה קאים, אלא כל יומא ויומא חשיב כאילו הוא אזיל ברקנייא.",
+              "lang": "arc",
+              "reference": "Zohar I 99a:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צט א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "dfb8f6c402d7372821189d45df274449b8ceb7cd7aaf0bf1c684c1c5b02e51b1",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "Want wanneer de ziel uit deze wereld gaat, weet zij niet langs welke weg men haar omhoogvoert. De weg om op te stijgen naar boven, naar de plaats waar het licht van de hogere zielen straalt, wordt niet…",
+              "notes": [
+                "De zin wordt op I 99b voortgezet."
+              ],
+              "uncertainties": [],
+              "original": "דהא כד נשמתא נפקת מהאי עלמא, לא ידעת לאן אורחא סלקין לה, דהא אורחא לסלקא לעילא לאתר דנהירו דנשמתין עלאין נהרין, לא",
+              "lang": "arc",
+              "reference": "Zohar I 99a:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צט א",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "af1b15ff549e894c30dae0ab4de4e3b6b6b67ad0f116e8997dad53add116bc14",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "…Rafaël. Dit zijn de drie kleuren van de regenboog, want de regenboog verschijnt alleen met hen. Daarom: “Hij verscheen aan hem”: de openbaring van de Sjechina in deze drie kleuren.",
+              "notes": [
+                "Sitre Tora, voortzetting van I 98b. De voorafgaande tekst noemt Rafaël bij de groene kleur. Sjechina: de goddelijke inwoning."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Sitre Tora",
+              "original": "רפאל, והני אינון תלת גוונין דקשת, דקשת לא אתחזייא אלא עמהון, ובגין כך וירא אליו, גלוי שכינה בתלת גוונין אלין.",
+              "lang": "arc",
+              "reference": "Zohar I 99a:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צט א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "90186d10588156c374c1c2d693c2c34ac6c6af126a995676358defec9f198711",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "Zij allen waren nodig. Eén om hem van de besnijdenis te genezen: dat is Rafaël, de heer van de genezingen. Eén om Sara de blijde boodschap over een zoon te brengen: dat is Michaël, want hij is aan de rechterzijde aangesteld en alle goede dingen en zegeningen zijn vanuit de rechterzijde in zijn hand overgegeven. Eén om Sodom om te keren: dat is Gabriël, die aan de linkerzijde staat. Hij is vanuit de linkerzijde, die van het oordeel, aangesteld over alle oordelen van de wereld om te oordelen en te handelen door de hand van de engel van de dood, die de heer van de terechtstellingen van het huis van de Koning is. Zij allen vervulden hun zending, ieder zoals het hem paste: de engel Gabriël met een zending voor de heilige ziel, de engel van de dood met zijn zending voor de ziel van de kwade aandrift. Toch gaat de heilige ziel niet uit voordat zij de Sjechina ziet. Toen hij hen als één verbonden zag, zag hij de Sjechina…",
+              "notes": [
+                "De passage onderscheidt de zendingen van Michaël, Gabriël en Rafaël. Het laatste deel verbindt dit met het uitgaan van de ziel. De slotszin over de Sjechina wordt op I 99b voortgezet. De bron onderscheidt nesjama (“ziel”) bij de heilige ziel van nefesj bij de ziel van de kwade aandrift."
+              ],
+              "uncertainties": [
+                "Bij “toen hij hen zag” verschuift de bron van de uitgaande ziel naar de aanschouwer van de Sjechina. De overgeleverde overgang is behouden zonder het onderwerp nader vast te leggen."
+              ],
+              "original": "וכלהו אצטריכו. חד לאסיא מן המילה, ודא רפאל מאריה דאסוון, וחד לבשרא לשרה על ברא, ודא איהו מיכאל, בגין דאיהו אתמנא לימינא, וכל טבין וברכאן בידיה אתמסרן מסטרא דימינא, וחד להפכא לסדום, ודא איהו גבריאל דאיהו לשמאלא, ואיהו ממנא על כל דינין דעלמא, מסטרא (דדינא) דשמאלא, למידן ולמעבד על ידא דמלאך המות, דאיהו מארי דקטולא דבי מלכא, וכלהו עבדו שליחותהון, וכל חד וחד כדקא חזי ליה, מלאך גברי\"אל בשליחותא לנשמתא קדישא, ומלאך המות בשליחותיה לנפשא דיצר הרע, ועם כל דא נשמתא קדישא לא נפיק, עד דחזי שכינתא, כד חמא לון מתחברן כחדא, כדין חמא שכינתא",
+              "lang": "arc",
+              "reference": "Zohar I 99a:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צט א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "ca586093afe9b5fbde6471bb806f6bb7f3c4563f16022449a6d5b034f85757ad",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "…mijn schepselen, vanwege de overvloed aan heiligheid die erin is. Daarna ging rabbi Akiva naar buiten, schreeuwde het uit en zijn ogen stroomden van tranen. Hij zei: wee, mijn meester, wee, mijn meester, de wereld blijft zonder u als wees achter!",
+              "notes": [
+                "Midrasj ha-Neelam, voortzetting van I 98b. De waarschuwing tegen het gebruiken van de aangehaalde geheimen loopt over de folio-overgang heen."
+              ],
+              "uncertainties": [
+                "Het eerste bronwoord is letterlijk “mijn schepselen”, hoewel het voorafgaande vertellen over de goddelijke wil in de derde persoon staat. De overgang naar deze eerste persoon is behouden."
+              ],
+              "sectionTitle": "Midrasj ha-Neëlam",
+              "original": "ברייתי, מסגיאות קדושתא דאית ביה. לבתר נפיק רבי עקיבא וגעי, ונבעין עינוי מיא. והוה אמר ווי רבי ווי רבי, דאשתאר עלמא יתום מנך.",
+              "lang": "arc",
+              "reference": "Zohar I 99a:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צט א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "013a51432449a84ce5fa8cec364231dbacbb7c39c7f2ef1f64654a53d17c6281",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "7",
+              "nl": "Alle andere wijzen gingen bij hem naar binnen. Zij stelden hem vragen en hij antwoordde hun. De tijd drong voor rabbi Eliëzer. Hij strekte zijn beide armen uit en legde ze op zijn hart. Hij opende en zei: o wereld, de hogere wereld heeft zich ertoe gewend alle licht en alle lampen binnen te halen en voor de lagere wezens te verbergen. Wee jullie, twee armen; wee jullie, twee Tora’s, die vandaag uit de wereld vergeten zullen worden. Want rabbi Isaak zei: alle dagen van rabbi Eliëzer straalde de overlevering uit zijn mond zoals op de dag dat zij op de berg Sinaï gegeven werd. Hij zei: ik heb Tora geleerd en wijsheid begrepen, en ik heb mijn leraren gediend. Zelfs als alle mensen van de wereld schrijvers waren, zouden zij het niet kunnen opschrijven. Mijn leerlingen hebben van mijn wijsheid niet meer weggenomen dan oogzwart in een oog, en ik van mijn leraren niet meer dan iemand die uit de zee drinkt. Dit was alleen om zijn leraren meer eer te geven dan zichzelf.",
+              "notes": [
+                "Bij het opsommen van zijn kennis heeft de bron een parenthetische formulering over het begrijpen van de overlevering. De slotzin geeft de bedoeling van de vergelijking met zijn leraren."
+              ],
+              "uncertainties": [
+                "De vergelijking met “oogzwart in een oog” volgt de hoofdwoorden van de bron; de precieze uitdrukking en de relatie tot de bekende vergelijking van leerlingen en leraren vragen controle."
+              ],
+              "original": "עאלו כל שאר חכימיא גביה, ושאלו ליה, ואתיב להון. הוה דחיק ליה (שעתא) לרבי אליעזר. אפיק תרי דרועוי ושוינון על לביה. פתח ואמר, אי עלמא, עלמא עלאה חזרת לאעלא ולאגנזא מן תתאי כל נהירו ובוצינא. ווי לכון תרי דרעי, ווי לכון תרי תורות, דישתכחון יומא דין מן עלמא. דאמר רבי יצחק כל יומוי דרבי אליעזר, הוה נהירא שמעתא מפומיה כיומא דאתיהיבת בטורא דסיני. אמר, אורייתא (סברית גמרא) גמרית, וחכמתא סברית, ושמושא עבדית, דאילו יהון כל בני אינשא דעלמא סופרים - לא יכלין למכתב. ולא חסרי תלמידי מחכמתי אלא ככוחלא בעינא, ואנא מרבותי אלא כמאן דשתי בימא. ולא הוה אלא למיתן טיבותא לרבוהי יתיר מניה.",
+              "lang": "arc",
+              "reference": "Zohar I 99a:7",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צט א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "6950f06c504d4bf828b9903fa5a5c68047909e75f1a239e28fa319bb4c7110b0",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "8",
+              "nl": "Zij vroegen hem over die schoen van het zwagerhuwelijk, totdat zijn ziel uitging terwijl hij zei: rein. Rabbi Akiva was daar niet. Toen de sabbat geëindigd was, trof rabbi Akiva hem gestorven aan. Hij scheurde zijn kleren en haalde heel zijn vlees open; het bloed daalde neer en stroomde over zijn baard. Hij schreeuwde en huilde. Hij ging naar buiten en zei: hemel, hemel, zeg tegen de zon en de maan dat het licht dat meer straalde dan zij nu donker geworden is.",
+              "notes": [
+                "De schoen hoort bij de chalitsa, de losmaking van de verplichting tot het zwagerhuwelijk. Het laatste antwoord betreft hier de reinheidsstatus van de schoen. De handeling van rabbi Akiva wordt als rouw over zijn meester beschreven."
+              ],
+              "uncertainties": [],
+              "original": "והוו שאלין מניה בההוא סנדלא דיבום, עד דנפק נשמתיה ואמר טהור. ולא הוה תמן רבי עקיבא. כד נפק שבתא אשכחיה רבי עקיבא דמית, בזע מאניה וגריר כל בשריה, ודמא נחית ונגיד על דיקניה. והוה צוח ובכי. נפק לברא ואמר שמיא שמיא, אמרו לשמשא ולסיהרא, דנהירותא דהות נהיר יתיר מנהון הא אתחשך.",
+              "lang": "arc",
+              "reference": "Zohar I 99a:8",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צט א",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "20ae62d58b330433f70d5e15ff5e83ff6de996b84d7c490d623bf7bba463eb6d",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "99b",
+          "title": "I 99b",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "…aan alle zielen gegeven. Want zoals iemand in deze wereld iets naar zich toe heeft getrokken, zo wordt hij geleid nadat hij eruit is gegaan. Kom en zie: als een mens zich in deze wereld door de Heilige, gezegend zij Hij, laat meevoeren en zijn verlangen op Hem gericht is, wordt hij, nadat hij eruit is gegaan, achter Hem aan geleid. Men geeft hem een weg om naar boven op te stijgen, overeenkomstig die aantrekking waardoor hij zich in deze wereld iedere dag gewillig liet meevoeren.",
+              "notes": [
+                "Voortzetting van I 99a. De woorden voor aantrekken, meevoeren en geleid worden keren in het vervolg als kernbegrippen terug."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Hoofdtekst",
+              "original": "אתיהיב לכלהון נשמתין, דהא כגוונא דאיהו אמשיך עליה בהאי עלמא, הכי אתמשכת לבתר דנפיק מניה. תא חזי אי בר נש אתמשיך בתר קב\"ה, ותיאובתא דיליה אבתריה בהאי עלמא, לבתר כד נפיק מניה, איהו אתמשיך אבתריה, ויהבין ליה אורח לאסתלקא לעילא, בתר ההוא משיכו דאתמשיך ברעותא כל יומא בהאי עלמא.",
+              "lang": "arc",
+              "reference": "Zohar I 99b:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צט ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "698da7996dad48a6a19df071d68ff8f246a7190738809fb4721c83986ae70247",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "Rabbi Abba zei: op een dag kwam ik in een stad van degenen die tot de mensen van het oosten behoorden. Zij vertelden mij over de wijsheid die zij sinds vroegere dagen kenden, en zij vonden de boeken van hun wijsheid. Zij brachten mij een boek. Daarin stond geschreven dat, zoals een mens in deze wereld zijn wil op iets richt, hij zo van boven een geest op zich trekt overeenkomstig die wil waarmee hij zich verbonden heeft. Als zijn wil op een hogere, heilige zaak gericht is, trekt hij die zaak van boven naar beneden naar zich toe. Als zijn wil erop gericht is zich met de andere zijde te verbinden en hij zijn aandacht daarop richt, trekt hij die zaak van boven naar beneden naar zich toe.",
+              "notes": [
+                "De “andere zijde”, sitra achra, is de tegengestelde zijde van onreinheid in de mystieke voorstelling van de tekst."
+              ],
+              "uncertainties": [],
+              "original": "א\"ר אבא, יומא חד אערענא בחד מתא מאינון דהוו מן בני קדם, ואמרו לי מההיא חכמתא דהוו ידעין מיומי קדמאי, והוו אשכחן ספרין דחכמתא דלהון, וקריבו לי חד ספרא, והוה כתיב ביה דהא כגוונא דרעותא דבר נש איכוון ביה בהאי עלמא, הכי אמשיך עליה רוח מלעילא כגוונא דההוא רעותא דאתדבק ביה, אי רעותיה איכוין במלה עלאה קדישא -- איהו אמשיך עליה לההיא מלה מלעילא לתתא לגביה, ואי רעותיה לאתדבקא בסטרא אחרא ואיכוין ביה -- איהו אמשיך לההיא מלה מלעילא לתתא לגביה.",
+              "lang": "arc",
+              "reference": "Zohar I 99b:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צט ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "d32b387de665b55601c6d86ef2c5f0837b6ffdd6779c8e77e015862f026a7a66",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "Zij zeiden dat het wezen van de zaak afhangt van woorden, daden en de wil om zich te verbinden. Daardoor trekt men van boven naar beneden die zijde aan waarmee men zich verbonden heeft. Ik vond daarin alle handelingen en erediensten van de sterren en sterrenbeelden en de woorden die zij daarvoor nodig hadden, en hoe men zijn wil daarop moet richten, om…",
+              "notes": [
+                "De zin wordt op I 100a voltooid."
+              ],
+              "uncertainties": [],
+              "original": "והוו אמרי, דעקרא דמלתא תלייא במלין ובעובדא וברעותא לאתדבקא, ובדא אתמשך מלעילא לתתא ההוא סטרא דאתדבק בה, ואשכחנא ביה כל אינון עובדין ופולחנין דככביא ומזלי ומלין דאצטריכו לון, והיאך רעותא לאתכוונא בהו, בגין",
+              "lang": "arc",
+              "reference": "Zohar I 99b:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף צט ב",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "d5a121943f554e7969674be0a5007a5f4c1f72a7e2b5b61c8e831b06e88b21b3",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "…in haar kleuren en boog zich, zoals geschreven staat: “Hij boog zich ter aarde” (Genesis 18:2), zoals Jakob, van wie gezegd wordt: “Israël boog zich aan het hoofdeinde van het bed” (Genesis 47:31), voor de Sjechina.",
+              "notes": [
+                "Voortzetting van I 99a. De bron verwijst bij “hij boog zich ter aarde” naar Genesis 33:2; de geciteerde woorden over Abraham staan in Genesis 18:2. Het parenthetische “op deze wijze” is in de verbinding met Jakob verwerkt."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Sitre Tora",
+              "original": "(כגוונא דא) בגוונהא, וסגיד, דכתיב (בראשית לג ב) וישתחו ארצה, כגוונא דיעקב שנאמר (שם מז לא) וישתחו ישראל על ראש המטה, לשכינה.",
+              "lang": "arc",
+              "reference": "Zohar I 99b:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צט ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "877b4f0038fd03322fee2d8be6d969f69b93d35708ec6ae5ca4757b2e9bd37d0",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "Tegenover de Sjechina sprak hij de naam Adonai uit; tegenover de Rechtvaardige: Adon. Want dan wordt zij Heer van heel de aarde genoemd, wanneer zij vanuit de Rechtvaardige licht ontvangt en in haar kleuren straalt. Daardoor wordt het boven voltooid. Hieruit blijkt dat het schouwspel beneden een aantrekking van boven teweegbrengt. Want deze kleuren trekken een aantrekking van boven aan, vanuit die hogere bronnen. Adonai trekt van boven aan door deze drie kleuren waarin zij zich kleedt. Daardoor ontvangt zij alles wat zij van boven ontvangt. Omdat zij haar verbinding en in alles haar steunen zijn, wordt de naam Adonai uitgesproken. Want deze naam werd hem geopenbaard, vervuld van hogere geheimen. Hij werd hem openlijk geopenbaard, zoals vroeger niet gebeurd was, omdat hij niet besneden was. Totdat hij besneden was, wilde de Heilige, gezegend zij Hij, geen heilig nageslacht uit hem laten voortkomen. Zodra hij besneden was, kwam er onmiddellijk heilig nageslacht uit hem voort. Daarom openbaarde de Sjechina zich aan hem in die heilige…",
+              "notes": [
+                "Adon betekent “heer”; Adonai is de godsnaam die hier met de Sjechina wordt verbonden. De Rechtvaardige is hier een hogere graad. De korte parenthetische variatie bij het voltooien boven is in de hoofdzin verwerkt. De zin loopt door op I 100a."
+              ],
+              "uncertainties": [],
+              "original": "ולגבי שכינתא אמר בשמא אדנ\"י, ולגבי צדיק אדו\"ן, דהא כדין אקרי אדון כל הארץ, כד אתנהרא מצדיק, ואתנהרא בגוונהא, דהא בגין (דא איהו כגוונא דא כדין) דא אשתלים לעילא, מהכא דחיזו דלתתא משיך משיכו מלעילא דהא גוונין אלין משכין משיכא מלעילא, מאינון מקורין עלאין אדנ\"י משכא מלעילא באלין תלת גוונין דאתלבש בהו, ובהו נטלא כל מה דנטלא מלעילא, ובגין דאינון חבורא דילה וסמכין דילה בכלא, אתמר שמא אדנ\"י, דהא שמא דא אתגלי ליה כליל ברזין עלאין, אתגלי ליה באתגליא, מה דלא הות מקדמת דנא, דלא הוה גזיר, ועד דאתגזר לא בעא קודשא בריך הוא לאפקא מניה זרעא קדישא, כיון דאתגזר מיד נפק מניה זרעא קדישא, ובגין כך אתגלי עליה שכינתא באינון דרגין",
+              "lang": "arc",
+              "reference": "Zohar I 99b:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף צט ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "1e0c88f5a19b374e15626219bce0e36a95683c95250579cd6497c749ca4131a1",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "Rabbi Jehoeda zei: wanneer de ziel van de rechtvaardige wil uitgaan, is zij verheugd. De rechtvaardige heeft vertrouwen bij zijn dood, om zijn loon te ontvangen. Dat is wat geschreven staat: “Hij zag hen en rende hun tegemoet”, met vreugde om hen te begroeten. Van welke plaats? “Van de ingang van de tent”, zoals wij gezegd hebben. “Hij boog zich ter aarde”: tegenover de Sjechina.",
+              "notes": [
+                "De ontmoeting van Abraham met de drie mannen wordt hier gelezen in verband met het heengaan van de rechtvaardige."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Midrasj ha-Neëlam",
+              "original": "אמר רבי יהודה, בשעה שנשמת הצדיק רוצה לצאת שמחה, והצדיק בטוח במיתתו כדי לקבל שכרו, הה\"ד וירא וירץ לקראתם בשמחה לקבל פניהם, מאיזה מקום, מפתח האהל כדקא אמרן, וישתחו ארצה לגבי שכינה.",
+              "lang": "arc",
+              "reference": "Zohar I 99b:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צט ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "2417865b989b164952dbbfa5f9d5edd202abcb73bfb7166867875bd34a935c12",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "7",
+              "nl": "Rabbi Jochanan opende en zei: “Totdat de dag ademt en de schaduwen vluchten, keer om, mijn geliefde, wees als een gazelle of een jong hert” (Hooglied 2:17). “Totdat de dag ademt”, enzovoort: dit is een waarschuwing voor de mens terwijl hij in deze wereld is, die als een oogwenk is. Kom en zie wat geschreven staat: “Al leefde hij tweemaal duizend jaar”, enzovoort (Prediker 6:6): op de dag van de dood wordt alles wat hij geleefd heeft voor hem als één dag gerekend. Rabbi Sjimon zei: de ziel van de mens waarschuwt hem en zegt: “Totdat de dag ademt en de schaduwen vluchten”, en het in je ogen als een oogwenk zal lijken, terwijl je nog in deze wereld bent. “En de schaduwen vluchten”: dat is wat geschreven staat: “Want onze dagen op aarde zijn een schaduw” (Job 8:9). Ik verzoek je: “Keer om, mijn geliefde, wees als een gazelle”, enzovoort.",
+              "notes": [
+                "Het parenthetische “en de schaduwen vluchten” is in het citaat opgenomen."
+              ],
+              "uncertainties": [],
+              "original": "רבי יוחנן פתח ואמר, (שיר ב יז) עד שיפוח היום ונסו הצללים סוב דמה לך דודי לצבי או לעופר האילים. עד שיפוח היום וגו' - זו אזהרה לאדם בעודו בעולם הזה שהוא כהרף עין. תא חזי מה כתיב (קהלת ו ו) ואלו חיה אלף שנים פעמים וגו' - ביום המיתה כל מה שחיה נחשב כיום אחד אצלו. אמר רבי שמעון, נשמתו של אדם מתרה בו ואומרת עד שיפוח היום (ונסו הצללים) וידמה בעיניך כהרף עין, בעודך בעולם הזה, ונסו הצללים, הה\"ד (איוב ח ט) כי צל ימינו עלי ארץ, בבקשה ממך סוב דמה לך דודי לצבי וגו'.",
+              "lang": "arc",
+              "reference": "Zohar I 99b:7",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צט ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "b282fe404cfa42706f5dac29f9f5ff3dd112281f3127f6d2f984d7e1b292214a",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "8",
+              "nl": "Een andere uitleg: “Totdat de dag ademt”, enzovoort. Rabbi Sjimon ben Pazi zei: dit is een waarschuwing voor de mens terwijl hij in deze wereld is, die als een oogwenk is. Zoals de gazelle snel ter been is, zo moet ook jij snel zijn als een gazelle of een jong hert om de wil van je Schepper te doen, zodat je de komende wereld mag beërven. Dat zijn de bergen van specerijen, die de berg van JHWH, de berg van verlustiging, de goede berg genoemd worden.",
+              "notes": [
+                "De bergen van specerijen hernemen Hooglied 8:14; de vergelijking met de gazelle komt uit 2:17."
+              ],
+              "uncertainties": [],
+              "original": "דבר אחר, עד שיפוח היום וגו', אמר רבי שמעון בן פזי, זו אזהרה לאדם בעודו בעולם הזה שהוא כהרף עין, מה הצבי קל ברגליו, אף אתה היה קל כצבי או כעפר האילים, לעשות רצון בוראך כדי שתנחל העולם הבא, שהוא הרי בשמים, הנקרא הר יהו\"ה הר התענוג ההר הטוב.",
+              "lang": "arc",
+              "reference": "Zohar I 99b:8",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צט ב",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "e9c480859605e26392cc5590b289d7f21f332314e8e2c4ac14cd1a523bd20c23",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "9",
+              "nl": "Midrasj ha-Neelam. Rabbi Chijja zei namens Rav: als wij dit gedeelte onderzoeken, laten wij het dan met wijsheid onderzoeken. Als het over de ziel gaat, is het begin niet het slot en het slot niet het begin…",
+              "notes": [
+                "Een nieuwe inzet van Midrasj ha-Neelam in de bron. De vraag over de samenhang van de uitleg gaat verder op I 100a."
+              ],
+              "uncertainties": [
+                "“Het begin is niet het slot en het slot niet het begin” is als bezwaar tegen de samenhang van de voorafgaande allegorische uitleg weergegeven; de uitwerking volgt op de volgende bronzijde."
+              ],
+              "original": "מדרש הנעלם: אמר רבי חייא אמר רב, אי הוינא מסתכלין בפרשתא דא, נסתכל בחכמתא, אי עניינא דנשמתא היא, לאו רישא סופא ולאו סופא רישא",
+              "lang": "arc",
+              "reference": "Zohar I 99b:9",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף צט ב",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "454073a349bba5dc360d00a62f2717ba08f223561e213abc6bb74eb06aa08c73",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "100a",
+          "title": "I 100a",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "…ze naar zich toe te trekken.",
+              "notes": [
+                "Voortzetting van I 99b."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Hoofdtekst",
+              "original": "לאמשכא לון לגבייהו.",
+              "lang": "arc",
+              "reference": "Zohar I 100a:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף ק א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "857303e66bef22da21f538b1f52f4d1bf700b7190633551aaadaf6046ae2059a",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "Zo is het ook met iemand die zich boven met de heilige geest wil verbinden. Want het hangt af van daden, woorden en de gerichte wil van het hart om die zaak van boven naar beneden naar zich toe te trekken en zich ermee te verbinden. Zij zeiden: zoals een mens zich in deze wereld laat meevoeren, zo voert men hem ook mee wanneer hij uit deze wereld gaat. Waarmee hij zich in deze wereld verbonden heeft en wat hij gevolgd is, daarmee verbindt hij zich ook in die wereld. Als het in heiligheid was: in heiligheid; als het in onreinheid was: in onreinheid. Als het in heiligheid was, voert men hem naar die zijde en verbindt hij zich boven daarmee. Hij wordt tot dienaar aangesteld om voor de Heilige, gezegend zij Hij, te dienen, tussen die andere engelen. Zoals hij zich boven verbonden heeft, staat hij tussen die heiligen. Want er staat geschreven: “Ik zal je toegang geven onder hen die hier staan” (Zacharia 3:7).",
+              "notes": [
+                "De tekst verbindt de levensrichting van de mens met diens plaats na het verlaten van de wereld."
+              ],
+              "uncertainties": [],
+              "original": "כגוונא דא מאן דבעי לאתדבקא לעילא ברוח קודשא, דהא בעובדא ובמלין וברעותא דלבא לכוונא, בההיא מלה תלייא מלתא לאמשכא ליה לגביה מעילא לתתא ולאתדבקא בההיא מלה. והוו אמרי כמה דבר נש אתמשך בהאי עלמא, הכי נמי משכין ליה כד נפיק מהאי עלמא, ובמה דאתדבק בהאי עלמא ואתמשך אבתריה -- הכי אתדבק בההוא עלמא. אי בקודשא - בקודשא, ואי במסאבא - במסאבא. אי בקודשא -- משכין ליה לגבי ההוא סטר ואתדבק ביה לעילא, ואתעביד ממנא שמשא לשמשא קמי קב\"ה בין אינון שאר מלאכין, כמה דהכי אתדבק לעילא וקאים בין אינון קדישין דכתיב (זכריה ג ז) ונתתי לך מהלכים בין העומדים האלה.",
+              "lang": "arc",
+              "reference": "Zohar I 100a:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף ק א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "dbf4ed98c8e5147bec89d6028fd280d786794ad8662c6e7679b0813b7210abd2",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "Op dezelfde wijze: als het in onreinheid was, voert men hem naar die zijde en wordt hij als één van hen, om zich met hen te verbinden. Zij worden “schadelijke machten voor de mensen” genoemd. Op het ogenblik waarop hij uit deze wereld gaat, nemen zij hem en trekken hem Gehinnom in, naar die plaats waar men de onreinen oordeelt die zichzelf en hun geesten hebben verontreinigd. Daarna verbindt hij zich met hen en is hij een schadelijke macht, als één van die schadelijke machten van de wereld.",
+              "notes": [],
+              "uncertainties": [],
+              "original": "הכי נמי כגוונא דא, אי במסאבא -- משכין ליה לגבי ההוא סטר ואתעביד כחד מנייהו לאתדבקא בהו, ואינון אקרון 'נזקי בני נשא', ובההיא שעתא דנפיק מהאי עלמא נטלין ליה ושאבין ליה בגיהנם בההוא אתר דדייני לון לבני מסאבא דסאיבו גרמייהו ורוחייהו, ולבתר אתדבק בהו, ואיהו נזקא כחד מאינון נזקי דעלמא.",
+              "lang": "arc",
+              "reference": "Zohar I 100a:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף ק א",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "5fec443b9d9b03aecd759874dc8a2293f3272d52cb4332ed0f73081cd893c23c",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "Ik zei tegen hen: mijn zonen, dit komt dicht bij de woorden van de Tora. Maar jullie moeten je ver houden van die boeken, opdat…",
+              "notes": [
+                "De vermaning van rabbi Abba gaat verder op I 100b. De bron heeft de korte parenthetische woorden “uit het midden van” en “deze” bij de boeken."
+              ],
+              "uncertainties": [],
+              "original": "אמינא לון בני קריבא דא למלין דאורייתא, אבל אית לכו לאתרחקא (מגו) מאינון ספרין (אלין), בגין דלא",
+              "lang": "arc",
+              "reference": "Zohar I 100a:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף ק א",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "4e75da24eeeb1fc56fb2b97c46828ab4cd3b28f2c47a770cacee44bdd4b969dd",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "…graden.",
+              "notes": [
+                "Voortzetting van I 99b."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Sitre Tora",
+              "original": "קדישין.",
+              "lang": "arc",
+              "reference": "Zohar I 100a:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף ק א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "f68fb28ea592d4970c4908bf028911896fe0ac12739bbf6a3b5bc935e2096897",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "“De verstandigen zullen stralen als de glans van het hemelgewelf” (Daniël 12:3). Glans: de straling van wat straalt in de gloed van straling. Glans die licht geeft, die ontbrandt en naar vele zijden vonkt. Glans die opstijgt en neerdaalt. Glans die naar alle kanten vonkt. Glans die stroomt en uitgaat. Glans die nooit ophoudt. Glans die nakomelingen voortbrengt. Verborgen en opgeborgen glans, de schittering van alle schitteringen en lampen. Alles gaat daarin uit en is verborgen, toegesloten en geopenbaard, gezien en niet gezien. Dit boek, een bron van de put, komt overdag tevoorschijn en is ’s nachts verborgen. Het verlustigt zich te middernacht met de nakomelingen die het voortgebracht heeft. Glans die straalt en voor alles licht geeft: het geheel van de Tora. Dit is wat zichtbaar is; alle kleuren zijn daarin verborgen. Het wordt met de naam Adonai genoemd. Drie kleuren worden hieruit beneden zichtbaar.",
+              "notes": [
+                "Zohar betekent “glans”. Het herhaalde woord uit Daniël 12:3 structureert de hele passage. De verwijzing naar “dit boek” is in de vertaling behouden."
+              ],
+              "uncertainties": [
+                "De compacte overgang van “gezien en niet gezien” naar “dit boek, een bron van de put” is voorlopig zo weergegeven; de precieze referent van “dit boek” vraagt filologische controle."
+              ],
+              "original": "והמשכילים יזהירו כזהר הרקיע (דניאל יב ג) -- זה\"ר זהרא דזהרין בדליקו זהרא זה\"ר דאנהיר דאדליק ונציץ לכמה סטרין, זה\"ר סליק ונחית, זה\"ר נציץ לכל עיבר, זה\"ר נגיד ונפיק, זה\"ר דלא פסיק לעלמין, זה\"ר דעביד תולדין, זה\"ר טמיר וגניז נציצו דכל נציצין ושרגין, כלא ביה נפיק וטמיר, סתים וגלי, חזי ולא חזי (זה\"ר) ספרא דא מבועא דבירא, נפיק ביממא טמיר בליליא, אשתעשע בפלגות ליליא בתולדין דאפיק, זה\"ר דזהיר ואנהיר לכלא, כללא דאורייתא, ודא איהו דאתחזי, וכל גוונין סתימין ביה, ואתקרי בשמא דאדנ\"י, תלת גוונין אתחזי לתתא מהאי.",
+              "lang": "arc",
+              "reference": "Zohar I 100a:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף ק א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "b3d2532439b209d3dc014de7c082dd19504e9339261d40a2b446ba5b8df037c2",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "7",
+              "nl": "Drie kleuren zijn boven. Uit deze hogere wordt alles aangetrokken naar de glans die niet zichtbaar is. Hij vonkt met twaalf vonken en stralingen die uit hem schitteren. Dertien zijn het, in het geheim van de heilige…",
+              "notes": [
+                "De bron heeft als variante aansluiting “naar de glans” en herhaalt in een parenthetische lezing “die hogere, glans”. De zin wordt op I 100b voltooid."
+              ],
+              "uncertainties": [
+                "De wisseling van twaalf vonken naar dertien wordt niet verklaard in deze korte bronalinea en is behouden."
+              ],
+              "original": "תלת גוונין לעילא, מאלין עלאין אתמשך כלא (ס\"א, לגבי זהר) (אינון עלאין, זהר) דלא אתחזי, ונציץ בתריסר נציצין וזהירין דנציצין מניה, תליסר אינון ברזא דשמא",
+              "lang": "arc",
+              "reference": "Zohar I 100a:7",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף ק א",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "629cbc3648ea819e2dd538dde9e5f267b0750f18cbeb6cd855fe57f9cc60ec16",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "8",
+              "nl": "…en als het over het heengaan van een mens uit de wereld gaat, zouden wij het hele gedeelte omverhalen. Ofwel leggen wij het gedeelte uit in deze zin, ofwel in die zin. Wat betekent dan: “Laat er toch wat water gehaald worden en was jullie voeten”, enzovoort; “Ik zal een stuk brood halen”, enzovoort; “Abraham haastte zich naar de tent, naar Sara”, enzovoort; “Abraham rende naar het rundvee”, enzovoort; “Hij nam boter en melk”, enzovoort? Toen Rav Dimi kwam, zei hij: de ziel zou geen nut voor het lichaam gevonden hebben, ware het niet om de toespeling op de offers waarop hier wordt gedoeld. De offers zijn opgehouden, maar de Tora is niet opgehouden. Wie zich niet met offers kan bezighouden, moet zich met de Tora bezighouden en zal er meer baat bij hebben. Want rabbi Jochanan zei: toen de Heilige, gezegend zij Hij, de offers uiteenzette, zei Mozes: Heer van de wereld, dat is goed zolang Israël op zijn land woont. Maar wat zullen zij doen wanneer zij van hun land verbannen zijn? Hij zei tegen hem: Mozes, laat hen zich met de Tora bezighouden, en Ik zal hun omwille daarvan meer vergeven dan om alle offers van de wereld. Want er staat geschreven: “Dit is de Tora voor het brandoffer en voor het graanoffer”, enzovoort (Leviticus 7:37). Dat wil zeggen: dit is de Tora in plaats van het brandoffer, in plaats van het graanoffer, in plaats van het zondoffer en in plaats van het schuldoffer.",
+              "notes": [
+                "Voortzetting van I 99b. De aangehaalde handelingen komen uit Genesis 18:4–8. Het betoog leest de studie van de offerwetten als vervulling van de woorden “dit is de Tora” in Leviticus 7:37."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Midrasj ha-Neëlam",
+              "original": "ואי עניינא לפטירת איניש מעלמא היא, נסתור כל פרשתא, או נוקים פרשתא בהאי או בהאי, מהו יוקח נא מעט מים ורחצו רגליכם וגומר, ואקחה פת לחם וגומר, וימהר אברהם האהלה אל שרה וגומר, ואל הבקר רץ אברהם וגומר, ויקח חמאה וחלב וגומר, כד אתא רב דימי אמר, לא מצאה הנשמה תועלת לגוף, אלמלא מה שרמז בכאן רמז הקרבנות, בטלו הקרבנות לא בטלה התורה, האי דלא אעסק בקרבנות, ליעסק בתורה ויתהני ליה יתיר, דאמר רבי יוחנן, כשפירש הקדוש ברוך הוא הקרבנות, אמר משה, רבונו של עולם תינח בזמן שיהיו ישראל על אדמתם, כיון שיגלו מעל אדמתם מה יעשו, אמר לו, משה, יעסקו בתורה ואני מוחל להם בשבילה יותר מכל הקרבנות שבעולם, שנאמר (ויקרא ז לז) זאת התורה לעולה ולמנחה וגו', כלומר זאת התורה בשביל עולה בשביל מנחה בשביל חטאת בשביל אשם.",
+              "lang": "arc",
+              "reference": "Zohar I 100a:8",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף ק א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "ff70c7f4d432c2fc31015b74a30290a3859f07c0d69569c157ea63eded1137fd",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "9",
+              "nl": "Rabbi Kroespedai zei: voor degene die met zijn mond in synagogen en leerhuizen het onderwerp van de offers en offergaven noemt en zijn aandacht daarop richt, is een verbond gesloten. Die engelen die zijn zonden noemen om hem kwaad te doen, zullen hem alleen goed kunnen doen. Wat bewijst het? Dit gedeelte bewijst het. Want nadat er gezegd is: “Zie, drie mannen stonden boven hem” — wat betekent “boven hem”? Om zijn oordeel te onderzoeken. Toen…",
+              "notes": [
+                "De gevolgtrekking wordt op I 100b voortgezet."
+              ],
+              "uncertainties": [],
+              "original": "אמר רבי כרוספדאי, האי מאן דמדכר בפומיה בבתי כנסיות ובבתי מדרשות, עניינא דקרבניא ותקרובתא ויכוון בהו, ברית כרותה הוא, דאינון מלאכיא דמדכרין חוביה לאבאשא ליה, דלא יכלין למעבד ליה אלמלא טיבו, ומאן יוכח, האי פרשתא יוכח, דכיון דאמר והנה שלשה אנשים נצבים עליו, מהו עליו, לעיין בדיניה, כיון",
+              "lang": "arc",
+              "reference": "Zohar I 100a:9",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף ק א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "383e987546c544b07a619dc6ce198614c0568db0dfb3e72f564a95c26835e571",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "100b",
+          "title": "I 100b",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "…jullie hart niet afwijkt naar die erediensten en naar al die zijden die hier genoemd worden, en jullie je misschien, wat de hemel verhoede, van de dienst van de Heilige, gezegend zij Hij, zouden afwenden. Want al die boeken misleiden de mensen. De mensen van het oosten waren wijs, en deze wijsheid erfden zij van Abraham, die haar aan de zonen van de bijvrouwen gaf. Want er staat geschreven: “Aan de zonen van de bijvrouwen die Abraham had, gaf Abraham geschenken. Terwijl hij nog leefde, zond hij hen weg van zijn zoon Isaak, naar het oosten, naar het land van het oosten” (Genesis 25:6). Daarna lieten zij zich door die wijsheid naar verschillende zijden meevoeren. Maar zo is het niet met het nageslacht van Isaak, het deel van Jakob. Want er staat geschreven: “Abraham gaf alles wat hij had aan Isaak” (Genesis 25:5). Dit is het heilige deel van het geloof waarmee Abraham zich verbonden had en dat voortkwam uit dat lot en die zijde. Wat staat er over Jakob geschreven? “Zie, JHWH stond boven hem” (Genesis 28:13). En er staat: “Maar nu, Jakob, mijn dienaar”, enzovoort (Jesaja 44:1). Daarom moet de mens zich door de Heilige, gezegend zij Hij, laten meevoeren en zich voortdurend met Hem verbinden. Want er staat geschreven: “Aan Hem zul je je vasthouden” (Deuteronomium 10:20).",
+              "notes": [
+                "Voortzetting van I 100a. Het citaat “JHWH stond boven hem” is Genesis 28:13; de bron verwijst naar vers 12. Bij de afwending van Gods dienst staat in de bron een parenthetisch “niet”, dat binnen de waarschuwende formulering wordt gelezen."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Hoofdtekst",
+              "original": "יסטי לבייכו לאלין פולחנין, ולכל אינון סטרין דקאמר הכא, דילמא ח\"ו (לא) תסטון מבתר פולחנא דקב\"ה, דהא כל ספרים אלין אטעיין לון לבני נשא, בגין דבני קדם חכימין הוו, וירותא דחכמתא דא ירתו מאברהם דיהב לבני פלגשים, דכתיב (בראשית כה ו) ולבני הפלגשים אשר לאברהם נתן אברהם מתנות וישלחם מעל יצחק בנו בעודנו חי קדמה אל ארץ קדם, ולבתר אתמשכו בההיא חכמה לכמה סטרין. אבל זרעא דיצחק חולקא דיעקב לאו הכי, דכתיב (שם ה) ויתן אברהם את כל אשר לו ליצחק -- דא חולקא קדישא דמהימנותא דאתדבק ביה אברהם, ונפק מההוא עדבא ומההוא סטרא. יעקב מה כתיב ביה (שם כח יב) והנה יהו\"ה נצב עליו, וכתיב (ישעיה מד א) ואתה יעקב עבדי וגו', בגיני כך בעי ליה לבר נש לאתמשכא בתר קב\"ה ולאתדבקא ביה תדיר, דכתיב (דברים י כ) ובו תדבק.",
+              "lang": "arc",
+              "reference": "Zohar I 100b:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף ק ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "f468704e33394212c68e9314e0b026c29d96d97d49dc50c8de4c50521ca74f9c",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "Kom en zie: “Wie zal de berg van JHWH beklimmen?”, enzovoort (Psalm 24:3). Daarna keert hij erop terug en legt het uit: “Wie reine handen heeft” — die met zijn handen geen afbeelding maakt en ze niet krachtig gebruikt voor wat niet behoort. Verder: die zich er niet mee verontreinigt en zijn lichaam er niet mee verontreinigt, zoals degenen die zichzelf met de handen onrein maken. Dat is: “Wie reine handen heeft.” “En een zuiver hart”: op dezelfde wijze, dat hij zijn wil en zijn hart niet naar de andere zijde trekt, maar zich laat meevoeren achter de dienst van de Heilige, gezegend zij Hij. “Die mijn ziel niet tot leegheid heeft opgeheven”: er staat geschreven “zijn ziel”, maar er wordt gelezen “mijn ziel”. Wij hebben dit al uitgelegd…",
+              "notes": [
+                "Psalm 24:3–4. De bron onderscheidt de geschreven vorm nafsjo, “zijn ziel”, van de gelezen vorm nafsji, “mijn ziel”. De uitleg wordt op I 101a voortgezet."
+              ],
+              "uncertainties": [
+                "Toefsa is voorlopig als “afbeelding” weergegeven. De daaropvolgende formulering over het krachtige gebruik van de handen is compact; de tekst gaat daarna over het verontreinigen van het lichaam met de handen."
+              ],
+              "original": "תא חזי (תהלים כד ג) מי יעלה בהר יהו\"ה וגו', ולבתר אהדר ופירש נקי כפים, דלא עביד בידוי טופסא ולא אתתקף בהו במה דלא אצטריך, ותו דלא אסתאב בהו, ולא סאיב בהו לגופא, כאינון דמסאבין גרמייהו בידין לאסתאבא ודא הוא נקי כפים, ובר לבב, כגוונא דא דלא אמשיך רעותיה ולביה לסטרא אחרא, אלא לאתמשכא בתר פולחנא דקב\"ה, אשר לא נשא לשוא נפשי, נפשו כתיב נפשי קרי, והא אוקמוה",
+              "lang": "arc",
+              "reference": "Zohar I 100b:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "דף ק ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "dcec787bfd8f2194be02b60bd0b806f80f235c9c58736aba4c16fa855bb17592",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "…naam, enzovoort. Het geheim van Ein Sof wordt JHWH genoemd.",
+              "notes": [
+                "Voortzetting van I 100a. Ein Sof: het oneindige."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Sitre Tora",
+              "original": "קדישא וגו', רזא דאין סוף יהו\"ה אקרי.",
+              "lang": "arc",
+              "reference": "Zohar I 100b:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף ק ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "175e72d852cd2e7800c7e283d579d32b634cafd1e84bec8df5136e883b0c9146",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "Wanneer de lagere glans, Adonai, verbonden wordt met de hogere glans, JHWH, ontstaat een verborgen naam, waardoor de ware profeten kennen en in de hogere glans schouwen. Dit is יאהדונהי, de aanblik van verborgenheden, zoals geschreven staat: “Als de aanblik van chasjmal midden uit het vuur” (Ezechiël 1:4).",
+              "notes": [
+                "De gecombineerde naam יאהדונהי verweeft de letters van JHWH en Adonai. De geschreven combinatie is behouden zonder een uitspraak te suggereren. De bron geeft “verborgen levende wezens” als variant naast “aanblik van verborgenheden”. Chasjmal is het beeld uit Ezechiël 1:4 dat vaak met glanzend metaal of barnsteen wordt verbonden."
+              ],
+              "uncertainties": [],
+              "original": "כד אתחבר זהר תתאה אדנ\"י בזהר עלאה יהו\"ה אתעביד שמא סתים, דביה ידעי נביאי קשוט, ומסתכלאן לגו זהרא עלאה ודא יאהדונה\"י, חיזו טמירין (נ\"א, חיוון טמירין), דכתיב (יחזקאל א ד) כעין החשמל מתוך האש:",
+              "lang": "arc",
+              "reference": "Zohar I 100b:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף ק ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "27ae1446d7dc2d0009d378ef28b7c0824a40eb3466e0d840df3eaee1ccf97a6c",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "Matnitin. Hogere, verheven goede machten van de rechterzijde: negen punten van de Tora gaan uit en verdelen zich over de letters. De letters bewegen zich door hen; hun bewegingen zijn fijn, in geheimen verdeeld. Deze negen heersen over de letters.",
+              "notes": [
+                "Matnitin: in de bron een nieuw tekstonderdeel binnen deze sectie. De negen punten zijn de klinkerpunten of vocalisatietekens die de letters bewegen. De bron vermeldt bij “bewegen” ook het woord “verplaatst” en bij de geheimen de parenthetische aanduiding “paleizen”."
+              ],
+              "uncertainties": [
+                "De beginwoorden “hogere, verheven goede machten van de rechterzijde” zijn elliptisch: een expliciet zelfstandig naamwoord ontbreekt. De passage over bewegingen, geheimen en paleizen heeft een compacte en variantgevoelige syntaxis."
+              ],
+              "original": "מתניתין עלאין רמאין טבין דימינא, תשע נקודין דאורייתא נפקין ומתפלגין באתוון, ואתוון בהו נטלין (מטלטלן), מטלנוי דקיקין ברזי (פלטין) פליגין, אלין תשע שליטין על אתוון.",
+              "lang": "arc",
+              "reference": "Zohar I 100b:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף ק ב",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "5b665d559ed2cb8d19e7801c5b8da74173abac26c7ba0da281be58f36b0a8ac3",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "De letters hebben zich van hen uitgebreid; de punten blijven over om ze omhoog te voeren. Zij bewegen zich alleen wanneer die uitgaan. Deze bestaan in het geheim van Ein Sof. Alle letters bewegen zich in het geheim van Ein Sof. Zoals zij die bewegen, zo bewegen ook deze verborgenen. De letters zijn zichtbaar en niet zichtbaar; deze zijn verborgen boven datgene waarop zij rusten.",
+              "notes": [
+                "De bron geeft naast het woord voor bewegen ook de parenthetische vorm “schaduwen”. De tekst koppelt het bewegen van letters door punten aan het verborgen oneindige."
+              ],
+              "uncertainties": [
+                "De verwijzingen van “zij”, “die” en “deze verborgenen” tussen punten en letters zijn niet overal eenduidig. De overgeleverde volgorde is behouden."
+              ],
+              "original": "אתוון מנייהו אתפשטו, אשתארו נקודין לאעלאה לון, לא נטלין בר כד אינון נפקין, אלין אינון ברזא דאין סוף, כלהו אתוון (מטללן) מטלנין ברזא דאין סוף, כמה דאינון נטלי לון, הכי נמי נטלי אלין סתימין, אתוון גליין ולא גליין, הני טמירין על מה דשריין.",
+              "lang": "arc",
+              "reference": "Zohar I 100b:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף ק ב",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "7eb5ba09322a8ce8792158d6fc4b4ce427e8097fc99d9b65a09dfa1ef7b47e9f",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "7",
+              "nl": "De letters: negen namen, ingegrift in tien. Dit zijn zij: de eerste, EHJEH; JOD HE; EHJEH…",
+              "notes": [
+                "EHJEH (אהיה) betekent “Ik ben/zal zijn”. JOD HE (יה) is een korte godsnaam, hier via de letternamen weergegeven. De opsomming wordt op I 101a voortgezet."
+              ],
+              "uncertainties": [],
+              "original": "אתוון תשע שמהן, גליפן בעשר, ואינון קדמאה אהיה יו\"ד ה\"א, אהי\"ה",
+              "lang": "arc",
+              "reference": "Zohar I 100b:7",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "סתרי תורה דף ק ב",
+                "occurrence": 1,
+                "paragraph": 5,
+                "sha256": "a38e79012eb47f4b295c9a2b988a0e4d0bffbe70829367bf9ea40ee3888d9355",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "8",
+              "nl": "…de ziel van de rechtvaardigen dit zag, wat staat er geschreven? “Abraham haastte zich naar de tent”, enzovoort. Wat betekent “naar de tent”? Het leerhuis. Wat zegt hij? “Haast je, drie sea”: het onderwerp van de offers; de ziel richt haar aandacht daarop. Dat is wat geschreven staat: “Abraham rende naar het rundvee.” Dan komen zij tot rust en kunnen zij hem geen kwaad doen.",
+              "notes": [
+                "Voortzetting van I 100a. Drie sea is de hoeveelheid meel uit Genesis 18:6; de tekst legt de handeling hier als aandacht voor de offers uit."
+              ],
+              "uncertainties": [],
+              "sectionTitle": "Midrasj ha-Neëlam",
+              "original": "דחמא נשמתא דצדיקיא כך, מה כתיב וימהר אברהם האהלה וגומר, מהו האהלה, בית המדרש, ומהו אומר מהרי שלש סאים, ענין הקרבנות ונשמתא מתכוונת בהו, הה\"ד ואל הבקר רץ אברהם, וכדין נייחא להו ולא יכלין לאבאשא ליה.",
+              "lang": "arc",
+              "reference": "Zohar I 100b:8",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף ק ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "992835b456cd1bcc13866e7f59a39cf98cde43b86b23e73ffadcc64e316a51bf",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "9",
+              "nl": "Rabbi Pinchas opende met het vers waar geschreven staat: “Zie, de plaag was onder het volk begonnen” (Numeri 17:11). En er staat: “Mozes zei tegen Aäron: neem de vuurpan”, enzovoort. En er staat: “De plaag werd tot stilstand gebracht.” Hier staat “snel”, en daar staat “haast je, drie sea”. Zoals daar een offer is om gered te worden, zo is ook hier een offer om gered te worden.",
+              "notes": [
+                "De citaten volgen de Hebreeuwse versnummering Numeri 17:11–13; in veel Nederlandse Bijbels is dit 16:46–48. Het woordspel verbindt “snel” met Sara’s opdracht “haast je”."
+              ],
+              "uncertainties": [],
+              "original": "רבי פנחס פתח קרא, דכתיב (במדבר יז יא) והנה החל הנגף בעם, וכתיב ויאמר משה אל אהרן קח את המחתה וגו', וכתיב ותעצר המגפה, כתיב הכא מהרה, וכתיב התם מהרי שלש סאים, מה להלן קרבן לאשתזבא, אף כאן קרבן לאשתזבא.",
+              "lang": "arc",
+              "reference": "Zohar I 100b:9",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף ק ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "915f2fb3e507415cc3816820bf99f046f6b1feb1a777a47219313dea2fd06feb",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "10",
+              "nl": "Rabbi Pinchas zei: eens ging ik op weg en ontmoette Elia. Ik zei tegen hem: laat mijn heer mij iets zeggen wat goed is voor de schepselen. Hij zei tegen mij: de Heilige, gezegend zij Hij, heeft een verbondsbesluit uitgevaardigd, en al die engelen die aangesteld zijn om de zonden van de mens te noemen, zijn voor Hem binnengegaan: op het ogenblik dat de mensen de offers noemen die Mozes heeft opgedragen en hun hart en wil daarop richten, moeten zij allen hem ten goede gedenken. Meer nog: wanneer sterfte onder de mensen uitbreekt, is er een verbond vastgesteld en is er een afkondiging door alle hemelse legermachten gegaan. Als zijn kinderen op aarde de synagogen en leerhuizen binnengaan en met de wil van ziel en hart het onderwerp van het welriekende reukwerk uitspreken dat Israël had, zal de sterfte van hen worden weggenomen.",
+              "notes": [
+                "De tekst verbindt de uitgesproken offer- en reukwerkpassages met een hemels verbondsbesluit."
+              ],
+              "uncertainties": [],
+              "original": "אמר רבי פנחס, זמנא חדא הוינא אזלי בארחא, וערעית ביה באליהו, אמינא ליה לימא לי מר מלה דמעלי לברייתא, אמר לי קיים גזר קודשא בריך הוא, ועאלו קמיה כל אלין מלאכיא דממנן לאדכרא חובי דבר נש, די בעדנא דידכרון בני אנשא קרבניא דמני משה, ושוי לביה ורעותיה בהו, דכלהו ידכרון ליה לטב, ועוד, בעדנא דיערע מותנא בבני אנשא, קיימא אתגזר, וכרוזא אעבר על כל חילא דשמיא, דאי ייעלון בנוהי בארעא בבתי כנסיות ובבתי מדרשות, ויימרון ברעות נפשא ולבא עניינא דקטרת בוסמין דהוו להו לישראל, דיתבטל מותנא מנייהו.",
+              "lang": "arc",
+              "reference": "Zohar I 100b:10",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף ק ב",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "a045555ad2be3522f62a3ad605ca7b85ecd76e122d76d2d74e01d04027dbc79f",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
+              }
+            },
+            {
+              "id": "11",
+              "nl": "Rabbi Isaak zei: kom en zie wat geschreven staat: “Mozes zei tegen Aäron: neem de vuurpan, leg er vuur op van het altaar en leg er reukwerk op.” Aäron zei tegen hem: waarom? Hij zei: “Want de toorn is van voor het aangezicht van JHWH uitgegaan”, enzovoort. Wat staat er geschreven? “Hij rende naar…”",
+              "notes": [
+                "Numeri 17:11–12 volgens de Hebreeuwse versnummering; de zin wordt op I 101a voortgezet."
+              ],
+              "uncertainties": [],
+              "original": "אמר רבי יצחק, בא וראה מה כתיב, ויאמר משה אל אהרן קח את המחתה ותן עליה אש מעל המזבח ושים קטרת, אמר לו אהרן למה, אמר כי יצא הקצף מלפני יהו\"ה וגו', מה כתיב וירץ אל",
+              "lang": "arc",
+              "reference": "Zohar I 100b:11",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261498,
+                "revision": 1083919,
+                "section": "מדרש הנעלם דף ק ב",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "d2ae7272195c2fbd36577872608c39940ead0ec36863be054aaf42e2b2a88ab9",
+                "url": "https://he.wikisource.org/w/index.php?oldid=1083919"
               }
             }
           ],

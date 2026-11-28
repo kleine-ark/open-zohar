@@ -15,7 +15,7 @@ Alle beschikbare EPUBs zijn conceptvertalingen; onafhankelijke inhoudelijke cont
 | Zohar I · deel 7 · 61a–70b | 20/20 | [volledig-concept](zohar-i-deel-07.epub) |
 | Zohar I · deel 8 · 71a–80b | 19/20 | in-vertaling |
 | Zohar I · deel 9 · 81a–90b | 18/20 | in-vertaling |
-| Zohar I · deel 10 · 91a–100b | 12/20 | in-vertaling |
+| Zohar I · deel 10 · 91a–100b | 20/20 | [volledig-concept](zohar-i-deel-10.epub) |
 | Zohar I · deel 11 · 101a–110b | 0/20 | gepland |
 | Zohar I · deel 12 · 111a–120b | 0/20 | gepland |
 | Zohar I · deel 13 · 121a–130b | 0/20 | gepland |

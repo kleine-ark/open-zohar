@@ -48,7 +48,12 @@ def build_epub(entry, chapters, work):
     links = ['<li><a href="intro.xhtml">Verantwoording</a></li>']
     for n, chapter in enumerate(chapters):
         body = '<h1>' + esc(chapter['title']) + '</h1>'
+        displayed_section = ''
         for passage in chapter['passages']:
+            section = passage.get('sectionTitle', '')
+            if section and section != displayed_section:
+                body += '<h2>' + esc(section) + '</h2>'
+                displayed_section = section
             body += '<section id="p-' + esc(passage['id']) + '"><h2>' + esc(passage.get('locator', passage.get('reference', passage['id']))) + '</h2><p>' + esc(passage['nl']) + '</p><p dir="rtl" lang="he">' + esc(passage['original']) + '</p>'
             notes = [note['text'] if isinstance(note, dict) else note for note in passage.get('notes', [])]
             notes += ['Onzekere lezing: ' + note for note in passage.get('uncertainties', [])]

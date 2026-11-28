@@ -24,7 +24,8 @@
             "section": "דף צ א",
             "occurrence": 1,
             "paragraph": 1
-          }
+          },
+          "sectionTitle": "Hoofdtekst"
         },
         {
           "id": "2",
@@ -40,7 +41,8 @@
             "section": "סתרי תורה דף צ א",
             "occurrence": 1,
             "paragraph": 1
-          }
+          },
+          "sectionTitle": "Sitre Tora"
         },
         {
           "id": "3",
