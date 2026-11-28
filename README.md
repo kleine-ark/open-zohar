@@ -2,7 +2,7 @@
 
 Nederlandse werkvertaling met gekoppelde Aramese grondtekst, in de bestaande vormgeving van [Open Vertaling](https://openvertaling.nl/).
 
-## Status op 25 oktober 2026
+## Status op 28 november 2026
 
 **Onvolledige deeluitgave.** De actuele aantallen conceptpassages, volledig vertaalde bronfolia en het percentage van het hoofdregister staan in [het voortgangsregister](data/progress.json) en in de lokale leesomgeving. Onafhankelijk geredigeerde passages: nul. De volledige Zohar is nog niet vertaald.
 
