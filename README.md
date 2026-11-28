@@ -49,3 +49,7 @@ Wikisource-bijdragen en de nieuwe Nederlandse bewerking: [CC BY-SA 4.0](https://
 css/openvertaling.css is ongewijzigd overgenomen uit William-Carey-Missions/website-open-bijbelvertaling; herkomst en SHA-256 staan in SOURCE.json. Aanvullingen staan in css/corpus.css. De lokale lettertypen vallen onder de SIL Open Font License; zie licenses/.
 
 De browsercontroles scripts/check-reader.cjs en scripts/check-knowledge.cjs gebruiken een lokaal beschikbare Playwright-installatie met Chromium. Er is geen browserpakket nodig voor normaal gebruik van de website.
+
+## Kleine uitgaven
+
+De vertaling verschijnt in afzonderlijke delen van maximaal twintig bronzijden, binnen hetzelfde tractaat of hoofdvolume. Bekijk het [uitgavenoverzicht met EPUB-downloads](uitgaven/README.md). Volledige conceptdelen worden gebouwd met `python3 scripts/build-editions.py`; nog te vertalen delen en bronlacunes blijven zichtbaar.
