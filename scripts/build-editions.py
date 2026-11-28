@@ -40,6 +40,10 @@ def xhtml(title, body):
 def build_epub(entry, chapters, work):
     title = entry['title']
     intro = '<h1>' + esc(title) + '</h1><p>Volledige conceptvertaling van het aangegeven bronbereik. Onafhankelijke inhoudelijke eindcontrole staat open.</p><p>Bronzijden zijn geen gedrukte boekpagina’s. Discussies en zinnen kunnen doorlopen in een volgend deel.</p><p>' + esc(work.get('license', 'CC BY-SA 4.0')) + '</p><p><a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> · Nederlandse conceptvertaling: ' + esc(library['title']) + ', 2026. Grondtekst: Hebreeuwse Wikisource-bijdragers; vaste revisies en auteursgeschiedenis bij de bronnen.</p>'
+    if not is_talmud:
+        dating = read('data/dating.json')
+        intro += '<h2>Geschatte datering</h2><p>' + esc(dating['label']) + '. ' + esc(dating['scope']) + '</p><p>Traditionele toeschrijving: ' + esc(dating['traditionalAttribution']) + '. ' + esc(dating['note']) + '</p>'
+        intro += '<p>' + ' · '.join('<a href="' + esc(source['url']) + '">' + esc(source['title']) + '</a>' for source in dating['sources']) + '</p>'
     files = {'intro.xhtml': xhtml(title, intro)}
     links = ['<li><a href="intro.xhtml">Verantwoording</a></li>']
     for n, chapter in enumerate(chapters):

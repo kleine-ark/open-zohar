@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "date": "2026-10-25",
+  "date": "2026-11-28",
   "scope": "Zohar in drie hoofdvolumes met ingebedde traktaten en afzonderlijke addenda; Zohar Chadasj en Tikkoenei Zohar afzonderlijk. Geen claim van volledigheid van alle handschriften of latere commentaren.",
   "parts": [
     {
@@ -6728,7 +6728,7 @@
     },
     {
       "reference": "Zohar I 87a",
-      "status": "niet-vertaald",
+      "status": "vertaald-concept",
       "sourceCandidates": [
         261497
       ],
@@ -6736,7 +6736,7 @@
     },
     {
       "reference": "Zohar I 87b",
-      "status": "niet-vertaald",
+      "status": "vertaald-concept",
       "sourceCandidates": [
         261497
       ],
@@ -6744,7 +6744,7 @@
     },
     {
       "reference": "Zohar I 88a",
-      "status": "niet-vertaald",
+      "status": "vertaald-concept",
       "sourceCandidates": [
         261497
       ],
@@ -6752,7 +6752,7 @@
     },
     {
       "reference": "Zohar I 88b",
-      "status": "niet-vertaald",
+      "status": "vertaald-concept",
       "sourceCandidates": [
         261497
       ],
@@ -6760,7 +6760,7 @@
     },
     {
       "reference": "Zohar I 89a",
-      "status": "niet-vertaald",
+      "status": "vertaald-concept",
       "sourceCandidates": [
         261497
       ],
@@ -6768,7 +6768,7 @@
     },
     {
       "reference": "Zohar I 89b",
-      "status": "niet-vertaald",
+      "status": "gedeeltelijk-vertaald-concept",
       "sourceCandidates": [
         261497
       ],
@@ -6776,7 +6776,7 @@
     },
     {
       "reference": "Zohar I 90a",
-      "status": "niet-vertaald",
+      "status": "vertaald-concept",
       "sourceCandidates": [
         261497
       ],
@@ -6784,7 +6784,7 @@
     },
     {
       "reference": "Zohar I 90b",
-      "status": "niet-vertaald",
+      "status": "vertaald-concept",
       "sourceCandidates": [
         261497
       ],
@@ -6792,7 +6792,7 @@
     },
     {
       "reference": "Zohar I 91a",
-      "status": "niet-vertaald",
+      "status": "vertaald-concept",
       "sourceCandidates": [
         261497
       ],
@@ -6800,7 +6800,7 @@
     },
     {
       "reference": "Zohar I 91b",
-      "status": "niet-vertaald",
+      "status": "vertaald-concept",
       "sourceCandidates": [
         261497
       ],
@@ -18419,6 +18419,11 @@
     "Zohar III 116b"
   ],
   "issues": [
+    {
+      "id": "missing-i-89b",
+      "status": "open",
+      "description": "I 89b heeft in container 261497 uitsluitend een Sitre Tora-sectie; een reguliere hoofdtekstmarkering ontbreekt. De Sitre Tora is vertaald, maar de concordantie en volledigheid van deze foliozijde blijven open."
+    },
     {
       "id": "missing-i-80b-81a",
       "status": "open",

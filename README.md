@@ -53,3 +53,7 @@ De browsercontroles scripts/check-reader.cjs en scripts/check-knowledge.cjs gebr
 ## Kleine uitgaven
 
 De vertaling verschijnt in afzonderlijke delen van maximaal twintig bronzijden, binnen hetzelfde tractaat of hoofdvolume. Bekijk het [uitgavenoverzicht met EPUB-downloads](uitgaven/README.md). Volledige conceptdelen worden gebouwd met `python3 scripts/build-editions.py`; nog te vertalen delen en bronlacunes blijven zichtbaar.
+
+## Geschatte datering
+
+De zoharische literatuur ontwikkelde zich naar schatting circa **1270–1330 n.Chr.** in Spanje. Dit bereik dateert de literatuur als geheel; afzonderlijke foliozijden hebben hiermee geen precieze ontstaansdatum. De traditionele toeschrijving is aan Rabbi Sjimon bar Jochai en zijn kring in de tweede eeuw n.Chr. Zie [Eitan Fishbane, Jewish Theological Seminary](https://www.jtsa.edu/torah/exploring-kabbalah-episode-4/) en [National Library of Israel](https://www.nli.org.il/en/discover/judaism/jewish-bookshelf/zohar). Dezelfde toelichting staat in de EPUB-deeluitgaven en in [de dateringsgegevens](data/dating.json).

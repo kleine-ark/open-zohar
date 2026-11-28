@@ -455,7 +455,14 @@
         "85a",
         "85b",
         "86a",
-        "86b"
+        "86b",
+        "87a",
+        "87b",
+        "88a",
+        "88b",
+        "89a",
+        "90a",
+        "90b"
       ],
       "status": "in-vertaling",
       "independentReview": "open",
@@ -487,8 +494,11 @@
         "100a",
         "100b"
       ],
-      "completeUnits": [],
-      "status": "gepland",
+      "completeUnits": [
+        "91a",
+        "91b"
+      ],
+      "status": "in-vertaling",
       "independentReview": "open",
       "epub": null
     },
