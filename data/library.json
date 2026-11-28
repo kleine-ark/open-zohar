@@ -3,10 +3,10 @@
   "title": "Open Zohar",
   "status": "Deeluitgave — conceptvertaling, corpus niet volledig",
   "progress": {
-    "translatedPassages": 989,
-    "completeDraftFolios": 165,
+    "translatedPassages": 1019,
+    "completeDraftFolios": 170,
     "mainFolioRegister": 1632,
-    "mainDraftPercent": 10.11,
+    "mainDraftPercent": 10.42,
     "targetCompleteFolios": 164,
     "next": "Zohar I 80b"
   },
@@ -22426,6 +22426,711 @@
                 "occurrence": 1,
                 "paragraph": 8,
                 "sha256": "6ad38d6d4e1946b1e19370459829e488cb5c22c6b67072f1b63d629fa17eb6f4",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "84b",
+          "title": "I 84b",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "vanwege hem. Waaruit weten wij dat? Uit Josafat, die zich met Achab verbond. Zonder de verdienste van de vaderen zou hij daar gestraft zijn, want er staat geschreven: “Josafat schreeuwde het uit” (2 Kronieken 18:31). Toen werd hij gered, want er staat: “God wendde hen van hem af.” Daarom wilde Abraham niet met Lot meegaan. Toch wilde Lot niet van zijn verkeerde weg terugkeren. Integendeel: “Lot koos voor zich de hele Jordaanvlakte”, en: “Lot trok weg van het oosten.” Hij trok weg van Hem die aan de wereld voorafgaat, en wilde zich niet zoals Abraham met het volkomen geloof verbinden.",
+              "notes": [
+                "Voortzetting van I 84a: de straf vanwege verbondenheid met een schuldige. De uitleg speelt opnieuw met kedem: oosten en degene die aan de wereld voorafgaat."
+              ],
+              "uncertainties": [],
+              "original": "בגיניה, מנלן מיהושפט דאתחבר עם אחאב, ואלמלא זכו דאבהן אתענש תמן, דכתיב (ד\"ה ב יח לא) ויזעק יהושפט, וכדין אשתזיב, דכתיב ויסיתם אלהי\"ם ממנו, ועל דא לא בעא אברהם למיהך בהדיה דלוט, ועם כל דא לא בעא לוט למהדר מסורחניה, אלא ויבחר לו לוט את כל ככר הירדן, ויסע לוט מקדם, אתנטיל מן קדמאה דעלמא, ולא בעא לאתדבקא במהימנותא שלימתא כאברהם:",
+              "lang": "arc",
+              "reference": "Zohar I 84b:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "ad3e2a29724653e42c1b59e8969f2d74650bfb97818601c2b33d5ff4c860f263",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "“Abram woonde in het land Kanaän”: om zich te verbinden met de plaats van het geloof, om wijsheid te kennen en zich met zijn Heer te verbinden. “Lot woonde in de steden van de vlakte en sloeg zijn tenten op tot bij Sodom”, bij die schuldigen van de wereld die het geloof hadden verlaten, want er staat geschreven: “De mannen van Sodom waren zeer slecht en zondig tegenover JHWH.” Ieder ging zijn eigen weg, zoals bij hem paste. Daarom zijn de metgezellen gelukkig die zich dag en nacht met de Tora bezighouden en wier verbondenheid met de Heilige, gezegend zij Hij, is. Over hen staat geschreven: “Maar jullie die je aan JHWH, jullie God, vasthouden, zijn vandaag allen in leven” (Deuteronomium 4:4).",
+              "notes": [],
+              "uncertainties": [],
+              "original": "אברם ישב בארץ כנען -- לאתדבקא באתרא דמהימנותא, ולמנדע חכמתא לאתדבקא במאריה, ולוט ישב בערי הככר ויאהל עד סדום, עם אינון חייבין דעלמא דנפקו מגו מהימנותא, דכתיב ואנשי סדום רעים וחטאים ליהו\"ה מאד, כל חד אתפרש לארחיה כדקא יאות, בגין כך זכאין אינון חברייא דמשתדלי באורייתא יממא וליליא, וחברותא דלהון בקב\"ה, ועלייהו כתיב (דברים ד ד) ואתם הדבקים ביהו\"ה אלקיכם חיים כלכם היום:",
+              "lang": "arc",
+              "reference": "Zohar I 84b:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "db425dc634e32eb42d7c5832ee96e4dae110cd6561ebe1d191d279f88393560c",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "“JHWH zei tegen Abram, nadat Lot van hem gescheiden was”, enzovoort. Rabbi Abba opende: “Jona stond op om naar Tarsis te vluchten, weg van het aangezicht van JHWH”, enzovoort (Jona 1:3). Wee degene die zich voor de Heilige, gezegend zij Hij, verbergt! Over Hem staat geschreven: “Vervul Ik niet de hemel en de aarde? — uitspraak van JHWH” (Jeremia 23:24), en toch wil hij voor Hem vluchten. Maar er staat geschreven: “Mijn duif in de spleten van de rots, in de verborgenheid van de steile wand” (Hooglied 2:14). “Mijn duif”: dat is de gemeenschap van Israël. “In de spleten van de rots”: dat is Jeruzalem, dat boven de hele wereld verheven is. Zoals een rots hoog en sterker dan alles is, zo is Jeruzalem hoog en sterker dan alles. “In de verborgenheid van de steile wand”: dat is de tempel, de plaats die het huis van het heilige der heiligen wordt genoemd, het hart van de hele wereld. Daarom staat er: “In de verborgenheid van de steile wand”, want daar hield de Sjechina zich verborgen, als een vrouw die zich voor haar man afzondert en niet uit haar huis naar buiten gaat. Zoals je zegt: “Je vrouw is als een vruchtbare wijnstok in het binnenste van je huis”, enzovoort (Psalm 128:3). Zo verblijft de gemeenschap van Israël niet buiten haar plaats, in de verborgenheid van de graad, behalve in de tijd van de ballingschap, wanneer zij in ballingschap is. Doordat zij in ballingschap is, hebben de andere volken meer voorspoed en rust.",
+              "notes": [
+                "Sjechina: de goddelijke inwoning; “gemeenschap van Israël” heeft hier tevens een mystieke betekenis. De tekst verbindt de beschutte plaats uit Hooglied met de verborgen graad."
+              ],
+              "uncertainties": [],
+              "original": "ויהו\"ה אמר אל אברם אחרי הפרד לוט מעמו וגו' -- רבי אבא פתח (יונה א ג) ויקם יונה לברוח תרשישה מלפני יהו\"ה וגו', ווי למאן דאסתתר מקמי קב\"ה, דכתיב ביה (ירמיה כג כד) הלא את השמים ואת הארץ אני מלא נאם יהו\"ה, והוא אתי למערק מקמיה, אלא כתיב (שיר ב יד) יונתי בחגוי הסלע בסתר המדרגה, יונתי דא כנסת ישראל, בחגוי הסלע דא ירושלם, דאיהי סלקא על כל עלמא, מה סלע איהי עלאה ותקיפא על כלא, אוף ירושלם איהי עלאה ותקיפא על כלא. בסתר המדרגה, דא (בית המקדש) אתר דאקרי בית קדש הקדשים לבא דכל עלמא, ובגין כך כתיב בסתר המדרגה, בגין דתמן הות שכינתא מסתתרא, כאתתא דאיהי צנועה לבעלה ולא נפקא מביתא לבר, כמה דאת אמר (תהלים קכח ג) אשתך כגפן פוריה בירכתי ביתך וגו', כך כנסת ישראל לא שרייא לבר מאתרהא בסתירו דדרגא, אלא בזמנא דגלותא דאיהי בגו גלותא, ובגין דאיהי בגלותא שאר עמין אית לון טיבו ושלוה יתיר.",
+              "lang": "arc",
+              "reference": "Zohar I 84b:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד ב",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "74d16ede460e3c6c2596a1d476f649f2bd5e03a81dfe6de2467ea61416c3b38d",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "Kom en zie: toen Israël in het heilige land woonde, was alles naar behoren geordend en was de troon boven hen volkomen. Zij verrichtten de eredienst; die doorkliefde de luchtruimten van de wereld en steeg omhoog naar zijn plaats. Want het land is voor de eredienst alleen voor Israël ingericht. Daarom werden de andere volken, die vreemde goden dienen, op afstand gehouden. Zij hadden er niet de heerschappij zoals nu, want zij werden slechts uit het overblijvende gevoed.",
+              "notes": [
+                "“Het overblijvende” duidt in deze voorstelling op de afgeleide toevoer van goddelijke overvloed."
+              ],
+              "uncertainties": [],
+              "original": "תא חזי בזמנא דישראל שריין על ארעא קדישא, כלא הוה מתתקן כדקא יאות, וכרסיא שלים עלייהו, ועבדי פולחנא, ובקע אוירין דעלמא, וסליק ההוא פולחנא לעילא לאתריה, בגין דארעא לא אתתקנת לפולחנא אלא לישראל בלחודייהו, ובגין כך שאר עמין עעכו\"ם הוו מתרחקי, דלא הוו שלטין בה כדהשתא, בגין דלא אתזנו אלא מתמצית.",
+              "lang": "arc",
+              "reference": "Zohar I 84b:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד ב",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "c714295d28ccb1d334fc73dc880fde954cedbce36d31167ae5cf3f4a6ab5c3e4",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "En als je zegt: wij zien toch dat er vele koningen waren die over de wereld heersten toen de tempel nog bestond? Kom en zie: bij de eerste tempel, voordat Israël het land verontreinigde, hadden de andere volken, die vreemde goden dienen, geen heerschappij. Zij werden slechts uit het overblijvende gevoed; daarmee oefenden zij hun macht uit, en die was niet zo groot. Toen Israël zondigde en het land verontreinigde, verdreven zij als het ware de Sjechina van haar plaats. Zij naderde een andere plaats. Toen kregen de andere volken de heerschappij en werd hun toestemming gegeven om te heersen.",
+              "notes": [],
+              "uncertainties": [],
+              "original": "ואי תימא הא חמינן כמה מלכין הוו דשליטין בזמנא דבית המקדש קיים על עלמא, תא חזי בבית ראשון עד לא סאיבו ישראל ארעא, לא הוו שלטין שאר עמין עעכו\"ם, אלא אתזנו מתמצית, ובה הוו שלטין ולאו כל כך, כיון דחבו ישראל וסאיבו ארעא, כדין כביכול דחו לה לשכינתא מאתרה, ואתקרבת לדוכתא אחרא וכדין שלטין שאר עמין, ואתייהיב לון רשו לשלטאה.",
+              "lang": "arc",
+              "reference": "Zohar I 84b:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד ב",
+                "occurrence": 1,
+                "paragraph": 5,
+                "sha256": "d50d2fdaf29769a914c7af35b19280c0169ac104efe3bba366ff855d4a25b13e",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "Kom en zie: over het land Israël heerst geen andere aangestelde macht dan alleen de Heilige, gezegend zij Hij. Toen Israël zondigde en in het land wierook brandde voor andere godheden, werd de Sjechina als het ware van haar plaats verdreven. Zij trokken andere godheden aan en brandden wierook om die met de Sjechina te verbinden. Toen werd hun heerschappij gegeven, want wierook vormt een band om iets te verbinden. Toen heersten de andere volken, hielden de profeten op en oefenden al die hogere graden geen heerschappij meer uit in het land. Zij namen de heerschappij van de andere volken niet weg, omdat men de Sjechina naar hen toe had getrokken. Daarom werd tijdens de tweede tempel de heerschappij van de andere volken niet weggenomen, en des te meer geldt dat in de ballingschap, wanneer de Sjechina onder de andere volken is, op de plaats waar andere aangestelde machten heersen. Daarom putten zij allen voeding uit de Sjechina, die tot hen genaderd is. En daarom…",
+              "notes": [
+                "De Aramese woorden voor wierook, knopen en verbinden vormen een woordspel. De zin gaat verder op I 85a."
+              ],
+              "uncertainties": [],
+              "original": "תא חזי ארעא דישראל לא שליט עלה ממנא אחרא, בר קב\"ה בלחודוי, ובשעתא דחאבו ישראל והוו מקטרין לטעוון אחרנין בגו ארעא, כביכול אדחייא שכינתא מאתרה ומשכי ומקטרי לאתקשרא טעוון אחרן גו שכינתא, וכדין אתייהיב לון שלטנותא, בגין דקטרת קטרא הוא לאתקטרא, וכדין שלטו שאר עמין, ובטלו נביאים, וכל אינון דרגין עלאין לא שלטו בארעא, ולא אעדיו שולטנותא דשאר עמין, בגין דאינון משכו לשכינתא לגבייהו, ועל דא בבית שני הא שולטנותא משאר עמין לא אעדיו, וכל שכן בגלותא דשכינתא בשאר עמין, אתר דשאר ממנן שלטין, ובגין כך כלהו ינקין מן שכינתא דאתקריבת גבייהו, ועל",
+              "lang": "arc",
+              "reference": "Zohar I 84b:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פד ב",
+                "occurrence": 1,
+                "paragraph": 6,
+                "sha256": "914bf2b689ee00ab0d23cbf3905cd624b3ce9246821d98d7e2d71e8f64d48a64",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "85a",
+          "title": "I 85a",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "…toen Israël in het land woonde en de dienst van de Heilige, gezegend zij Hij, verrichtte, hield de Sjechina zich onder hen verborgen. Zij trad niet openlijk vanuit het huis naar buiten. Daarom ontvingen alle profeten die er toen waren hun profetie alleen op haar plaats, zoals wij hebben gezegd. Daarom vluchtte Jona buiten het heilige land: opdat de profetie zich niet aan hem zou openbaren en hij niet op de zending van de Heilige, gezegend zij Hij, zou gaan.",
+              "notes": [
+                "Voortzetting van I 84b."
+              ],
+              "uncertainties": [],
+              "original": "דא בזמנא דישראל הוו שראן על ארעא, ופלחי פולחנא דקב\"ה, שכינתא הות צנועה בינייהו, ולא נפקת מגו ביתא לבר באתגלייא, ובגין כך כל אינון נביאים דהוו בההוא זמנא לא נטלו נבואה אלא באתרה כדקאמרן, ובגין כך יונה הוה ערק לבר מארעא קדישא, דלא יתגלי עליה נבואה, ולא יהך בשליחותא דקב\"ה.",
+              "lang": "arc",
+              "reference": "Zohar I 85a:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "28b85c1f6f1068216f7b77b1d8ffc0cc6e341028e21b8a08b1e69803e1f83a1a",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "En als je zegt: wij zien toch dat de Sjechina zich in Babel heeft geopenbaard, dat erbuiten ligt? Wij hebben dat al uitgelegd bij de woorden: “Het geschiedde waarlijk” (Ezechiël 1:3): er gebeurde iets wat sinds de bouw van de tempel niet eerder gebeurd was. Die profetie gold voor dat ogenblik. Er staat: “Aan de rivier de Kebar”: een rivier die er al was vanaf de dag waarop de wereld werd geschapen. De Sjechina openbaarde zich er voortdurend boven, want er staat geschreven: “Een rivier stroomt uit Eden om de tuin te bevloeien; vandaar splitst zij zich”, enzovoort; “de naam van de ene”, enzovoort (Genesis 2:10). Dit is een van die rivieren. Daar openbaarde de Sjechina zich voor dat ogenblik, omdat Israël haar vanwege zijn nood nodig had. Op andere tijden openbaarde zij zich daar echter niet. Daarom ging Jona uit het heilige land weg en vluchtte, opdat de Sjechina niet op hem zou rusten en zich niet aan hem zou openbaren. Dat is wat geschreven staat: “Weg van het aangezicht van JHWH” (Jona 1:3). En er staat: “Want de mannen wisten dat hij voor het aangezicht van JHWH vluchtte.”",
+              "notes": [
+                "De uitleg verbindt de naam Kebar met kevar, “reeds”. De dubbele Hebreeuwse werkwoordsvorm hajo haja wordt gelezen als een uitzonderlijk gebeuren."
+              ],
+              "uncertainties": [],
+              "original": "ואי תימא הא חמינן דאתגלייא שכינתא בבבל דאיהו לבר, הא אוקימנא דכתיב (יחזקאל א ג) היה היה, דהוה מה דלא הוה מן קדמת דנא, מיומא דאתבני בי מקדשא, וההיא נבואה לשעתא הות, וכתיב על נהר כבר, נהר דכבר הוה מיומא דאתברי עלמא, ושכינתא אתגלייא תדיר עליה, דכתיב (בראשית ב י) ונהר יוצא מעדן להשקות את הגן, ומשם יפרד וגו', (שם האחד וגו'), ודא איהו חד מינייהו, ותמן אתגלייא שכינתא לפום שעתא, דאצטריכו לה ישראל לפום צערייהו, אבל בזמנא אחרא לא אתגלייא, ובגין כך יונה בגין דלא תשרי עלוי שכינתא, ולא תתגלי עליה, אזל מארעא קדישא וערק, הה\"ד (יונה א ג) מלפני יהו\"ה, וכתיב כי ידעו האנשים כי מלפני יהו\"ה הוא בורח.",
+              "lang": "arc",
+              "reference": "Zohar I 85a:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "e9fc111420f56878b68c34ed34891a2cd5f3c8cd5a1547f54786e6ecaccfbd06",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "Kom en zie: zoals de Sjechina zich alleen openbaart op een plaats die haar waardig is, zo laat zij zich ook alleen zien en openbaart zij zich alleen aan iemand die haar waardig is. Want vanaf de dag waarop bij Lot het voornemen opkwam naar zijn verkeerde weg terug te keren, week de heilige geest van Abraham. Toen Lot van hem wegging, rustte de heilige geest onmiddellijk weer op zijn plaats. Dat is wat geschreven staat: “JHWH zei tegen Abram, nadat Lot van hem gescheiden was”, enzovoort. Kom en zie: toen Abraham zag dat Lot naar zijn verkeerde weg terugkeerde, werd Abraham bang. Hij zei: misschien verlies ik, wat de hemel verhoede, door mijn verbondenheid met deze man het heilige deel waarmee de Heilige, gezegend zij Hij, mij gekroond heeft. Zodra hij van hem gescheiden was, zei Hij tegen hem: “Sla toch je ogen op en kijk vanaf de plaats waar je bent.” Wat betekent “vanaf de plaats waar je bent”? De plaats waarmee je je eerst verbonden had en waar je met het volkomen geloof gekroond werd. “Naar het noorden, het zuiden, het oosten en het westen”: dat zijn zijn vroegere tochten, want er staat: “Hij ging volgens zijn tochten”, en: “Steeds verder trekkend naar het zuiden.” Dit zijn de hogere graden waarmee hij eerder in het volkomen geloof gekroond was. Toen kreeg hij de blijde boodschap dat het nooit van hem en zijn kinderen zou wijken, want er staat: “Want heel het land dat je ziet.” Wat betekent “dat je ziet”? Dat is de eerste graad die zich aan hem openbaarde, zoals je zegt: “Voor JHWH, die hem verschenen was.” Daarom: “Dat je ziet”, want deze eerste graad omvat alle graden en alle worden erin gezien. Daarom: “Want heel het land dat je ziet”, enzovoort.",
+              "notes": [],
+              "uncertainties": [],
+              "original": "תא חזי כמה דשכינתא לא אתגליא אלא באתרא דאתחזי לה, אוף הכי לא אתחזי ולא אתגליא אלא בבר נש דאתחזי לה דהא מן יומא דסליק על רעותיה דלוט לאתהפכא בסרחניה, אסתלקת רוחא קדישא מאברהם, וכד אסתלק לוט מניה, מיד שרא רוח קודשא בדוכתיה, הה\"ד ויהו\"ה אמר אל אברם אחרי הפרד לוט מעמו וגו'. תא חזי כיון דחמא אברהם דלוט הוה תב לסרחניה, הוה דחיל אברהם, אמר דילמא ח\"ו בגין חברותא דדא, אבידנא בגיניה חולקא קדישא דאעטר לי קב\"ה, כיון דאתפרש מניה, א\"ל שא נא עיניך וראה מן המקום אשר אתה שם, מאי מן המקום אשר אתה שם, דאתדבקת ביה בקדמיתא ואתעטרת בהימנותא שלימתא, צפונה ונגבה וקדמה וימה, אלין אינון מסעיו דהוו בקדמיתא, דכתיב וילך למסעיו, וכתיב הלוך ונסוע הנגבה, אלין דרגין עלאין דאתעטר במהימנותא שלימתא בקדמיתא, וכדין אתבשר דלא יעדי מניה ומן בנוי לעלמין, דכתיב כי את כל הארץ אשר אתה רואה, מאי אשר אתה רואה, דא דרגא קדמאה דאתגליא ליה, כמה דאת אמר ליהו\"ה הנראה אליו, ובגין כך אשר אתה רואה, בגין דדרגא דא קדמאה אתכליל מכלהו דרגין, וכלהו אתחזון ביה ובגין כך כי את כל הארץ אשר אתה רואה וגו'.",
+              "lang": "arc",
+              "reference": "Zohar I 85a:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה א",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "58e3158e801582ce0affeef030eebc0856394131bbfb7ee3edacd7d6c8702022",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "Rabbi Elazar kwam in een herberg in Lod; rabbi Chizkia was bij hem. Hij stond ’s nachts op om zich met de Tora bezig te houden, en rabbi Chizkia stond naast hem op. Rabbi Elazar zei tegen hem: “In de vesting van de waarheid zijn de metgezellen te vinden.” Rabbi Elazar opende en zei: “Als een appelboom tussen de bomen van het woud”, enzovoort (Hooglied 2:3). “Als een appelboom”: dat is de Heilige, gezegend zij Hij. Hij is begeerlijk en met zijn kleuren gekroond boven alle andere bomen; geen daarvan is aan Hem gelijk. Hij onderscheidt zich van alles; Hij onderscheidt zich doordat er geen ander is zoals Hij. Daarom: “Naar zijn schaduw verlangde ik.”",
+              "notes": [],
+              "uncertainties": [
+                "De uitdrukking בקיסטרא דקוסטא is voorlopig letterlijk als “in de vesting van de waarheid” weergegeven. De precieze idiomatische betekenis vraagt controle."
+              ],
+              "original": "רבי אלעזר אערע בבי אושפיזא בלוד, והוה עמיה רבי חזקיה, קם בליליא למלעי באורייתא, קם רבי חזקיה גביה, א\"ל רבי אלעזר, בקיסטרא דקוסטא חברייא שכיחי,. פתח רבי אלעזר ואמר, (שיר ב ג) כתפוח בעצי היער וגו'. כתפוח-- דא קב\"ה דאיהו חמיד ומתעטר בגוונוי מכל שאר אילנין דלא אית דדמי ליה, רשים איהו מכלא, רשים הוא דלית אחרא כוותיה, בגיני כך בצלו חמדתי.",
+              "lang": "arc",
+              "reference": "Zohar I 85a:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה א",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "0beb1a5c8aca60818aa6a668867c88b47938a0dfc77c27e5dc11f4b488287e00",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "“Naar zijn schaduw”: naar geen andere schaduw; naar zijn schaduw verlangde ik, niet naar de schaduw van de andere aangestelde machten. Sinds wanneer? Vanaf de dag waarop Abraham in de wereld was, die met liefde naar de Heilige, gezegend zij Hij, verlangde en Hem liefhad, zoals je zegt: “Abraham, die Mij liefheeft” (Jesaja 41:8). “En zijn vrucht is zoet voor mijn gehemelte”: dat is Isaak, die de heilige vrucht is. Een andere uitleg: “Naar zijn schaduw verlangde ik en daar zat ik”: dat is Jakob. “En zijn vrucht is zoet voor mijn gehemelte”: dat is Jozef de rechtvaardige, die heilige vruchten in de wereld voortbracht. Daarom staat geschreven: “Dit zijn de nakomelingen van Jakob: Jozef” (Genesis 37:2), want al die nakomelingen van Jakob — Jozef is het die nakomelingen voortbrengt. Daarom wordt Israël naar Efraïm genoemd, want er staat geschreven: “Is Efraïm Mij een dierbare zoon?”, enzovoort (Jeremia 31:20).",
+              "notes": [
+                "De bron geeft naast de hoofdtekst als variant: “Zij bestaan in Jozef de rechtvaardige, die nakomelingen voortbrengt zoals zij allen.” Ook staat er een redactionele aanwijzing bij “stammen” om dit niet te lezen; dat woord is niet in de doorlopende vertaling opgenomen."
+              ],
+              "uncertainties": [],
+              "original": "בצלו-- ולא בצלא אחרא בצלו ולא בצלא דשאר ממנן חמדתי, אימתי, מן יומא דהוה אברהם בעלמא, דאיהו חמיד ורחים ליה לקב\"ה באהבה, כמה דאת אמר (ישעיה מא ח) אברהם אוהבי, ופריו מתוק לחכי, דא הוא יצחק דאיהו איבא קדישא. דבר אחר, בצלו חמדתי וישבתי, דא יעקב, ופריו מתוק לחכי, דא יוסף הצדיק דעבד פירין קדישין בעלמא, ועל דא כתיב (בראשית לז ב) אלה תולדות יעקב יוסף דכל אינון תולדות דיעקב (יוסף איהו דעביד תולדות), (נ\"א ביוסף הצדיק קיימי, דעביד תולדות כעין כלהו) (ד\"א, ל\"ג שבטים), ובגין כך אקרון ישראל על שמא דאפרים, דכתיב (ירמיה לא כ) הבן יקיר לי אפרים וגו'.",
+              "lang": "arc",
+              "reference": "Zohar I 85a:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה א",
+                "occurrence": 1,
+                "paragraph": 5,
+                "sha256": "069c394663c651e4dd98c0e22dd30b78799f5292dad17d3cc285b413eb9510f3",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "Een andere uitleg: “Als een appelboom tussen de bomen van het woud”: dat is Abraham, die lijkt op een appelboom die geur verspreidt…",
+              "notes": [
+                "De zin gaat verder op I 85b."
+              ],
+              "uncertainties": [],
+              "original": "דבר אחר, כתפוח בעצי היער, דא אברהם דדמי ליה לתפוח דסליק ריחין",
+              "lang": "arc",
+              "reference": "Zohar I 85a:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה א",
+                "occurrence": 1,
+                "paragraph": 6,
+                "sha256": "ac5c52f409fa39943b5ee63eded15b5ea57c206e22469d8c6671c40da2f7b2d8",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "85b",
+          "title": "I 85b",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "…en die zich in volkomen geloof onderscheidde van alle mensen van zijn generatie. Hij werd als één onderscheiden boven en als één beneden, want er staat geschreven: “Abraham was één.” Waarom was hij één? Omdat er in de wereld geen ander was dan hij die opsteeg tot het geloof in de Heilige, gezegend zij Hij. Rabbi Chizkia zei tegen hem: er staat toch geschreven: “En de personen die zij in Charan hadden verworven”? Hij zei tegen hem: tot dan toe waren zij nog niet op de hogere graden waarmee Abraham gekroond was. Daarna zei hij tegen hem: ik heb ook gehoord dat Abraham pas één werd genoemd toen hij in Isaak en Jakob opsteeg. Toen hij in Isaak en Jakob opsteeg en zij alle drie de vaderen van de wereld waren, werd Abraham één genoemd. Toen was hij een appelboom in de wereld, onderscheiden van alle mensen van de wereld. Hij zei tegen hem: dat heb je goed gezegd.",
+              "notes": [
+                "Voortzetting van I 85a. “Abraham was één”: Ezechiël 33:24. De personen uit Charan: Genesis 12:5. De bron vermeldt een korte variante aansluiting bij het tweede noemen van Isaak en Jakob."
+              ],
+              "uncertainties": [],
+              "original": "ואתרשים במהימנותא שלימתא על כל בני דריה ואתרשים חד לעילא ואתרשים חד לתתא, דכתיב אחד היה אברהם, מאי טעמא הוה אחד, דלא הוה אחרא בעלמא די סליק למהימנותא דקב\"ה בר איהו, א\"ל רבי חזקיה, והא כתיב ואת הנפש אשר עשו בחרן, א\"ל עד כען אינון לא הוו בדרגין עלאין דאתעטר בהו אברהם, לבתר א\"ל, תו שמענא דלא אקרי אברהם אחד עד דאסתלק ביצחק ויעקב, כיון דאסתלק ביצחק ויעקב (נ\"א והא) והוו כלהו תלתהון אבהן דעלמא כדין אקרי אברהם אחד, וכדין הוה תפוח בעלמא, רשים מכל בני עלמא, א\"ל שפיר קא אמרת.",
+              "lang": "arc",
+              "reference": "Zohar I 85b:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "4bb9f37b710deef4e34e02c48a0360b838ed72f43db82b77839ba7f03a586689",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "Een andere uitleg: “Als een appelboom tussen de bomen van het woud”: dat is de Heilige, gezegend zij Hij. “Zo is mijn geliefde”: dat is de Heilige, gezegend zij Hij. “Naar zijn schaduw” — die van de Heilige, gezegend zij Hij — “verlangde ik en daar zat ik”: op de dag waarop de Heilige, gezegend zij Hij, zich op de berg Sinaï openbaarde, Israël de Tora ontving en zij zeiden: “Wij zullen doen en wij zullen horen” (Exodus 24:7).",
+              "notes": [],
+              "uncertainties": [],
+              "original": "דבר אחר, כתפוח בעצי היער דא קב\"ה כן דודי דא קב\"ה, בצלו דא קב\"ה חמדתי וישבתי, ביומא דאתגלי קב\"ה על טורא דסיני וקבילו ישראל אורייתא, ואמרו (שמות כד ז) נעשה ונשמע.",
+              "lang": "arc",
+              "reference": "Zohar I 85b:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "87398ae4eb9cc187ee8a0296dd83bf0ac1ece7c4f4d5802a03f6c0660b6abb4b",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "“En zijn vrucht is zoet voor mijn gehemelte”: dat zijn de woorden van de Tora, waarover geschreven staat: “Zoeter dan honing en honing uit de raat” (Psalm 19:11). Een andere uitleg: “En zijn vrucht is zoet voor mijn gehemelte”: dat zijn de zielen van de rechtvaardigen. Zij allen zijn de vrucht van de werken van de Heilige, gezegend zij Hij, en staan boven bij Hem. Kom en zie: alle zielen van de wereld die de vrucht zijn van de werken van de Heilige, gezegend zij Hij, zijn allen één in één geheim. Wanneer zij naar de wereld afdalen, worden zij onderscheiden in de vormen van mannelijk en vrouwelijk, en dat mannelijke en vrouwelijke zijn als één verbonden. Kom en zie: het verlangen van het vrouwelijke naar het mannelijke brengt een ziel voort, en het verlangen van het mannelijke naar het vrouwelijke brengt een ziel voort.",
+              "notes": [
+                "De bron gebruikt nesjamot voor zielen en vervolgens nefesj bij het voortbrengen van een ziel. Beide zijn hier als “ziel” weergegeven; het verschil in termen blijft in deze noot zichtbaar."
+              ],
+              "uncertainties": [],
+              "original": "ופריו מתוק לחכי, אלין מלין דאורייתא דכתיב בהו (תהלים יט יא) ומתוקים מדבש ונופת צופים. דבר אחר, ופריו מתוק לחכי, אלין נשמתהון דצדיקיא, דכלהו איבא דעובדוי דקב\"ה, וקיימי עמיה לעילא, תא חזי כל נשמתין דעלמא דאינון איבא דעובדוי דקב\"ה, כלהו חד ברזא חד וכד נחתי לעלמא כלהו מתפרשין בגוונין דכר ונוקבא ואינון דכר ונוקבא מחוברין כחדא. ותא חזי תיאובתא דנוקבא לגבי דכורא עביד נפש, ותיאובתא דדכורא לגבי נוקבא עביד נפש.",
+              "lang": "arc",
+              "reference": "Zohar I 85b:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה ב",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "c1c379c29106fd00d0a4b1e05b4f14c95378707283b0089dcc39715e13c757b7",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "Het verlangen dat de wil van het mannelijke naar het vrouwelijke richt, en zijn verbondenheid met haar, brengt een ziel voort. Het omvat het verlangen van het vrouwelijke en neemt dat op. Het verlangen beneden wordt opgenomen in het verlangen boven en zij worden één wil, zonder scheiding. Dan omvat het vrouwelijke alles en wordt zij zwanger van het mannelijke; het verlangen van beiden verbindt zich als één. Daarom is alles in elkaar opgenomen. Wanneer zielen uitgaan, gaan mannelijk en vrouwelijk samen uit. Daarna, wanneer zij afdalen, gaan zij uiteen: de een naar deze zijde, de ander naar die zijde. De Heilige, gezegend zij Hij, brengt hen later als paar bijeen. Het bijeenbrengen van paren is aan geen ander toevertrouwd dan alleen aan de Heilige, gezegend zij Hij, die hun paarverbinding kent, om hen naar behoren te verenigen. Gelukkig is de mens die door zijn daden waardig is en de weg van waarheid gaat, zodat ziel met ziel wordt verbonden zoals zij oorspronkelijk waren. Want als hij door zijn daden waardig is, is hij naar behoren een volkomen mens. Daarom staat geschreven: “En zijn vrucht is zoet voor mijn gehemelte”, want hij is in een gezegende ordening, zodat de wereld door hem gezegend wordt. Alles hangt immers af van de daden van de mens: of hij waardig is of niet.",
+              "notes": [
+                "De bron geeft “zijn verlangen” als variant bij “het verlangen” en bevat het parenthetische woord “neemt”. De doorlopende vertaling volgt de hoofdzin."
+              ],
+              "uncertainties": [
+                "De verwijzing van “hij” bij de gezegende ordening kan op de volkomen mens of de vrucht betrekking hebben."
+              ],
+              "original": "ורעותא דתיאובתא דדכורא לגבי נוקבא, ואתדבקותא דיליה בה אפיק נפש, וכליל תיאובתא (נ\"א תיאובתיה) דנוקבא ונטיל לה, ואתכליל תיאובתא תתאה בתיאובתא דלעילא, ואתעבידו רעותא חדא בלא פרודא, וכדין (נטיל) כליל כלא נוקבא ואתעברת מן דכורא, ותיאובתין דתרוויהו מתדבקן כחדא, ועל דא כלא כליל דא בדא. וכד נשמתין נפקין דכר ונוקבא כחדא נפקין, לבתר כיון דנחתי, מתפרשן דא לסטרא דא ודא לסטרא דא, וקב\"ה מזווג לון לבתר, ולא אתייהיב זווגא לאחרא אלא לקב\"ה בלחודוי, דאיהו ידע זווגא דלהון, לחברא לון כדקא יאות, זכאה הוא בר נש דזכי בעובדוי ואזיל באורח קשוט, בגין דאתחבר נפש בנפש כמה דהוו מעקרא, דהא אי זכי בעובדוי, דא הוא בר נש שלים כדקא יאות, ובגין כך כתיב ופריו מתוק לחכי, דהוא בתקונא מברך, לאתברכא מניה עלמא, בגין דכלא בעובדין דבר נש תליא אי זכי אי לא זכי.",
+              "lang": "arc",
+              "reference": "Zohar I 85b:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה ב",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "d93a3be57758761836d3a89d6b20ca0a0b11e2b5be48d864a917fe24c256f218",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "Rabbi Chizkia zei: zo heb ik gehoord wat er geschreven staat: “Uit Mij wordt je vrucht gevonden” (Hosea 14:9). De Heilige, gezegend zij Hij, zegt tegen de gemeenschap van Israël: zeker, uit Mij wordt je vrucht gevonden. Er staat niet: “Mijn vrucht wordt gevonden”, maar: “Je vrucht.” Dat is het verlangen van het vrouwelijke, dat een ziel voortbrengt en in de kracht van het mannelijke wordt opgenomen. Ziel wordt in ziel opgenomen en zij worden één, het een omvat het ander, zoals wij hebben gezegd. Daarna worden zij beiden in de wereld gevonden. Zo wordt door de kracht van het mannelijke de vrucht van het vrouwelijke gevonden. Een andere uitleg: in het verlangen van het vrouwelijke wordt de vrucht van het mannelijke gevonden. Want zonder het verlangen van het vrouwelijke naar het mannelijke zouden er nooit vruchten ontstaan. Dat is wat geschreven staat: “Uit Mij wordt je vrucht gevonden.”",
+              "notes": [],
+              "uncertainties": [],
+              "original": "א\"ר חזקיה, הכי שמענא דכתיב (הושע יד ט) ממני פריך נמצא, קב\"ה אמר לה לכנסת ישראל, ממני ודאי פריך נמצא, פריי נמצא לא כתיב אלא פריך, ההוא תיאובתא דנוקבא דעביד נפש, ואתכליל בתוקפא דדכורא, ואתכליל נפש בנפש ואתעבידו חד, כליל דא בדא כדאמרן, לבתר אשתכחו תרווייהו בעלמא, ודא בחילא דדכורא אשתכח איבא דנוקבא, דבר אחר, בתיאובתא דנוקבא אשתכח איבא דדכורא, דאי לאו תיאובתא דנוקבא לגבי דכורא, לא אתעבידו פירין לעלמין, הה\"ד ממני פריך נמצא:",
+              "lang": "arc",
+              "reference": "Zohar I 85b:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה ב",
+                "occurrence": 1,
+                "paragraph": 5,
+                "sha256": "74eac0a1aa407b28772327f0c7fd7db76e7e621e56ff7e732b78d8d8f50dbb1b",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "“Het gebeurde in de dagen van Amrafel, de koning van Sinear”, enzovoort. Rabbi Jose opende: “Wie heeft vanuit het oosten gewekt, gerechtigheid roept hem aan haar voet?”, enzovoort (Jesaja 41:2). De metgezellen hebben dit vers uitgelegd, maar in dit vers ligt het geheim van de wijsheid. Want wij hebben geleerd: de Heilige, gezegend zij Hij, maakte boven zeven hemelgewelven. Zij alle dienen om de heerlijkheid van de Heilige, gezegend zij Hij, te doen kennen, en alle staan er om het geheim van het hogere geloof bekend te maken. Kom en zie: er is een verborgen hoger hemelgewelf boven die zeven. Dit is het hemelgewelf dat hen leidt en voor hen allen licht verspreidt. Het is niet gekend en blijft een vraag, iets onbekends, omdat het verborgen en diep is. Allen verwonderen zich erover. Daarom wordt het MI, “Wie?”, genoemd, zoals zij hebben uitgelegd, want er staat geschreven: “Uit de schoot van wie kwam het ijs voort?” (Job 38:29). Dit is al besproken.",
+              "notes": [
+                "MI is het Hebreeuwse vraagwoord “wie?”. De vraagvorm wordt hier zelf een naam voor de verborgen hogere graad."
+              ],
+              "uncertainties": [
+                "De compacte uitleg van Jesaja 41:2 is voorlopig weergegeven met “gerechtigheid” als handelend onderwerp; de syntactische verhouding tussen wekken, roepen en “aan zijn/haar voet” vraagt inhoudelijke controle."
+              ],
+              "original": "ויהי בימי אמרפל מלך שנער וגו'-- רבי יוסי פתח, (ישעיה מא ב) מי העיר ממזרח צדק יקראהו לרגלו וגו', האי קרא אוקמוה חברייא, אבל האי קרא ברזא דחכמתא איהו, דהא תנינן שבעה רקיעין עבד קב\"ה לעילא, וכלהו לאשתמודע יקרא דקב\"ה, וכלהו קיימין לאודעא רזא דמהימנותא עלאה, תא חזי אית רקיעא עלאה סתים, לעילא מנייהו דאינון שבעה, ודא הוא רקיעא דדבר לון ונהיר לון לכלהו, ודא לא אתיידע, וקיימא בשאלתא, דלא ידיעא, בגין דאיהו סתים ועמיק, וכלא תווהין עליה, ובגין כך אקרי מ\"י כמה דאוקמוה, דכתיב (איוב לח כט) מבטן מי יצא הקרח ואתמר.",
+              "lang": "arc",
+              "reference": "Zohar I 85b:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה ב",
+                "occurrence": 1,
+                "paragraph": 6,
+                "sha256": "acd5a690f5cfbea8d9ec38a587837d84df06ee41342dffdc6ccfda82639472f2",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "7",
+              "nl": "En dit is het hogere hemelgewelf…",
+              "notes": [
+                "De korte bronalinea loopt door op I 86a."
+              ],
+              "uncertainties": [],
+              "original": "והאי הוא רקיעא עלאה",
+              "lang": "arc",
+              "reference": "Zohar I 85b:7",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פה ב",
+                "occurrence": 1,
+                "paragraph": 7,
+                "sha256": "f86360ce5ca5220365895dd21bc140b48729e3ac147a2e7d7251d7ae398628cd",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "86a",
+          "title": "I 86a",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "…dat boven al die zeven staat. Beneden is er een hemelgewelf dat lager is dan alle andere en niet licht geeft. Omdat het het laagste is en niet licht geeft, verbindt het hemelgewelf boven hen zich ermee en neemt het deze twee letters in zich op. Het wordt JAM, “zee”, genoemd: dat hogere hemelgewelf dat MI, “Wie?”, genoemd wordt. Want al die andere hemelgewelven worden tot rivieren en stromen erin binnen. Dan is het de hogere zee en brengt het vruchten en vissen naar hun soorten voort. Daarom zei David: “Daar is de zee, groot en wijd uitgestrekt; daar zijn krioelende dieren zonder tal, kleine en grote levende wezens” (Psalm 104:25). Daarom staat geschreven: “Wie heeft vanuit het oosten gewekt, gerechtigheid roept hem aan haar voet” (Jesaja 41:2). “Wie heeft vanuit het oosten gewekt”: dat is Abraham. “Gerechtigheid roept hem aan haar voet”: dat is het laagste hemelgewelf van alle hemelgewelven, dat tot zee is geworden. “Hij geeft volken voor hem over”: wie? Dat is dit laagste hemelgewelf waarover wij spraken, dat wraak oefent en vijanden ten val brengt. Hierin roemde David toen hij zei: “U liet mijn vijanden mij de rug toekeren, en wie mij haten vernietig ik” (Psalm 18:41). “Hij geeft volken voor hem over”: dat zijn de volken die Abraham achtervolgde en die de Heilige, gezegend zij Hij, doodde. (“Hij onderwerpt koningen”: wat betekent “Hij onderwerpt”? Dat zijn de koningen die boven over hen aangesteld zijn. “Hij geeft volken voor hem over”: dat zijn de volken beneden.) “Hij onderwerpt koningen”: dat zijn de grote aangestelde machten boven. Want wanneer de Heilige, gezegend zij Hij, in de wereld recht doet, doet Hij aan allen recht, boven en beneden. “Hij achtervolgt hen; hij trekt in vrede verder, over een weg die hij met zijn voeten niet betreedt” (Jesaja 41:3). “Hij achtervolgt hen”: dat is Abraham. Abraham achtervolgde hen, en de Heilige, gezegend zij Hij, ging voor hem uit en doodde hen. Want er staat: “Hij trekt in vrede verder”: dat is de Heilige, gezegend zij Hij, die Vrede genoemd wordt. “Over een weg die hij met zijn voeten niet betreedt”: zou je denken dat Abraham in wolken reisde, of met paarden en wagens? Maar “over een weg die hij met zijn voeten niet betreedt” betekent dat er voor Abraham geen engel en geen gezant uitging, maar alleen de Heilige, gezegend zij Hij. Want er staat: “Een weg met zijn voeten.” Wie zijn zijn voeten? Dat zijn de engelen, die onder de Heilige, gezegend zij Hij, staan, zoals je zegt: “Zijn voeten zullen op die dag staan”, enzovoort (Zacharia 14:4).",
+              "notes": [
+                "Voortzetting van I 85b. MI (מי, “wie?”) en JAM (ים, “zee”) bestaan uit dezelfde twee Hebreeuwse letters in omgekeerde volgorde. De bron vermeldt “dat is Sara” als variante uitleg bij gerechtigheid, en “onder het volk” naast “in de wereld” bij het recht doen. De verklarende herhaling tussen haakjes is behouden."
+              ],
+              "uncertainties": [
+                "Het wisselen van MI naar JAM en de verwijzingen naar het hoogste en laagste hemelgewelf zijn compact. De overgeleverde overgangen zijn behouden; hun precieze onderlinge verhouding vraagt inhoudelijke controle."
+              ],
+              "original": "דקיימא על כל אינון שבעה, ואית לתתא רקיעא דאיהו תתאה מכלהו ולא נהיר, ובגין דאיהו תתאה דלא נהיר, ההוא רקיעא דעלייהו אתחבר ביה ואלין תרין אתוון כליל לון בגויה, ואקרי ים דההוא רקיעא עלאה דאקרי מ\"י, בגין דכל אינון רקיעין אחרנין אתעבידו נחלין ועאלין לגביה וכדין איהו ים עלאה, ועבד איבין ונונין לזנייהו, ועל דא אמר דוד (תהלים קד כה) זה הים גדול ורחב ידים שם רמש ואין מספר, חיות קטנות עם גדולות. ועל דא כתיב (ישעיה מא ב) מי העיר ממזרח צדק יקראהו לרגלו, מי העיר ממזרח, דא אברהם, צדק יקראהו לרגלו, (נ\"א דא שרה, ד\"א צדק יקראהו לרגלו וגו') דא הוא רקיעא תתאה דכלהו רקיעין דאתעביד ים, יתן לפניו גוים, מאן, האי הוא רקיעא תתאה דאמרן, דעביד נוקמין ואפיל שנאין, ובהאי אשתבח דוד ואמר, (תהלים יח מא) ואויבי נתתה לי עורף ומשנאי אצמיתם, (ישעיה מא ב) יתן לפניו גוים, אלין אינון עמין דהוה רדיף עליהון אברהם, וקב\"ה הוה קטיל לון, (מלכים ירד, (מאי ירד אלא) אלין מלכין דממנן לעילא עלייהו, יתן לפניו גוים, אלין עמין דלתתא) ומלכים ירד, אלין ממנן רברבן דלעילא, דכד עביד קב\"ה דינא בעלמא (ד\"א, בעמא), בכלא עביד דינא בעילא ותתא. ירדפם יעבור שלום, אורח ברגליו לא יבא, (שם) ירדפם דא אברהם, דאברהם הוה רדיף לון, וקב\"ה הוה עבר קמיה וקטיל לון, דכתיב יעבור שלום, דא קב\"ה דאקרי שלום. אורח ברגליו לא יבא, וכי סלקא דעתך דהוה אברהם אזיל בגו ענני, או בגו סוסוון ורתיכין, אלא אורח ברגליו לא יבא, דלא הוה אזיל קמיה דאברהם לא מלאכא ולא שליחא, אלא קב\"ה בלחודוי, דכתיב אורח ברגליו, מאן רגליו אלין מלאכין, דאינון תחותוי דקב\"ה, כמה דאת אמר (זכריה יד ד) ועמדו רגליו ביום ההוא וגו'.",
+              "lang": "arc",
+              "reference": "Zohar I 86a:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פו א",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "1decff53c332562a7dd4c502e0eb6f1e8373c4be4800c3e2a444b3972e0d3e34",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "Een andere uitleg: “Wie heeft vanuit het oosten gewekt?” Kom en zie: toen de Heilige, gezegend zij Hij, de wereld in beweging bracht om Abraham te laten komen en hem tot zich te brengen, was deze opwekking omdat Jakob uit hem zou voortkomen en twaalf stammen zou doen bestaan, allen rechtvaardig voor de Heilige, gezegend zij Hij. “Gerechtigheid roept hem aan haar voet”: de Heilige, gezegend zij Hij, riep hem voortdurend, vanaf de dag waarop de wereld werd geschapen, zoals je zegt: “Die de geslachten vanaf het begin roept” (Jesaja 41:4). Daarom zeker: “Gerechtigheid roept hem.” “Aan haar voet”: om zich in zijn dienst met hem te verbinden en hem tot zich te brengen, zoals je zegt: “Het volk dat aan uw voeten is” (Exodus 11:8).",
+              "notes": [
+                "De uitdrukking “aan de voet” wordt verbonden met het volk dat iemand volgt of dient."
+              ],
+              "uncertainties": [],
+              "original": "דבר אחר, מי העיר ממזרח תא חזי בשעתא דקב\"ה אתער עלמא לאייתאה לאברהם ולקרבא ליה לגביה, האי אתערותא בגין דזמין יעקב למיפק מניה, ולקיימא תריסר שבטין כלהו זכאין קמיה דקב\"ה, צדק יקראהו לרגלו, דקב\"ה הוה קרי ליה תדיר מן יומא דאתברי עלמא, כמה דאת אמר (ישעיה מא ד) קורא הדורות מראש, ובגין כך צדק יקראהו ודאי, לרגלו, לאתחברא ביה בפולחניה, ולקרבא ליה לגביה, כמה דאת אמר (שמות יא ח) העם אשר ברגליך.",
+              "lang": "arc",
+              "reference": "Zohar I 86a:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פו א",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "31e83ff5376f9f9f59c66db3b16ab90ffa5eb246d3b182ba5cfbd966681048e0",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "Een andere uitleg: “Wie heeft vanuit het oosten gewekt?” Daar begint het licht te schijnen, want de kracht van het licht van het zuiden komt uit het oosten. Daarom: “Wie heeft gewekt” — dat licht van het zuiden — “vanuit het oosten”, omdat dit als eerste ontvangt en gevoed wordt. Het verlangen van dat hogere hemelgewelf is om aan het oosten te geven. “Gerechtigheid roept hem aan haar voet”: dat is het westen, dat hem voortdurend roept en niet ophoudt, zoals je zegt: “God, houd U niet stil; zwijg niet en blijf niet rustig, God” (Psalm 83:2). Want het westen richt zich voortdurend tot hem. “Hij geeft volken voor hem over en onderwerpt koningen”: want van hem ontvangt het kracht om al die volken van de wereld te onderwerpen.",
+              "notes": [
+                "Oosten, zuiden en westen zijn hier tevens symbolische richtingen van de hogere graden."
+              ],
+              "uncertainties": [],
+              "original": "דבר אחר, מי העיר ממזרח, דמתמן שרותא דנהורא לאנהרא, בגין דדרום ההוא תוקפא דנהורא דיליה מגו מזרח איהו, ועל דא מי העיר ההוא נהורא דדרום, ממזרח, בגין דאיהו נטיל ואתזן בקדמיתא, ותיאובתא דההוא רקיעא עלאה למיהב ליה למזרח, צדק יקראהו לרגלו, דא מערב, דאיהו קרי ליה תדיר ולא שכיך, כמה דאת אמר (תהלים פג ב) אלהי\"ם אל דמי לך אל תחרש ואל תשקוט אל, בגין דמערב אתער תדיר לגביה, יתן לפניו גוים ומלכים ירד, דהא מניה קביל תוקפא לאכנעא כל אינון עמין דעלמא.",
+              "lang": "arc",
+              "reference": "Zohar I 86a:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פו א",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "432cc3dd54bb446e9b7a701fcf56caadc8f718d9e345a44923c813dafadd2a9a",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "Rabbi Jehoeda zei: “Wie heeft vanuit het oosten gewekt?” Dat is Abraham, die alleen vanuit het oosten tot de Heilige, gezegend zij Hij, werd gewekt. Want hij zag de zon die ’s morgens aan de oostzijde opging en werd in zichzelf gewekt tot de gedachte dat die de Heilige, gezegend zij Hij, was. Hij zei: dit is de koning die mij geschapen heeft. Hij diende hem die hele dag. Tegen de avond zag hij dat de zon verdween, de maan opkwam en haar licht verspreidde. Hij zei: dit is zeker degene die heerst over datgene wat ik de hele dag heb gediend, want dat is voor haar donker geworden en geeft geen licht meer. Hij diende haar die hele nacht. ’s Morgens zag hij dat de duisternis verdween en de oostzijde licht werd. Hij zei: zeker, boven al deze is er een koning en een heerser die ze leidt. Toen de Heilige, gezegend zij Hij, Abrahams verlangen naar Hem zag, openbaarde Hij zich aan hem en sprak met hem. Want er staat: “Gerechtigheid roept hem aan haar voet”: Hij sprak met hem en openbaarde zich aan hem.",
+              "notes": [
+                "De parenthetische bronwoorden “en de maan kwam op” zijn in de doorlopende zin opgenomen."
+              ],
+              "uncertainties": [],
+              "original": "רבי יהודה אמר, (ישעיה מא ב) מי העיר ממזרח, דא אברהם, דלא נטיל אתערותא לגבי קב\"ה אלא ממזרח, בגין דחמא שמשא דנפיק בצפרא מסטרא דמזרח, נטיל אתערותא לנפשיה דאיהו קב\"ה, אמר דא הוא מלכא דברא יתי, ופלח ליה כל ההוא יומא, לרמשא חמא שמשא דאתכניש, (וירחא נפקת) וסיהרא נהרא, אמר דא הוא ודאי דשליט על ההוא פולחנא דפלחית כל האי יומא, דהא אתחשך קמיה ולא נהיר, פלח ליה כל ההוא ליליא, לצפרא חמא דאזלא חשוכא ואתנהיר סטרא דמזרח, אמר ודאי כל אלין מלכא אית עלייהו, ושליט דאנהיג לון, כיון דחמא קב\"ה תיאובתא דאברהם לגביה, כדין אתגלי עלוי ומליל עמיה, דכתיב צדק יקראהו לרגלו דמליל עמיה ואתגלי עליה.",
+              "lang": "arc",
+              "reference": "Zohar I 86a:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פו א",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "2eb895cd6db6b8c4a9040f17e1fee856c507deb27ddb325b5345029077bfd855",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "Rabbi Isaak opende: “Die gerechtigheid spreekt en oprechtheid verkondigt” (Jesaja 45:19)…",
+              "notes": [
+                "De uitleg gaat verder op I 86b."
+              ],
+              "uncertainties": [],
+              "original": "רבי יצחק פתח, (שם מה יט) דובר צדק מגיד מישרים --",
+              "lang": "arc",
+              "reference": "Zohar I 86a:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פו א",
+                "occurrence": 1,
+                "paragraph": 5,
+                "sha256": "a9b425d6494ff8a36c1dc759d85bc30047c9121a2aa484e3185210d65717a1aa",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            }
+          ],
+          "status": "conceptvertaling",
+          "coverage": "Volledig bronfolio met de aanwezige ingebedde secties vertaald; onafhankelijke vakredactie nog open."
+        },
+        {
+          "id": "86b",
+          "title": "I 86b",
+          "completeFolio": true,
+          "passages": [
+            {
+              "id": "1",
+              "nl": "…de Heilige, gezegend zij Hij: al zijn woorden zijn waarheid, en Hij brengt oprechtheid tot stand. Hoe brengt Hij oprechtheid tot stand? Toen de Heilige, gezegend zij Hij, de wereld schiep, kon die niet standhouden en wankelde zij heen en weer. De Heilige, gezegend zij Hij, zei tegen de wereld: wat is er met je, dat je wankelt? Zij zei tegen Hem: Heer van de wereld, ik kan niet standhouden, want ik heb geen fundament waarop ik kan blijven bestaan. Hij zei tegen haar: Ik zal in jou één rechtvaardige doen opstaan, Abraham, die Mij zal liefhebben. Meteen bleef de wereld op haar grondslag staan. Dat is wat geschreven staat: “Dit zijn de ontstaansgeschiedenissen van de hemel en de aarde toen zij geschapen werden” (Genesis 2:4). Lees niet behibbaream, “toen zij geschapen werden”, maar beAvraham, “door Abraham”. Door Abraham blijft de wereld bestaan.",
+              "notes": [
+                "Voortzetting van I 86a. De uitleg herschikt de Hebreeuwse letters van בהבראם tot באברהם en leest daarin Abraham als grondslag voor het bestaan van de wereld."
+              ],
+              "uncertainties": [],
+              "original": "קב\"ה כל מלוי אינון בקושטא, ועביד מישרים, במה עביד מישרים, בגין דכד ברא קב\"ה עלמא לא הוה קאים, והוה מתמוטט להכא ולהכא, א\"ל קב\"ה לעלמא מה לך דאת מתמוטט, א\"ל רבונו של עולם לא יכילנא למיקם דלית בי יסודא על מה דאתקיים, א\"ל הא אנא זמין למיקם בך חד צדיק דאיהו אברהם די ירחים לי, מיד קאים עלמא בקיומיה, הה\"ד (בראשית ב ד) אלה תולדות השמים והארץ בהבראם, אל תקרי בהבראם, אלא באברהם, באברהם מתקיים עלמא.",
+              "lang": "arc",
+              "reference": "Zohar I 86b:1",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פו ב",
+                "occurrence": 1,
+                "paragraph": 1,
+                "sha256": "ddcfd3dea95e7dd626456b1959f8a0b3529807a3bcb9ea9bb1e6f9684bebde50",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "2",
+              "nl": "Rabbi Chijja zei: “Die oprechtheid verkondigt” (Jesaja 45:19). Want de wereld antwoordde de Heilige, gezegend zij Hij: uit die Abraham zullen kinderen voortkomen die het heiligdom zullen verwoesten en de Tora zullen verbranden. Hij zei tegen haar: uit hem zal één mens voortkomen, Jakob, en uit hem zullen twaalf stammen voortkomen, allen rechtvaardig. Meteen bleef de wereld omwille van hem bestaan. Dat is wat geschreven staat: “Die oprechtheid verkondigt.”",
+              "notes": [
+                "De bron heeft als uitgebreidere variant: uit Abraham zal Ismaël voortkomen; het antwoord noemt Isaak, waarop wordt tegengeworpen dat uit hem de schuldige Esau zal voortkomen, die het heiligdom zal verwoesten en de Tora zal verbranden. De hoofdlezing staat in de vertaling."
+              ],
+              "uncertainties": [],
+              "original": "אמר רבי חייא, (ישעיה מה יט) מגיד מישרים, דהא אתיב ליה עלמא לקב\"ה, ההוא אברהם זמין הוא דיפקון מניה בנין דיחריבו מקדשא ויוקידו אורייתא, (נ\"א לנפקא מניה ישמעאל, א\"ל הא יצחק, א\"ל זמין למיפק מניה עשו חייבא דיחרב בי מקדשא ויוקיד אורייתא), אמר ליה זמין חד בר נש למיפק מניה דאיהו יעקב, ויפקון מניה תריסר שבטין כלהו זכאין, מיד אתקיים עלמא בגיניה, הה\"ד מגיד מישרים.",
+              "lang": "arc",
+              "reference": "Zohar I 86b:2",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פו ב",
+                "occurrence": 1,
+                "paragraph": 2,
+                "sha256": "b7a9fb6418503c29936ab790ae9bdc86287eec70a0fae227994782d616879310",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "3",
+              "nl": "Rabbi Elazar zei: wij hebben er al op gewezen dat “hij sprak”, “hij verkondigde” en “hij zei” elk naar hun eigen betekenis worden uitgelegd. “Hij sprak” is in het openbaar: de uiterlijke graad, die geen innerlijke graad is zoals die hogere graden. Dat is: “Die gerechtigheid spreekt.” “Hij verkondigde” zinspeelt op de hogere innerlijke graad die over het spreken heerst. Dat is: “Die oprechtheid verkondigt.” Wat is oprechtheid? Dat is de hogere graad waarin Jakob verblijft. Dat is wat geschreven staat: “U hebt oprechtheid gegrondvest” (Psalm 99:4). Daarom staat er “verkondigt” en niet “spreekt”. Rabbi Isaak zei: er staat toch geschreven: “Hij verkondigde jullie zijn verbond” (Deuteronomium 4:13)? Hij zei tegen hem: zeker, zo is het. Dat is de graad die heerst over de lagere, die “gerechtigheid spreekt”. Dit alles moet hier beschouwd worden. Kom en zie: hoewel het spreken lager is, moet je niet zeggen dat het niet hoog is. Integendeel, het spreken is zeker van alles vervuld en is een hoge graad. Je herkenningsteken is: “Want het is geen leeg woord voor jullie” (Deuteronomium 32:47).",
+              "notes": [
+                "De drie werkwoorden zijn wajedabber, wajjagged en wajjomer. De Nederlandse woorden “spreken”, “verkondigen” en “zeggen” houden dit onderscheid zichtbaar. De gedrukte bronverwijzing geeft Deuteronomium 32:46; het geciteerde “geen leeg woord” staat in vers 47."
+              ],
+              "uncertainties": [
+                "De zin na “gerechtigheid spreekt” is onregelmatig overgeleverd met meerdere korte varianten, waaronder “een vrucht planten”. “Dit alles moet hier beschouwd worden” is een voorlopige weergave van de doorlopende hoofdlezing."
+              ],
+              "original": "רבי אלעזר אמר, הא אתערנא וידבר ויגד ויאמר, כלהו לטעמייהו מתפרשן, וידבר איהו באתגליא דרגא דלבר, דלאו איהו דרגא פנימאה כאינון דרגין עלאין, ודא איהו (שם) דובר צדק ויגד איהו רמז לדרגא פנימאה עלאה דשלטאה על דבור, ודא הוא מגיד מישרים, מאן מישרים דא דרגא עלאה דיעקב שרייא ביה, הה\"ד (תהלים צט ד) אתה כוננת מישרים, ובגין כך מגיד כתיב ולא כתיב דובר, א\"ר יצחק והא כתיב (דברים ד יג) ויגד לכם את בריתו א\"ל הכי הוא ודאי, איהו דרגא דשלטא על תתאה דאיהו דובר צדק, וכלא (בה) איהו (נ\"א לאשתלא איבא) לאסתכלא (איכא) הכא, (נ\"א אתיא), תא חזי דאע\"ג דדבור איהו תתאה, לא תימא דלאו עלאה איהו, אלא ודאי דבור מלייא איהו מכלא ודרגא עלאה איהו, וסימניך (שם לב מו) כי לא דבר רק הוא מכם.",
+              "lang": "arc",
+              "reference": "Zohar I 86b:3",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פו ב",
+                "occurrence": 1,
+                "paragraph": 3,
+                "sha256": "f632f058eb8f0e4b1f91081ec959d403d5bbe5e5c8a936c103f3a83054695510",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "4",
+              "nl": "Rabbi Elazar ging naar het huis van zijn schoonvader; rabbi Chijja, rabbi Jose en rabbi Chizkia waren bij hem. Rabbi Elazar zei: wij zien dat de opwekking boven er alleen is wanneer er beneden iets wordt gewekt, want de opwekking boven hangt af van het verlangen beneden. Hij opende en zei: “God, houd U niet stil; zwijg niet en blijf niet rustig, God” (Psalm 83:2). Dit is de opwekking beneden om heerschappij uit te oefenen. David zei: “God, houd U niet stil”: om zich naar boven te richten en zich met de rechterzijde te verbinden. Waarom? Omdat: “Zie, uw vijanden maken rumoer”, enzovoort. En er staat: “Want eensgezind hebben zij beraadslaagd; tegen U sluiten zij een verbond.” Daarom: “God, houd U niet stil”: om zich naar boven te richten. Want dan wordt de rechterzijde gewekt en verbindt zij haar met zich. Wanneer zij met de rechterzijde verbonden is, worden de vijanden gebroken, want er staat geschreven: “Uw rechterhand, JHWH, is heerlijk in kracht; uw rechterhand, JHWH, verplettert de vijand” (Exodus 15:6).",
+              "notes": [
+                "Bij de vrouwelijke verwijzingen blijft de mystieke graad bedoeld; de rechterzijde verbindt haar met zich. De citaten komen uit Psalm 83:2–6."
+              ],
+              "uncertainties": [],
+              "original": "רבי אלעזר הוה אזיל לבי חמוי, והוו עמיה רבי חייא ורבי יוסי ורבי חזקיה, אמר רבי אלעזר, הא חמינא דאתערותא דלעילא לאו איהו אלא כד אתער לתתא, דהא אתערותא דלעילא בתיאובתא דלתתא תלייא (מלתא), פתח ואמר, (תהלים פג ב) אלהי\"ם אל דמי לך אל תחרש ואל תשקוט אל, דא הוא אתערותא דלתתא בגין לשלטאה, אמר דוד, אלהי\"ם אל דמי לך, לאתערא לגבי עלאה ולאתחברא גבי ימינא, מאי טעמא, בגין (שם ג) כי הנה אויביך יהמיון וגו', (וכתיב) כי נועצו לב יחדיו עליך ברית יכרותו, ובגין כך אלהי\"ם אל דמי לך לאתערא לגבי עילא, דהא כדין אתערת ימינא וקטירת לה בהדה, וכד אתקשרת בימינא, כדין אתבר שנאין, דכתיב (שמות טו ו) ימינך יהו\"ה נאדרי בכח, ימינך יהו\"ה תרעץ אויב.",
+              "lang": "arc",
+              "reference": "Zohar I 86b:4",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פו ב",
+                "occurrence": 1,
+                "paragraph": 4,
+                "sha256": "8d8c3c9061f2b3d1bdcd287f861fa2de41c39610b18538fe735e354461430dec",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "5",
+              "nl": "Kom en zie: toen al die koningen zich verenigden om tegen Abraham oorlog te voeren, beraadslaagden zij om hem uit de wereld weg te nemen. Toen zij Lot, de zoon van Abrahams broer, in handen kregen, gingen zij onmiddellijk weg. Want er staat geschreven: “Zij namen Lot, de zoon van Abrams broer, en zijn bezit mee en vertrokken.” Waarom? Omdat Lots uiterlijk op dat van Abraham leek. Daarom: “Zij vertrokken”, want heel die oorlog was om hem begonnen. Waarom? Omdat Abraham de mensen van de wereld uit de vreemde eredienst wegleidde en hen in de dienst van de Heilige, gezegend zij Hij, bracht. Bovendien wekte de Heilige, gezegend zij Hij, hen in de wereld op om Abrahams naam in de wereld groot te maken en hem tot zijn dienst te brengen. Het geheim van de zaak is dit: toen Abraham werd gewekt om hen te achtervolgen, gold: “God, houd U niet stil”, totdat alles met Abraham verbonden werd. Toen alles met Abraham verbonden was, werden al die koningen voor hem gebroken, zoals wij hebben gezegd, want er staat geschreven: “Uw rechterhand, JHWH, verplettert de vijand”, enzovoort.",
+              "notes": [
+                "Het citaat over Lot is Genesis 14:12."
+              ],
+              "uncertainties": [],
+              "original": "ותא חזי, בשעתא דאתחברו כל אינון מלכין לאגחא קרבא עליה דאברהם, אתייעטו לאעברא ליה מן עלמא, וכיון דשלטו בלוט בר אחוה דאברהם מיד אזלו, דכתיב ויקחו את לוט ואת רכושו בן אחי אברם וילכו, מאי טעמא, בגין דדיוקניה דלוט הוה דמי לאברהם, ובגין כך וילכו, דכל ההוא קרבא בגיניה הוה, מאי טעמא, בגין דהוה אברהם אפיק בני עלמא מפולחנא נוכראה, ואעיל לון בפולחנא דקב\"ה, ותו קב\"ה אתער לון בעלמא בגין לגדלא שמא דאברהם בעלמא, ולקרבא ליה לפולחניה, ורזא דמלה, כיון דאברהם אתער למרדף אבתרייהו, כדין אלהי\"ם אל דמי לך, עד דאתקשר כולא באברהם, וכד אתקשר כולא באברהם, כדין אתברו כלהו מלכין מקמיה כדקא אמרן, דכתיב ימינך יהו\"ה תרעץ אויב וגו':",
+              "lang": "arc",
+              "reference": "Zohar I 86b:5",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פו ב",
+                "occurrence": 1,
+                "paragraph": 5,
+                "sha256": "2eae67bba97addffc31395bb27e089d500bfe42b83abe07e9cb539220822ee71",
+                "url": "https://he.wikisource.org/w/index.php?oldid=547462"
+              }
+            },
+            {
+              "id": "6",
+              "nl": "“Melchizedek, de koning van Salem, bracht brood en wijn naar buiten.” Rabbi Sjimon opende en zei: “In Salem was zijn hut”, enzovoort (Psalm 76:3). Kom en zie: toen bij de Heilige, gezegend zij Hij, de wil opkwam de wereld te scheppen, bracht Hij één vlam voort uit de lamp van de harde duisternis. Hij blies wind tegen wind; zij werd donker en brandde, en bracht vanuit haar midden voort…",
+              "notes": [
+                "De openingswoorden zijn Genesis 14:18. De scheppingsbeschrijving gaat verder op I 87a."
+              ],
+              "uncertainties": [
+                "Boetsina de-kardinuta is voorlopig weergegeven als “lamp van de harde duisternis”; de term heeft meerdere interpretaties. Ook het onderwerp van “zij werd donker en brandde” is niet expliciet."
+              ],
+              "original": "ומלכי צדק מלך שלם הוציא לחם ויין, רבי שמעון פתח ואמר, (תהלים עו ג) ויהי בשלם סכו וגו', תא חזי כד סליק ברעותא דקב\"ה למברי עלמא, אפיק חד שלהובא דבוצינא דקרדינותא, ונשף זיקא בזיקא, חשכאת ואוקידת, ואפיק מגו",
+              "lang": "arc",
+              "reference": "Zohar I 86b:6",
+              "status": "concept",
+              "source": {
+                "file": "data/sources/containers-1.json",
+                "pageId": 261497,
+                "revision": 547462,
+                "section": "דף פו ב",
+                "occurrence": 1,
+                "paragraph": 6,
+                "sha256": "7358aea75515deadf70e655f2710fd171f979c866e4b69ed95bafa5785f9cc2a",
                 "url": "https://he.wikisource.org/w/index.php?oldid=547462"
               }
             }
